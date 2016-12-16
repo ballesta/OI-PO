@@ -1,0 +1,129 @@
+﻿/* Logos membre et partenaires */
+
+.logos item 
+{
+	display:inline-block;
+	margin:20px 20px 20px 20px;
+	text-align:center;
+}
+
+/* J'adhere ! */
+.button.size-huge, a.button.size-huge {
+    line-height: 66px !important;
+    padding: 10px 10px 10px 10px !important;
+    font-size: 300% !important;
+	text-align: center;
+	width: 100%;
+}
+
+.primary-menu > li.current-menu-ancestor > a,
+.primary-menu > li.current-menu-item > a 
+{
+	//background:#B5B9CD;
+	background:#EA581D;
+	color:#FFFFFF;
+}
+
+/* a */
+media="all"
+a, .sub-footer a:hover, .post-categories a:hover, 
+.post-author a:hover, .post-tags a:hover, .post-comments a:hover, 
+.comment .info .name a:hover, .portfolio-thumb .title, 
+.latest-tweets .tweet-status a:hover, .headline-text a:hover, 
+.testimonials-block .item .qo, .post-big .post-title a:hover, 
+.sort-menu li a.button.active .count 
+{
+    color: rgb(247,168,23);
+}	
+
+/* -- Big Info pane -- */
+.biginfopane .button-block 
+{
+    padding: 1px 1px;
+    text-align: left;
+}
+
+.biginfopane .text-block 
+{
+    font-size: 100%;
+}
+
+.biginfopane
+{
+    background-color: #B5B9CD;
+}
+
+/* -- Big Info pane / Button -- */
+.biginfopane .button-block a {
+  background: #B5B9CD;
+  color: #ffffff;
+}
+
+.biginfopane .button-block a:hover {
+  background: #B5B9CD; 
+  color: #ffffff;
+}  
+
+/* Button */
+
+.button, a.button {
+    background-color: #707C98 !important;
+	font-weight:bold;
+}
+
+/* Post texte */
+/* Hover sur post => Affiche texte */
+.post-small .post-big-pic-over {
+    background-color: #B5B9CD;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 
+{
+    margin:20px 0 10px 0;
+}
+
+.username input,
+.password input 
+{
+    height: 25px;
+}
+
+.block-inner 
+{
+    padding-top   : 5px;
+    padding-left  : 18px;
+    padding-right : 26px;
+    padding-bottom: 5px;
+}
+
+
+#bbpress-forums ul.bbp-lead-topic, 
+#bbpress-forums ul.bbp-topics, 
+#bbpress-forums ul.bbp-forums, 
+#bbpress-forums ul.bbp-replies, 
+#bbpress-forums ul.bbp-search-results 
+{
+    font-size: 16px;
+}
+
+/* bbPress */
+li.bbp-forum-info, li.bbp-topic-title 
+{
+  width: 45%;
+}     
+
+li.bbp-forum-topic-count, 
+li.bbp-topic-voice-count,
+li.bbp-forum-reply-count, 
+li.bbp-topic-reply-count 
+{
+  width: 12%;
+}
+
+/* Home menu */
+.block-h-1 {
+    height: 120px;
+}
+
+

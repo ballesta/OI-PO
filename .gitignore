@@ -1,0 +1,7 @@
+# Fichiers compressés
+*.zip
+*.gz
+*.7z
+
+# Sauvegardes
+wp-content/updraft/*

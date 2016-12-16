@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'VFBPro-DataTables';
+	src:url('../fonts/VFBPro-DataTables.eot');
+	src:url('../fonts/VFBPro-DataTables.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/VFBPro-DataTables.woff') format('woff'),
+		url('../fonts/VFBPro-DataTables.ttf') format('truetype'),
+		url('../fonts/VFBPro-DataTables.svg#VFBPro-DataTables') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="vfb-icon-"] {
+*/
+.vfb-icon-arrow-up, .vfb-icon-arrow-right, .vfb-icon-arrow-down, .vfb-icon-arrow-left, .vfb-icon-menu {
+	font-family: 'VFBPro-DataTables';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.vfb-icon-arrow-up:before {
+	content: "\e000";
+}
+.vfb-icon-arrow-right:before {
+	content: "\e001";
+}
+.vfb-icon-arrow-down:before {
+	content: "\e002";
+}
+.vfb-icon-arrow-left:before {
+	content: "\e003";
+}
+.vfb-icon-menu:before {
+	content: "\e004";
+}

@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html class='full-width-template'>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--SEO Settings-->
+    <title>Search Official Documents - OECD</title>
+    
+    
+    
+    
+    <!--End of SEO-->    
+    <!--CSS-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/lib/jquery-ui.min.css" /><!--dialog css custom for dialog ( jquery-ui.min.css - custom for dialogs.css )-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/lib/bootstrap/css/bootstrap.min.css" /><!--bootstrap.min.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/print.css" /><!--bootstrap-override.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/main.css" /><!--main.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/document.css" /><!--document.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/document-elements.css" /><!--document-elements.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/cda.css" /><!--cda.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/components.css" /><!--components.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/user-content.css" /><!--user-content.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/resp_old_diff.css" /><!--resp_old_dif.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/flags.css" /><!--flags.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/corporate/oecd-headers-footers.css" /><!--oecd-headers-footers.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/menu/css/oecd-menu.css" /><!--oecd-menu.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/responsive.css" /><!--responsive.css-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/oecd/css/custom.css" /><!--user.css-->
+    <!--End of css-->
+    <!--call custom style-->
+    <link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/styleassets/responsive/menu/css/current-page-home.css" /><!--current menu-->
+    <!-- Existing link in Old Style -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/officialdocuments/index.xml"/>
+    <link rel="shortcut icon" href='/media/oecdorg/styleassets/images/favicon/favicon.gif'  /> <!-- OECD Satellite templ - Search --> 
+ 
+      
+<!--ie9 below-->
+<script type="text/javascript" src="/media/oecdorg/styleassets/responsive/lib/crossbrowser/Modernizr 2.8.3.min.js"></script><!-- modernizr-2.6.2.min js -->
+<!--html5.js-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/media/oecdorg/styleassets/responsive/lib/crossbrowser/html5shiv-printshiv.js"></script>
+<![endif]-->
+<!-- respond.js -->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/media/oecdorg/styleassets/responsive/lib/crossbrowser/respond.min.js"></script>
+<![endif]-->
+<!--ie9 below-->
+
+<!-- search-exalead.css -->
+<link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/general/officialdocuments/css/search-exalead.css" />
+
+<!-- search.css -->
+<link rel="stylesheet" type="text/css" media="" href="/media/oecdorg/general/officialdocuments/css/search.css" />
+      
+</head>
+<body  class='oecd-body section43229'>
+<!--[if lt IE 8]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<!-- Shared header for all OECD sites -->
+<!-- /oecd-header default-->
+ <header class="oecd-header oecd-header--bg-white oecd-header--primary-hidden">
+  <nav class="container">
+    <div class="row">
+      <div class="col-sm-1 oecd-header__item oecd-header__logo-and-toggle">
+        <div class="oecd-header__logo">
+          <div class="sr-only">
+            Organisation for Economic Co-operation and Development (OECD)
+          </div>
+        </div>
+        <button class="oecd-header__primary-toggle" title="Toggle Menu">
+          <span class="oecd-header__menu-open"></span>
+          <span class="oecd-header__menu-close">×</span>
+          <span class="sr-only">Menu</span>
+        </button>
+      </div>
+      <ul class="oecd-header__primary">
+        <li class="col-sm-2 oecd-header__item oecd-header__item--active">
+          <a href="http://oecd.org/" class="oecd-header__current-page">OECD.org</a>
+        </li>
+        <li class="col-sm-2 oecd-header__item">
+          <a href="http://data.oecd.org" class="oecd-header__link">Data</a>
+        </li>
+        <li class="col-sm-2 oecd-header__item">
+          <a href="http://www.oecd-ilibrary.org/" class="oecd-header__link">Publications</a>
+        </li>
+        <li class="col-sm-2 oecd-header__item oecd-header__secondary-container">
+          <a href="" class="oecd-header__link oecd-header__secondary-toggle">More sites</a>
+          <ul class="sr-only oecd-header__secondary">
+            <li class="oecd-header__item oecd-header__secondary-item oecd-header__secondary-item-first">
+                      <a href="http://www.oecdbetterlifeindex.org/" class="oecd-header__link oecd-header__secondary-link">OECD Better Life Index</a>
+                    </li>
+                    <li class="oecd-header__item oecd-header__secondary-item">
+                      <a href="http://www.oecd-ilibrary.org/" class="oecd-header__link oecd-header__secondary-link">OECD iLibrary</a>
+                    </li>                    
+                    <li class="oecd-header__item oecd-header__secondary-item">
+                      <a href="http://www.oecdobserver.org/" class="oecd-header__link oecd-header__secondary-link">OECD Observer</a>
+                    </li>
+                    <li class="oecd-header__item oecd-header__secondary-item">
+                      <a href="http://oecdinsights.org/" class="oecd-header__link oecd-header__secondary-link">OECD Insights blog</a>
+                    </li>
+                    <li class="oecd-header__item oecd-header__secondary-item">
+                      <a href="http://www.oecd.org/dev/" class="oecd-header__link oecd-header__secondary-link">OECD Development Centre</a>
+                    </li>
+                    <li class="oecd-header__item oecd-header__secondary-item">
+                      <a href="http://www.iea.org/" class="oecd-header__link oecd-header__secondary-link">IEA – International Energy Agency</a>
+                    </li>
+                    <li class="oecd-header__item oecd-header__secondary-item">
+                      <a href="http://www.oecd-nea.org/" class="oecd-header__link oecd-header__secondary-link">NEA – Nuclear Energy Agency</a>
+                    </li>
+                    <li class="oecd-header__item oecd-header__secondary-item">
+                      <a href="http://www.internationaltransportforum.org/" class="oecd-header__link oecd-header__secondary-link">ITF – International Transport Forum</a>
+                    </li>
+                    <li class="oecd-header__item oecd-header__secondary-item oecd-header__secondary-item-last">
+                      <a href="http://www.oecd.org/swac/" class="oecd-header__link oecd-header__secondary-link">SWAC – Sahel and West Africa Club</a>
+                    </li>
+                   
+          </ul>
+        </li>
+        <li class="col-sm-1 oecd-header__item">
+          <a href="http://oecd.org/newsroom/" class="oecd-header__link">News</a>
+        </li>
+        <li class="col-sm-2 oecd-header__item">
+          <a href="http://oecd.org/careers/" class="oecd-header__link">Job vacancies</a>
+        </li>
+      </ul>
+    </div><!-- /row -->
+  </nav><!-- /container -->
+</header>
+<!-- /oecd-header default-->  
+<!-- /oecd-header menu-->
+<div class="oecd-menu oecd-menu--bg-dark-blue">
+         <div class="oecd-menu-top-wrapper">
+            <div class="container">
+               <div class="oecd-menu-top hidden-xs">
+                  <a href='/'>
+                     <div class='pull-left oecd-menu-logo oecd-menu-logo-en'></div>
+                  </a>
+                  <div class="pull-right oecd-search-wrapper">
+                     <div class="oecd-search-before pull-left"></div>
+                     <div class="oecd-search-after pull-left"></div>
+                     <div class="oecd-search pull-left">
+                        <div class="search-a-z-link"><a href="/about/atozindexa-b-c.htm"><i class="glyphicon glyphicon-menu-right icon-after"></i>A to Z</a></div>
+                        <form class="navbar-form" id="main-search-top" method="get" action=""  onsubmit="JavaScript:return false;">
+                           <div class="form-group">
+                             <input type="text" name="q" id="search-input" class="form-control" placeholder='Search oecd.org' />
+                           </div>
+                           <button type="submit" id="search-button" class="btn btn-default btn-search"><i class="glyphicon glyphicon-search"></i></button>
+                        </form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="oecd-menu-bottom-wrapper">
+            <nav class="oecd-navbar navbar navbar-default" style="background-color: white;margin-bottom: 0;">               
+               <div class="container">                  
+                  <div class="collapse navbar-collapse custom-dropdown-wrapper">
+                    <div class="container">
+                        <div class="pull-right" style="padding-right:15px;padding-top:15px;">
+                            <a href="/officialdocuments/years">Archive</a>
+                        </div>
+                    </div>
+                  
+               </div>               
+            </nav>            
+         </div>         
+</div>
+<!-- /oecd-header menu-->
+<div class='section container'><div class="clearer"></div>
+<!-- contents -->
+<div id="content">
+        <!-- No results -->
+        <div id="noResults"></div>
+        <!-- The search bar -->
+        <!-- <div id="headerSearch"></div> -->
+	<!-- <div id="loading">Searching...</div> -->
+	<div id="hitsZone">
+	  <div id="hitsZoneTop"></div>
+	  <div id="searchOptions"></div>
+	  <ol id="hits"></ol>
+	</div>
+	<div id="refineZone"></div>
+</div>
+<!-- Paginations -->
+<ol id="pageNavigation"></ol>
+<div class="clearer"></div></div>
+<!-- Shared footer for all OECD sites --><!-- /oecd-footer default-->
+<footer class="oecd-footer">
+  <div class="oecd-institutional-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-3 col-sm-6 oecd-institutional-footer__name">
+          OECD.org
+        </div>
+        
+
+<div class="col-xs-3 col-sm-2"><a href="https://www.oecd.org/login" title="MyOECD">MyOECD</a></div><div class="col-xs-3 col-sm-2"><a href="/sitemap/">Site Map</a></div>
+
+<div class="col-xs-3 col-sm-2"><a href="/contact/">Contact Us</a></div>
+
+  
+      </div>
+      <!-- /row -->
+    </div>
+    <!-- /container -->
+  </div>
+  <!-- /oecd-institutional-footer -->
+  <div class="oecd-shared-footer oecd-shared-footer--light">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-7 col-sm-6 oecd-shared-footer__logo-and-copyright">
+          <div class="oecd-shared-footer__logo"></div>
+          <div class="oecd-shared-footer__copyright">
+            <span class="oecd-shared-footer__copyright-first">
+              © 2015
+              Organisation for Economic
+            </span>
+            <span class="oecd-shared-footer__copyright-second">
+              Co-operation and Development
+            </span>
+          </div>
+        </div>
+        <div class="col-xs-5 col-sm-3 oecd-shared-footer__terms">
+          <ul class="oecd-shared-footer__links">
+            <li class="oecd-shared-footer__link-item"><a href="/termsandconditions/">Terms and Conditions</a></li>
+
+
+<li class="oecd-shared-footer__link-item"><a href="/privacy/">Privacy Policy</a></li>
+
+
+ 
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-3 oecd-shared-footer__social-media">
+          <p><a href='/social-media/'>Follow us (Social Media):</a></p>
+          <ul class="oecd-shared-footer__icons">
+            <li class="oecd-shared-footer__icon">
+              <a href="http://www.facebook.com/theOECD" class="oecd-shared-footer__icon-link oecd-shared-footer__facebook">Facebook</a>
+            </li>
+            <li class="oecd-shared-footer__icon">
+              <a href="http://twitter.com/oecd" class="oecd-shared-footer__icon-link oecd-shared-footer__twitter">Twitter</a>
+            </li>
+            <li class="oecd-shared-footer__icon">
+              <a href="http://www.youtube.com/oecd" class="oecd-shared-footer__icon-link oecd-shared-footer__youtube">YouTube</a>
+            </li>
+            <li class="oecd-shared-footer__icon">
+              <a href="https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco" class="oecd-shared-footer__icon-link oecd-shared-footer__linkedin">LinkedIn</a>
+            </li>
+            <li class="oecd-shared-footer__icon">
+              <a href="/rssfeeds/" class="oecd-shared-footer__icon-link oecd-shared-footer__rss">RSS</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- /row -->
+    </div>
+    <!-- /container -->
+  </div>
+  <!-- /oecd-shared-footer -->
+</footer>
+<!-- /oecd-footer default-->
+
+<script type="text/javascript">
+	var searchLang = 'en';
+</script>
+<!-- Deps Mnes-->
+<script type="text/javascript" src="/media/oecdorg/styleassets/responsive/lib/jquery/jquery-min.js"></script><!-- jquery.min js -->
+
+<script type="text/javascript" src="/media/oecdorg/styleassets/responsive/lib/bootstrap/js/bootstrap.min.js"></script><!-- bootstrap.min js -->
+<script type="text/javascript" src="/media/oecdorg/styleassets/responsive/corporate/oecd-headers-footers.js"></script><!--oecd-headers-footers.js-->
+<!-- mustache.js -->
+<script type="text/javascript" src="/media/oecdorg/satellitesites/guidelinesformnes/search/js/lib/mustache.min.js"></script>
+<!-- moment.js -->            
+<script type="text/javascript" src="/media/oecdorg/satellitesites/guidelinesformnes/search/js/lib/moment.min.js"></script>
+<!-- jquery.history.js -->
+<script type="text/javascript" src="/media/oecdorg/satellitesites/guidelinesformnes/search/js/lib/jquery.history.js"></script>
+<!-- purl.js -->
+<script type="text/javascript" src="/media/oecdorg/satellitesites/guidelinesformnes/search/js/lib/purl.js"></script>
+<!-- search-advanced.js -->
+<script type="text/javascript" src="/media/oecdorg/satellitesites/guidelinesformnes/search/js/lib/search-advanced.js"></script>
+
+<!-- Search -->
+<!-- search-namespace.js -->            
+<script type="text/javascript" src="/media/oecdorg/general/officialdocuments/js/search-namespace.js"></script>
+<!-- search-ui-templates.js -->            
+<script type="text/javascript" src="/media/oecdorg/general/officialdocuments/js/search-ui-templates.js"></script>
+<!-- search-default-config.js -->            
+<script type="text/javascript" src="/media/oecdorg/general/officialdocuments/js/search-default-config.js"></script>
+<!-- search.js -->            
+<script type="text/javascript" src="/media/oecdorg/general/officialdocuments/js/search.js"></script>
+
+<!-- Customization --> 
+<!-- search-config.js -->            
+<script type="text/javascript" src="/media/oecdorg/general/officialdocuments/js/search-config.js"></script>
+
+<!-- navigation object : Google Analytics -->
+<script type="text/javascript">
+  var originalOecdGA = 'UA-29376537-1';
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount' , originalOecdGA]);
+  _gaq.push(['_trackPageview']);
+
+  if(window["customGACode"] != undefined && window["customGACode"] != '') {
+    _gaq.push(['account2._setAccount' , window["customGACode"]]);
+    _gaq.push(['account2._trackPageview']);
+  }
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  
+
+</body></html>

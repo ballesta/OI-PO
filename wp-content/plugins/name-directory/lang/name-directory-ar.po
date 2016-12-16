@@ -1,0 +1,567 @@
+# Copyright (C) 2015 Name Directory
+# This file is distributed under the same license as the Name Directory package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Name Directory 1.7.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/name-directory\n"
+"POT-Creation-Date: 2015-03-10 23:48:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-24 14:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: AMS <a@ams.ly>\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: Arabic\n"
+
+#: admin.php:13
+msgid "Name Directory Options"
+msgstr "خيارات دليل الأسماء"
+
+#. #-#-#-#-#  name-directory.pot (Name Directory 1.7.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin.php:14
+msgid "Name Directory"
+msgstr "دليل الأسماء"
+
+#: admin.php:27 admin.php:265 admin.php:567 admin.php:846
+msgid "You do not have sufficient permissions to access this page."
+msgstr "ليس لديك الصلاحيات الكافية للوصول لهذه الصفحة"
+
+#: admin.php:73
+msgid "Name directory %s and all entries deleted"
+msgstr "دليل الاسماء %s تم حذف كل المدخلات"
+
+#: admin.php:85
+msgid "Name Directory management"
+msgstr "ادارة دليل الاسماء"
+
+#: admin.php:86
+msgid "Add directory"
+msgstr "اضافة دليل"
+
+#: admin.php:111
+msgid "Directory %s updated."
+msgstr "تم حديث %s الدليل"
+
+#: admin.php:138
+msgid "Directory %s created."
+msgstr "تم انشاء %s الدليل"
+
+#: admin.php:144
+msgid "name directory"
+msgstr "دليل الاسماء"
+
+#: admin.php:144
+msgid "name directories"
+msgstr "ادلة الاسماء"
+
+#: admin.php:147
+msgid "You currently have %d %s."
+msgstr "انت تملك حاليا %d %s."
+
+#: admin.php:156 admin.php:168 admin.php:313
+msgid "Title"
+msgstr "العنوان / اللفب"
+
+#: admin.php:158 admin.php:170
+msgid "Entries"
+msgstr "مدخلات"
+
+#: admin.php:159 admin.php:171 admin.php:708 admin.php:805
+msgid "Published"
+msgstr "منشور"
+
+#: admin.php:160 admin.php:172
+msgid "Unpublished"
+msgstr "غير منشور"
+
+#: admin.php:208
+msgid "Add, edit and remove names"
+msgstr "اضافة، تعديل وحذف اسماء"
+
+#: admin.php:208
+msgid "Manage names"
+msgstr "ادارة الأسماء"
+
+#: admin.php:209
+msgid "Go to the add-name-form on the Manage page"
+msgstr "اذهب الى اضافة-حقل-اسم من صفحة الادارة"
+
+#: admin.php:209 admin.php:751
+msgid "Add name"
+msgstr "اضافة اسم"
+
+#: admin.php:210
+msgid "Edit name, description and appearance settings"
+msgstr "تعديل اسم، وصف واعدادات الظهور"
+
+#: admin.php:210
+msgid "Settings"
+msgstr "اعدادات"
+
+#: admin.php:211
+msgid "Import entries for this directory by uploading a .csv file"
+msgstr "ادخال مدخلات لهذا الدليل بواسطة ملف .csv"
+
+#: admin.php:211
+msgid "Import"
+msgstr "ادخال"
+
+#: admin.php:212
+msgid "Show the copy-paste shortcode for this directory"
+msgstr "اظهار الترميز القصير لـ نسخ-لصق لهذا الدليل"
+
+#: admin.php:212
+msgid "Shortcode"
+msgstr "ترميز قصير"
+
+#: admin.php:213
+msgid "Permanently remove this name directory"
+msgstr "حذف هذا الدليل كليا"
+
+#: admin.php:213 admin.php:732
+msgid "Delete"
+msgstr "حذف"
+
+#: admin.php:215
+msgid "Number of names in this directory"
+msgstr "عدد الاسماء في هذا الدليل"
+
+#: admin.php:231
+msgid "To show your directory on your website, use the shortcode on the right."
+msgstr "لاظهار الدليل في موقعك استخدم الترميز القصير الموجود على اليمين"
+
+#: admin.php:232
+msgid "Copy the code and paste it in a post or in a page."
+msgstr "انسخ الترميز وضعه في مقال او صفحة"
+
+#: admin.php:233
+msgid ""
+"If you want to start with a specific character, like \"J\", use "
+"[namedirectory dir=\"X\" start_with=\"j\"]."
+msgstr ""
+" اذا رغبت ان يبدأ التصنيف بحرف معين استخدم الترميز القصير التالي  "
+"[namedirectory dir=\"X\" start_with=\"j\"]."
+
+#: admin.php:283 admin.php:285
+msgid "Create new name directory"
+msgstr "تكوين دليل جديد"
+
+#: admin.php:284
+msgid "Create"
+msgstr "تكوين"
+
+#: admin.php:286
+msgid "Complete the form below to create a new name directory."
+msgstr "اكمل النموذج في الاسفل لتكوين دليل جديد"
+
+#: admin.php:290
+msgid "Edit this directory"
+msgstr "تعديل الدليل"
+
+#: admin.php:291
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: admin.php:292
+msgid "Edit name directory"
+msgstr "تعديل اسم الدليل"
+
+#: admin.php:294
+msgid "You are editing the name, description and settings of directory %s"
+msgstr "انت تقوم بتعديل الاسم. الوصف والاعدادات للدليل %s"
+
+#: admin.php:297 admin.php:698 admin.php:757
+msgid "Back to the directory overview"
+msgstr "العودة لمعاينة الدليل"
+
+#: admin.php:317 admin.php:706 admin.php:799 shortcode.php:27 shortcode.php:75
+msgid "Description"
+msgstr "الوصف"
+
+#: admin.php:321
+msgid "Show title"
+msgstr "اظهار العنوان او اللقب"
+
+#: admin.php:325 admin.php:346 admin.php:367 admin.php:388 admin.php:409
+#: admin.php:430 admin.php:455 admin.php:480 admin.php:808 helpers.php:63
+msgid "Yes"
+msgstr "نعم"
+
+#: admin.php:337 admin.php:358 admin.php:379 admin.php:400 admin.php:421
+#: admin.php:442 admin.php:467 admin.php:492 admin.php:505 admin.php:816
+#: helpers.php:66
+msgid "No"
+msgstr "لا"
+
+#: admin.php:342
+msgid "Show description"
+msgstr "اظهار الوصف"
+
+#: admin.php:363
+msgid "Submit form"
+msgstr "ادخال النموذج"
+
+#: admin.php:384
+msgid "Submitter name"
+msgstr "اسم المدخل"
+
+#: admin.php:405
+msgid "Show line between names"
+msgstr "اظهار خط بين الاسماء"
+
+#: admin.php:426
+msgid "Show search form"
+msgstr "اظهار نموذج البحث"
+
+#: admin.php:448
+msgid "Show all names by default"
+msgstr "اظهار كل الاسماء"
+
+#: admin.php:450
+msgid "If no, user HAS to use the index before entries are shown"
+msgstr ""
+"اذا كان الاختيار لا/ يجب على المستخدم ان يستعمل الفهرس قبل اظهار النتائج"
+
+#: admin.php:473
+msgid "Show all letters on index"
+msgstr "اظهار كل الحروف في الفهرس"
+
+#: admin.php:475
+msgid "If no, just A B D E are shown if there are no entries starting with C"
+msgstr ""
+"اذا كان الاختيار لا / فقط حروف A B D E ستظهر ان لم يكن هناك مدخلات تبدأ بحرف "
+"C"
+
+#: admin.php:498
+msgid "Show most recent names"
+msgstr "اظهار اخر الاسماء"
+
+#: admin.php:500
+msgid "If No, frontend will not show 'Latest' option."
+msgstr "اذا كان الجواب لا،  الواجهة الامامية لن تظهر الاختيار \"الاخير\"."
+
+#: admin.php:520
+msgid "Number of columns"
+msgstr "عدد الاعمدة"
+
+#: admin.php:544
+msgid "Cancel"
+msgstr "الغاء"
+
+#: admin.php:579
+msgid "Name %s deleted"
+msgstr "تم حذف %s الاسم"
+
+#: admin.php:599 admin.php:605
+msgid "Name %s updated"
+msgstr "تم تحديث %s الاسم"
+
+#: admin.php:616
+msgid "Name %s was already on the list, so it was not added"
+msgstr "الاسم %s موجود مسبقا في القائمة"
+
+#: admin.php:638 admin.php:645
+msgid "New name %s added"
+msgstr "اسم جديد %s تم اضافته"
+
+#: admin.php:639
+msgid "Will be visible when the page is refreshed."
+msgstr "سيتم اظهاره بعد تحديث الصفحة"
+
+#: admin.php:652 admin.php:657 shortcode.php:92
+msgid "Please fill in at least a name"
+msgstr "ارجوا ادخال اسم واحد على الاقل"
+
+#: admin.php:688
+msgid "Manage names for %s"
+msgstr "ادارة الاسماء لـ %s"
+
+#: admin.php:693 admin.php:914
+msgid "all"
+msgstr "الجميع"
+
+#: admin.php:694
+msgid "published"
+msgstr "منشور"
+
+#: admin.php:695
+msgid "unpublished"
+msgstr "غير منشور"
+
+#: admin.php:705 admin.php:795 shortcode.php:25 shortcode.php:74
+msgid "Name"
+msgstr "الاسم"
+
+#: admin.php:707
+msgid "Submitter"
+msgstr "الناشر"
+
+#: admin.php:709
+msgid "Manage"
+msgstr "ادارة"
+
+#: admin.php:717
+msgid "Currently, there are no names in this directory.."
+msgstr "حاليا لايوجد اسماء في هذا الدليل"
+
+#: admin.php:729
+msgid "Toggle published status"
+msgstr "تبديل حالة النشر"
+
+#: admin.php:731
+msgid "Edit"
+msgstr "تعديل"
+
+#: admin.php:745
+msgid "Edit a name"
+msgstr "تعديل اسم"
+
+#: admin.php:746
+msgid "Save name"
+msgstr "حفظ اسم"
+
+#: admin.php:750
+msgid "Add a new name"
+msgstr "اضافة اسم جديد"
+
+#: admin.php:781
+msgid "Show the compact form, showing only the name, always published)"
+msgstr "اظهار نموذج الادخال، اظهار الاسم فقط، منشور بشكل دائم"
+
+#: admin.php:783
+msgid "Quick add view"
+msgstr "نموذج ادخال سريع"
+
+#: admin.php:785
+msgid ""
+"Show the full form, which allows you to enter a description and submitter"
+msgstr "اظهار نموذج الادخال كاملا، مما يسمح بادخال وصف قصير واسم الناشر"
+
+#: admin.php:787
+msgid "Full add view"
+msgstr "نموذج ادخال كامل"
+
+#: admin.php:801
+msgid "Please be careful!"
+msgstr "الرجاء الحذر!"
+
+#: admin.php:802
+msgid ""
+"HTML markup is allowed and will we printed on your website and in the "
+"Wordpress admin."
+msgstr "علامات HTML مسموحة وسيتم طباعتها في موقعك"
+
+#: admin.php:820 shortcode.php:76
+msgid "Submitted by"
+msgstr "تم الادخال بواسطة"
+
+#: admin.php:903
+msgid "Imported %d entries in this directory"
+msgstr "الاسماء %d المدخلة في هذا الدليل"
+
+#: admin.php:909
+msgid "Could not import any names into Name Directory"
+msgstr "لم يتمكن البرنامج من ادخال اي اسماء في دليل الاسماء"
+
+#: admin.php:916
+msgid ""
+"Ignored %s names, because they were duplicate (already in the directory)"
+msgstr "تم تجاهل الاسماء %s ، بسبب تكررها في الدليل"
+
+#: admin.php:921
+msgid "please check your .csv-file"
+msgstr "الرجاء معاينة ملف ال csv"
+
+#: admin.php:937
+msgid "Import names for %s"
+msgstr "ادخال اسماء لـ %s"
+
+#: admin.php:941
+msgid ""
+"Use the upload form below to upload a .csv-file containing all of your names "
+"(in the first column), description and submitter are optional."
+msgstr ""
+"استخدم نموذج التحميل في الاسفل لتحميل ملف csv يحمل جميع الاسماء. (في العامود "
+"الاول)، الوصف والمدخل حقول اختيارية."
+
+#: admin.php:942
+msgid "If you saved it from Excel or OpenOffice, please ensure that:"
+msgstr "ان قمت بحفظ الملف من برنامج اكسل او اوبن اوفس نرجوا تاكيد هذا:"
+
+#: admin.php:943
+msgid ""
+"There is a header row (this contains the column names, the first row will "
+"NOT be imported)"
+msgstr "يوجد ترويسة صف (الصف الاول لن يتم ادخاله)."
+
+#: admin.php:944
+msgid "Fields are encapsulated by double quotes"
+msgstr "يتم احاطة الحقوق بعلامات تنصيص"
+
+#: admin.php:945
+msgid "Fields are comma-separated"
+msgstr "الحقول مفصولة بعلامة فاصلة"
+
+#: admin.php:947
+msgid "If uploading or importing fails, these are your options"
+msgstr "اذا فشلت عملية التحميل، هذه هي الاختيارات المتاحلة لك"
+
+#: admin.php:948
+msgid "Please check out %s first and ensure your file is formatted the same."
+msgstr "الرجاء التاكد من %s اولا وقم بالتاكد من صيغة وتنسيق الملف"
+
+#: admin.php:950
+msgid "the example import file"
+msgstr "مثال ادخال ملف"
+
+#: admin.php:959
+msgid "Use an online File Convertor"
+msgstr "استخدم محول الملفات"
+
+#: admin.php:961
+msgid "If everything else fails, you can always ask a question at the %s."
+msgstr "اذا فشلت كل المحاولات. يمكنك توجيه سؤال على %s."
+
+#: admin.php:963
+msgid "plugin support forums"
+msgstr "منتدى الدعم الفني"
+
+#: admin.php:969
+msgid ""
+"Name Directory Import requires PHP 5.3, you seem to have in older version. "
+"Importing names will not work for your website."
+msgstr ""
+"دليل الاسماء يتطلب PHP5.3 ويبدو انك تمتلك نسخة اقدم. ادخال الاسماء لن يعمل "
+"في موقعك."
+
+#: admin.php:973
+msgid "Upload your .csv-file"
+msgstr "تحميل ملف csv"
+
+#: admin.php:977
+msgid "Back to %s"
+msgstr "الرجوع الى %s"
+
+#: admin.php:979
+msgid "Go to Name Directory Overview"
+msgstr "الذهاب لمراجعة دليل الاسماء"
+
+#: shortcode.php:26
+msgid "Required"
+msgstr "مطلوب"
+
+#: shortcode.php:28
+msgid "Your name"
+msgstr "اسمك"
+
+#: shortcode.php:29
+msgid "Submit"
+msgstr "ادخال"
+
+#: shortcode.php:30
+msgid "Back to name directory"
+msgstr "العودة الى دليل الاسماء"
+
+#: shortcode.php:46
+msgid "Sorry, %s was already on the list so your submission was not sent."
+msgstr "عفوا، %s موجود مسبقا في القائمة. اضافتك لم ترسل."
+
+#: shortcode.php:67
+msgid "Thank you for your submission! It will be reviewed shortly."
+msgstr "شكرا لعملية الادخال. سيتم مراجعتها قريبا."
+
+#: shortcode.php:71
+msgid "New submission for Name Directory"
+msgstr "اضافة جديدة من دليل الاسماء"
+
+#: shortcode.php:72
+msgid "Howdy,"
+msgstr "مرحبا،"
+
+#: shortcode.php:73
+msgid "There was a new submission to the Name Directory on %s at %s"
+msgstr "هناك ادخال جديد في دليل الاسماء في %s عند %s"
+
+#: shortcode.php:77
+msgid "This new submission does not have the published status."
+msgstr "الادخال الجديد لايحتوي على حالة للنشر"
+
+#: shortcode.php:78
+msgid ""
+"Please login to your WordPress admin to review and accept the submission."
+msgstr "الرجاء الدخول لـ لوحة التحكم ومراجعة الادخالات"
+
+#: shortcode.php:85
+msgid "Something must have gone terribly wrong. Would you please try it again?"
+msgstr "حدث خطأ ما، ارجوا اعادة المحاولة."
+
+#: shortcode.php:161
+msgid "All"
+msgstr "الجميع"
+
+#: shortcode.php:162
+msgid "Latest"
+msgstr "احدث"
+
+#: shortcode.php:218 shortcode.php:325
+msgid "Submit a name"
+msgstr "ادخال اسم"
+
+#: shortcode.php:237
+msgid "Search for..."
+msgstr "البحث عن"
+
+#: shortcode.php:238
+msgid "Search"
+msgstr "بحث"
+
+#: shortcode.php:246
+msgid "There are currently %d names in this directory"
+msgstr "يوجد حاليا %d اسم في هذا الدليل"
+
+#: shortcode.php:250
+msgid "There are %d names in this directory containing the search term %s."
+msgstr "يوجد حاليا %d اسم في هذا الدليل بناءآ على شروط البحث %s."
+
+#: shortcode.php:251
+msgid "Clear results"
+msgstr "مسح النتائج"
+
+#: shortcode.php:255
+msgid "Showing %d most recent names in this directory"
+msgstr "اظهار %d اخر اسماء في هذا الدليل"
+
+#: shortcode.php:259
+msgid "There are %d names in this directory beginning with the letter %s."
+msgstr "يوجد %d اسم في هذا الدليل تبدأ بالحرف %s."
+
+#: shortcode.php:266
+msgid "There are no names in this directory at the moment"
+msgstr "لايوجد اي اسماد في هذا الدليل حاليا"
+
+#: shortcode.php:270
+msgid "Please select a letter from the index (above) to see entries"
+msgstr "الرجاء اختيار حرف من الفهرس (في الاعلى) لمشاهد النتائج"
+
+#: shortcode.php:295
+msgid "Submitted by:"
+msgstr "تم الادخال بواسطة:"
+
+#. #-#-#-#-#  name-directory.pot (Name Directory 1.7.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  name-directory.pot (Name Directory 1.7.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.jeroen.in"
+msgstr "http://www.jeroen.in"
+
+#. Description of the plugin/theme
+msgid ""
+"A Name Directory, i.e. for animal names. Visitors can add, search or just "
+"browse all names."
+msgstr "دليل الاسماء. يسمح باضافة وتصفح جميع الاسماء"
+
+#. Author of the plugin/theme
+msgid "Jeroen Peters"
+msgstr "Jeroen Peters"

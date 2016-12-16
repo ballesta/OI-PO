@@ -1,0 +1,200 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	   "http://www.w3.org/TR/html4/loose.dtd">	
+
+<html lang="fr">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Updated" content="">
+<meta name="keywords" lang="fr" content="Insee, ">
+<meta name="description" lang="fr" content="">
+<title>Insee - Publications - Documents du site de la "Commission sur la Mesure de la Performance Économique et du Progrès Social"</title>
+<style type="text/css" media="all" title="Style Insee 3G">@import url("/fr/css/insee.css");</style>
+
+<script type="text/javascript" src="/fr/jquery/jquery-latest.js"></script>
+<!-- Jquery UI : chargement des modules nécessaires-->
+<script type="text/javascript" src="/fr/jquery/jquery-ui/jquery.ui.core.min.js"></script>
+<script type="text/javascript" src="/fr/jquery/jquery-ui/jquery.ui.widget.min.js"></script>
+<script type="text/javascript" src="/fr/jquery/jquery-ui/jquery.ui.mouse.min.js"></script>
+<script type="text/javascript" src="/fr/jquery/jquery-ui/jquery.ui.slider.min.js"></script>
+<script type="text/javascript" src="/fr/jquery/jquery-ui/jquery.ui.position.min.js"></script>
+<script type="text/javascript" src="/fr/jquery/jquery-ui/jquery.ui.menu.min.js"></script>
+<script type="text/javascript" src="/fr/jquery/jquery-ui/jquery.ui.autocomplete.min.js"></script>
+
+<script type="text/javascript" src="/fr/jquery/date.inc.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_slider_graph.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_commun.js?v=1"></script>
+<script type="text/javascript" src="/fr/jquery/j_url.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_arbo.js"></script>
+<!-- Autocomplétion -->
+<script type="text/javascript" src="/fr/jquery/j_autocomplete_ui.js"></script>
+
+<script type="text/javascript" src="/fr/jquery/j_prerempli.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_infobulle.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_map_regions.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_menu_onglets.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_carousel.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_carte_multi.js"></script>
+<script type="text/javascript" src="/fr/jquery/j_multi_figures.js"></script>
+<!--Lanceur qui appelle tous les plugins-->
+<script type="text/javascript" src="/fr/jquery/j_lanceur.js"></script>
+<!-- Style -->
+<!--<link rel="stylesheet" type="text/css" href="/fr/css/jquery/ac_autocomplete.css">-->
+
+<link rel="stylesheet" type="text/css" href="/fr/actualites/enquetes/style.css"><link rel="alternate" type="application/rss+xml" title="Insee.fr : toutes les actualités" href="/fr/actualites/nouveau.xml.asp">
+<link rel="alternate" type="application/rss+xml" title="Insee.fr : conjoncture" href="/fr/actualites/conjoncture.xml.asp">
+<link rel="alternate" type="application/rss+xml" title="Insee.fr : publications" href="/fr/actualites/publications.xml.asp">
+<link rel="alternate" type="application/rss+xml" title="Insee.fr : communiqués de presse" href="/fr/actualites/compresse.xml.asp">
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</head>
+<body class="publications-et-services">
+<div id="acces-rapide">
+	<p class="acces-rapide"><a href="#fil-ariane">Aller au contenu</a></p>
+	<p class="acces-rapide"><a href="#menuprincipal">Aller au menu principal</a></p>
+</div>
+
+<div id="conteneur">
+<div id="entete">
+	<p class="acces-rapide">Liens transversaux haut</p>
+	<ul id="entete-lienhaut">
+		<li id="navigation-mobile" class="premier"><a href="/fr/mobile" title="Version mobile du site">Version mobile</a></li>
+		<li id="navigation-contact"><a href="/fr/service/default.asp?page=nous-contacter/nous-contacter.htm" title="Nous contacter" accesskey="3">Nous contacter</a></li>
+		<li id="navigation-presse"><a href="/fr/service/default.asp?page=presse/presse.htm" title="Espace presse">Espace presse</a></li>
+		<li id="navigation-langue"><span lang="eng">English</span></li>
+	</ul>
+	<div id="entete-logorecherche">
+		<div class="logo" id="top">
+			<a href="/fr/default.asp" title="Retour à la page d'accueil du site" accesskey="1">
+				<img src="/fr/css/images/logo_insee.png" alt="Institut national de la statistique et des études économiques" title="Institut national de la statistique et des études économiques"/>
+			</a>
+		</div>
+		<div id="itemgoogle">
+			<form action="http://www.google.com/cse" id="cse-search-box2">
+				<input type="hidden" name="cx" value="011031962541167842879:radlwwkh1lw"/>
+				<input type="hidden" name="ie" value="ISO-8859-1"/>
+				<input type="hidden" name="nojs" value="1"/>
+				<div id="zone-recherche">
+					<input type="text" value="Chercher sur le site" name="q" size="44" maxlength="255" class="champ_recherche j_prerempli"/>
+					<input type="submit" name="sa" value="" class="loupe"/>
+				</div>
+				<label id="chercher">
+					<a href="http://www.google.com/">
+						<img id="google" src="/fr/img/google_home.png" alt="Google"/>
+					</a>
+				</label>
+			</form>
+		</div>
+	</div>
+	<div id="entete-navigationprincipale">
+		<p class="acces-rapide" id="menuprincipal">Menu principal</p>
+		<p class="acces-rapide"><a href="#contenu" accesskey="2">Passer le menu</a></p>
+		<p class="acces-rapide"><a href="/fr/publications-et-services/default.asp?page=accessibilite.htm#raccourcis-clavier" accesskey="0">Liste des raccourcis</a></p>
+		<p class="acces-rapide"><a href="/fr/publications-et-services/default.asp?page=services/aide.htm" accesskey="4">Aide</a></p>
+		<ul class="boutons-liste">
+			<li class="bouton-accueil"><a href="/fr/default.asp" title="Page d'accueil du site">Accueil</a></li>
+			<li class="bouton-themes"><a href="/fr/themes/" title="Emploi, Entreprises, Population, Salaires, Tourisme...">Thèmes</a></li>
+			<li class="bouton-bases-de-donnees"><a href="/fr/bases-de-donnees/" title="Indices, recensement, données locales, Sirene...">Bases de données</a></li>
+			<li class="bouton-publications"><a href="/fr/publications-et-services/" title="Collections nationales et régionales, dossiers, ...">Publications</a></li>
+			<li class="bouton-regions"><a href="/fr/regions/" title="L'Insee en régions, conjoncture, publications, partenariats, actualités">Régions</a></li>
+			<li class="bouton-methodes"><a href="/fr/methodes/" title="Définitions, nomenclatures, sources et méthodes">Définitions et méthodes</a></li>
+			<li class="bouton-stat-pub"><a href="/fr/insee-statistique-publique/default.asp" title="Connaître l'Insee, ses missions, la statistique publique, ...">L'Insee et la statistique publique</a></li>
+			<li class="bouton-services"><a href="/fr/service/" title="Réviser votre pension, loyer, bail ou contrat, entreprises et création d'entreprises, assistance (questions/réponses, contact), abonnements, ...">Services</a></li>
+		</ul>
+	</div>
+</div>
+		<div id="navigation-gauche">
+			<div class="bloc">
+			<h3>Publications</h3>
+			<ul class="liens">
+				<li><a  href="default.asp?page=collections-nationales.htm" title="Collections nationales" >Collections nationales</a>				</li>
+				<li><a href="/fr/publications-et-services/collections-regionales.asp" title="Collections régionales" >Collections régionales</a>				</li>
+				<li class="parent"><a  href="default.asp?page=dossiers_web.htm" title="Dossiers" >Dossiers</a>					<ul>
+					<li><a  href="default.asp?page=dossiers_web/action-sociale-departementale/action-sociale-departementale.htm" title="Action sociale départementale" >Action sociale départementale</a>					</li>
+					<li><a href="/fr/themes/document.asp?reg_id=0&amp;ref_id=dev-durable/" title="Développement durable" >Développement durable</a>					</li>
+					<li><a  href="default.asp?page=dossiers_web/femmes-hommes/femmes-hommes.htm" title="Femmes et hommes" >Femmes et hommes</a>					</li>
+					<li><a  href="default.asp?page=dossiers_web/chomage/chomage.htm" title="Chômage" >Chômage</a>					</li>
+					<li><a  href="default.asp?page=dossiers_web/projections-population/projections-population.htm" title="Projections de population" >Projections de population</a>					</li>
+					<li><a  href="default.asp?page=dossiers_web/population/population_intro.htm" title="Population" >Population</a>					</li>
+					<li><a  href="default.asp?page=dossiers_web/inegalites_sociales/inegalites_sociales.htm" title="Indicateurs d'inégalités sociales" >Indicateurs d'inégalités sociales</a>					</li>
+					</ul>
+				</li>
+				<li><a  href="default.asp?page=insee-bref.htm" title="L'Insee en bref" >L'Insee en bref</a>				</li>
+				<li><a  href="default.asp?page=infographies.htm" title="Animations interactives et vidéos" >Animations interactives et vidéos</a>				</li>
+			</ul>
+			</div>
+		</div>
+		<div id="fil-ariane">
+			<ul>
+				<li><a href="/fr/" title="Accueil">Accueil</a></li>
+				<li><a href="/fr/publications-et-services/" title="Publications">Publications</a></li>
+				<li><a  href="default.asp?page=dossiers_web.htm" title="Dossiers">Dossiers</a></li>
+				<li><a  href="default.asp?page=dossiers_web/stiglitz/performance_eco.htm" title="Performances &#233;conomiques et progr&#232;s social - Les suites du rapport Stiglitz">Performance...</a></li>
+				<li>Documents du site de la "Commission sur la Mesure de la Performance Économique et du Progrès Social"</li>
+			</ul>
+		</div>
+
+	<div id="contenu">
+  	<div id="col-centre">  	<h1>Documents du site de la "Commission sur la Mesure de la Performance Économique et du Progrès Social"</h1> 		<p class="maj">Septembre 2015</p> 	<img src="/fr/publications-et-services/dossiers_web/stiglitz/paysage.jpg" alt="image commission"> 	<h2>Le rapport de la commision</h2> 		<ul class="liens"> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/RAPPORT_francais.pdf">Rapport de la Commission sur la mesure des performances économiques et du progrès social</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/RAPPORT_anglais.pdf">Report by the Commission on the Measurement of Economic Performance and Social Progress</a></li> 		</ul> 	<h2>Annexes</h2> 		<ul class="liens"> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/overview_francais.pdf">Réflexions et vue d’ensemble des questions abordées</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/overview_eng.pdf">Reflections and Overview</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/Issues_Paper_VF.pdf">Note problématique</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/Issues_paper.pdf">Issues paper</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/Beyond_GDP.pdf">Beyond GDP: Is There Progress in the Measurement of Individual Well-Being and Social Welfare?</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/capability_approach.pdf">The Capability Approach to the Quality of Life</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/draft_summary.pdf">DRAFT SUMMARY</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/Individual_Well-Being_and_Social_Welfare.pdf">Individual well-being and social welfare : Notes on the theory</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/Minutes_first_plenary_session_Commission_Measurement_Economic_Performance_Social_Progress.pdf">Minutes Of the first plenary session of the Commission On the Measurement of Economic Performance and Social Progress Paris, 22 - 23 April 2008</a></li> 			<li class="pdf"><a href="/fr/publications-et-services/dossiers_web/stiglitz/doc-commission/Survey_of_Existing_Approaches_to_Measuring_Socio-Economic_Progress.pdf">SURVEY OF EXISTING APPROACHES TO MEASURING SOCIO-ECONOMIC PROGRESS</a></li> 		</ul>		 	</div> 
+	</div>
+<!-- fin contenu -->
+<!-- fin contenu -->
+<div id="piedepage" class="pdp-francais">
+	<div id="piedepage-liensbas">
+		<p class="acces-rapide">Liens transversaux bas</p>
+		<div id="niveau-un-deux-trois">
+			<ul id="lienstransversauxbas-niveau1">
+				<li class="navigation-titre">Retrouver nos services</li>
+				<li id="navigation-pension"><a href="/fr/service/default.asp?page=reviser/contrats-pensions-loyers-baux.htm" title="Réviser pension, loyer, bail ou contrat">Réviser une pension, un loyer, bail ou contrat</a></li>
+				<li id="navigation-immatriculation-sirene"><a href="/fr/service/default.asp?page=entreprises/demarches-immatriculation.htm" title="Démarches pour immatriculer une entreprise">Immatriculer une entreprise</a></li>
+				<li id="navigation-avis-sirene-lei"><a href="/fr/service/default.asp?page=entreprises/identification-entreprises.htm" title="Avis de situation SIRENE, numéro LEI">Avis de situation SIRENE, numéro <acronym title="Identifiant unique des intervenants sur les marchés financiers">LEI</acronym></a></li>
+				<li id="navigation-bibliotheque"><a href="/fr/service/default.asp?page=bibliotheque/bibliotheque.htm" title="Consulter les ressources documentaires de l'Insee">Consulter les ressources documentaires de l'Insee</a></li>
+				<li id="navigation-agendas"><a href="/fr/service/default.asp?page=agendas/agendas.htm" title="Consulter les agendas de diffusion">Consulter les agendas de diffusion</a></li>
+				<li id="navigation-enquetes"><a href="/fr/service/default.asp?page=enquetes/enquetes-menages-entreprises.htm" title="Répondre à nos enquêtes">Répondre à une enquête de l'Insee</a></li>
+			</ul>
+			<ul id="lienstransversauxbas-niveau2">
+				<li id="navigation-boutique"><a href="/fr/publications-et-services/default.asp?page=achat-publications.htm" title="Acheter nos publications">Acheter nos publications</a></li>
+				<li class="navigation-titre">Vous et l'Insee</li>
+				<li id="navigation-faq"><a href="/fr/service/default.asp?page=nous-contacter/faq.htm" title="Questions les plus fréquentes">Questions les plus fréquentes</a></li>
+				<li id="navigation-contact-information"><a href="/fr/service/default.asp?page=nous-contacter/nous-contacter.htm" title="Faire une demande d'information statistique">Nous écrire</a></li>
+				<li id="navigation-contact-presse"><a href="/fr/service/default.asp?page=presse/presse.htm" title="Contacter le service de presse">Contacter le service de presse</a></li>
+				<li id="navigation-concours"><a href="/fr/insee-statistique-publique/default.asp?page=connaitre/metiers.htm" title="Travailler à l'Insee">Travailler à l'Insee</a></li>
+				<li id="navigation-collectes"><a href="/fr/insee-statistique-publique/default.asp?page=insee-communes/collecte.htm" title="Activités de collecte avec les communes">Activités de collecte entre l'Insee et les communes</a></li>
+			</ul>
+			<ul id="lienstransversauxbas-niveau3">
+				<li class="navigation-titre">Nous suivre</li>
+				<li id="navigation-lettre"><a href="/fr/service/default.asp?page=nous-suivre/lettres-information.htm" title="Lettres d'information"><img alt="Lettres d'information" src="/fr/img/lettres.png"/></a>
+					<a href="/fr/service/default.asp?page=nous-suivre/lettres-information.htm" title="Lettres d'information">Lettres d'information</a></li>
+				<li id="navigation-avis-parution"><a href="/fr/service/formulaire.asp?page=nous-suivre/avis-de-parution.htm" title="Avis de parutions"><img alt="Avis de parutions" src="/fr/img/avis.png"/></a>
+					<a href="/fr/service/formulaire.asp?page=nous-suivre/avis-de-parution.htm" title="Avis de parutions">Avis de parutions</a></li>
+				<li id="navigation-flux-rss"><a href="/fr/service/default.asp?page=nous-suivre/rss.htm" title="Flux RSS"><img src="/fr/img/rss.png" alt="Flux RSS"/></a>
+					<a href="/fr/service/default.asp?page=nous-suivre/rss.htm" title="Flux RSS">Flux RSS</a></li>
+				<li id="navigation-twitter"><a href="http://twitter.com/InseeFr" title="Twitter"><img src="/fr/img/twitter.png" alt="Twitter"/></a>
+					<a href="http://twitter.com/InseeFr" title="Twitter">Twitter</a></li>
+				<li id="navigation-slideshare"><a href="http://www.slideshare.net/InseeFr" title="SlideShare"><img alt="SlideShare" src="/fr/img/slideshare.png"/></a>
+					<a href="http://www.slideshare.net/InseeFr" title="SlideShare">SlideShare</a></li>
+			</ul>
+		</div>
+		<ul id="lienstransversauxbas-niveau4">
+			<li class="navigation-titre">Sites partenaires</li>
+			<li id="navigation-sse"><a href="/fr/insee-statistique-publique/default.asp?page=sites-statistiques/systeme-stat-europeen.htm" title="Système Statistique Européen (SSE)"><img src="/fr/img/sse.png" alt="Système statistique européen"/></a></li>
+			<li id="navigation-edutheque"><a href="/fr/insee-statistique-publique/default.asp?page=sites-statistiques/insee-edutheque.htm" title="éduthèque"><img src="/fr/img/edutheque.png" alt="éduthèque"/></a></li>
+			<li id="navigation-apprendre"><a href="http://statapprendre.education.fr/insee/" title="Apprendre avec les données de l'Insee"><img src="/fr/img/logo-statapprendre.jpg" alt="Apprendre avec les données de l'Insee"/></a></li>
+			<li id="navigation-reseau-quetelet"><a href="http://www.reseau-quetelet.cnrs.fr/spip/" title="Réseau Quetelet"><img src="/fr/img/logoquetelet-petit.png" alt="Réseau Quetelet"/></a></li>
+			<li id="navigation-casd"><a href="https://casd.eu/" title="Centre d'Accès Sécurisé Distant aux données (CASD)"><img src="/fr/img/logo-casd-bas-page.png" alt="Centre d'Accès Sécurisé Distant aux données (CASD)"/></a></li>
+			<li id="navigation-data-gouv"><a href="http://www.data.gouv.fr" title="data.gouv"><img src="/fr/img/data-gouv.png" alt="site data.gouv"/></a></li>
+		</ul>
+		<ul id="lienstransversauxbas-niveau5">
+			<li id="copyright" class="premier">© Insee</li>
+			<li id="navigation-credits"><a href="/fr/service/default.asp?page=rediffusion/copyright.htm" title="Mentions légales et crédits">Mentions légales et crédits</a></li>
+			<li id="navigation-rediffusion"><a href="/fr/service/default.asp?page=rediffusion/rediffusion.htm" title="Conditions d'utilisation de nos données">Conditions d'utilisation de nos données</a></li>
+			<li id="navigation-accessibilite"><a href="/fr/service/default.asp?page=rediffusion/accessibilite.htm" title="Accessibilité">Accessibilité</a></li>
+			<li id="navigation-homologation"><a href="/fr/service/default.asp?page=rediffusion/homologation.htm" title="Sécurité">Sécurité</a></li>
+			<li id="navigation-plansite"><a href="/fr/service/plan-du-site.asp" title="Plan du site">Plan du site</a></li>
+		</ul>
+	</div>
+</div>
+</div> <!-- Fin de la div conteneur-->
+
+</body>
+</html>

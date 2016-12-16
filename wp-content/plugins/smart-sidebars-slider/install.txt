@@ -1,0 +1,30 @@
+SMART Plugins on CodeCanyon, WordPress plugin:
+
+Smart Sidebars Slider
+
+Package Contents
+--------------------------------------
+1. Documentation is located in directory `docs` in smart-sidebars-slider directory.
+2. `install.txt` (this file) is located in in smart-sidebars-slider directory.
+
+Installation instructions
+--------------------------------------
+Via FTP:
+-----------------------
+1. Unpack this archive.
+2. Upload `smart-sidebars-slider` folder to your website `wp-content/plugins` folder.
+3. Activate plugin Smart Sidebars Slider from WordPress admin Plugins panel.
+
+Via WordPress Install:
+-----------------------
+1. In WordPress administration, open Plugins -> Add New
+2. Switch from Search to Upload on the top of the page
+3. Browse to the plugin package zip on your computer
+4. Click Install Now button
+5. Activate plugin Smart Sidebars Slider from WordPress admin Plugins panel.
+
+Installation tutorial:
+-----------------------
+To get more detailed information about installing and upgrading plugin,
+please visit SMART Plugins website for a free tutorial:
+http://www.smartplugins.info/tutorial/general-wordpress/installing-wordpress-plugins/

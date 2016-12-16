@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-03-02 20:46:27
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.0
+WORDPRESS:	4.4.2
+PHP INFO:	5.5.32 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (256M default) 
+MEMORY STACK: 56.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:110 | filtered:0 | create:110 
+FILTERED: [] 
+SQL CREATED: 20160118_observatoiredelimmateriel_56d75001902ad4772160302204137_database.sql 
+SQL FILE SIZE: 23.5MB (24646757) 
+SQL FILE TIME: 2016-03-02 20:46:42 
+SQL RUNTIME: 15.74 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /homepages/29/d602079523/htdocs/sites/observatoire-immateriel 
+ARCHIVE FILE: 20160118_observatoiredelimmateriel_56d75001902ad4772160302204137_archive.zip 
+FILTERS: *ON* 
+DIRS:  /homepages/29/d602079523/htdocs/sites/observatoire-immateriel/wp-content/cache;/homepages/29/d602079523/htdocs/sites/observatoire-immateriel/wp-content/uploads; 
+EXTS:  zip;rar;tar;gz;bz2;7z; 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	179.94MB 
+STATS:	Dirs 1,647 | Files 11,776 
+SQL ADDED: 20160118_observatoiredelimmateriel_56d75001902ad4772160302204137_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 13423
+    [filename] => /homepages/29/d602079523/htdocs/sites/observatoire-immateriel/wp-snapshots/tmp/20160118_observatoiredelimmateriel_56d75001902ad4772160302204137_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 74.36MB 
+ARCHIVE RUNTIME: 22.67 sec. 
+MEMORY STACK: 61.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/homepages/29/d602079523/htdocs/sites/observatoire-immateriel/wp-snapshots/tmp/20160118_observatoiredelimmateriel_56d75001902ad4772160302204137_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 23.5MB 
+Installer File: 319.02KB 
+Archive File: 74.36MB  
+
+********************************************************************************
+RECORD ID:[12]
+TOTAL PROCESS RUNTIME: 38.89 sec.
+PEAK PHP MEMORY USED: 65MB
+DONE PROCESSING => 20160118_observatoiredelimmateriel 2016-03-02 20:47:06
+ 

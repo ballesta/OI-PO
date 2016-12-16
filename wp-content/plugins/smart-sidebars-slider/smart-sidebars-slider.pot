@@ -1,0 +1,1299 @@
+#: forms/about.php:23
+msgid "sale"
+msgid_plural "sales"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:31
+#: forms/index.php:4
+msgid "Settings"
+msgstr ""
+
+#: core/admin.php:81
+msgid "Are you sure that you want to do this? Operation is not reversable."
+msgstr ""
+
+#: core/admin.php:296
+#: core/admin.php:298
+#: core/admin.php:298
+#: forms/index.php:19
+msgid "Smart Sidebars Slider"
+msgstr ""
+
+#: core/admin.php:296
+msgid "Sidebars Slider"
+msgstr ""
+
+#: core/admin.php:311
+msgid "Website"
+msgstr ""
+
+#: core/admin.php:312
+msgid "On CodeCanyon"
+msgstr ""
+
+#: core/admin.php:313
+msgid "On Twitter"
+msgstr ""
+
+#: core/admin.php:314
+msgid "On Facebook"
+msgstr ""
+
+#: core/admin.php:318
+msgid "Information"
+msgstr ""
+
+#: core/admin.php:319
+msgid "Add newsletter subscription forms to the website using widgets, shortcodes or functions with support for many subscription services."
+msgstr ""
+
+#: core/admin.php:320
+msgid "Useful Links"
+msgstr ""
+
+#: core/admin.php:321
+msgid "Plugin Homepage"
+msgstr ""
+
+#: core/admin.php:322
+msgid "Plugin On CodeCanyon"
+msgstr ""
+
+#: core/admin.php:327
+msgid "Support"
+msgstr ""
+
+#: core/admin.php:328
+msgid "Support Reources"
+msgstr ""
+
+#: core/admin.php:329
+msgid "Official Support Forum"
+msgstr ""
+
+#: core/classes.php:239
+msgid "Site wide active"
+msgstr ""
+
+#: core/classes.php:241
+msgid "Manual activation"
+msgstr ""
+
+#: core/export.php:54
+msgid "Only administrators can use export features."
+msgstr ""
+
+#: core/export.php:62
+msgid "Nothing is selected for export."
+msgstr ""
+
+#: core/plugins.php:26
+msgid "bbPress Content"
+msgstr ""
+
+#: core/plugins.php:36
+msgid "BuddyPress Content"
+msgstr ""
+
+#: core/plugins.php:46
+msgid "WooCommerce Content"
+msgstr ""
+
+#: core/plugins.php:56
+msgid "Smart Audio Playlist Content"
+msgstr ""
+
+#: core/plugins.php:62
+msgid "JigoShop Content"
+msgstr ""
+
+#: core/rules.php:7
+#: forms/rules.php:57
+#: forms/rules.php:60
+msgid "Post Types Archives"
+msgstr ""
+
+#: core/rules.php:8
+#: forms/rules.php:82
+#: forms/rules.php:85
+msgid "Post Types Single Posts"
+msgstr ""
+
+#: core/rules.php:9
+#: forms/rules.php:106
+#: forms/rules.php:109
+msgid "Posts by ID"
+msgstr ""
+
+#: core/rules.php:10
+#: forms/rules.php:127
+#: forms/rules.php:130
+msgid "Taxonomies Archives"
+msgstr ""
+
+#: core/rules.php:11
+#: forms/rules.php:151
+#: forms/rules.php:154
+msgid "Date Based Archives"
+msgstr ""
+
+#: core/rules.php:12
+msgid "Other Pages"
+msgstr ""
+
+#: core/rules.php:13
+#: forms/rules.php:200
+#: forms/rules.php:203
+msgid "Plugins Content"
+msgstr ""
+
+#: core/rules.php:37
+msgid "Any date archive"
+msgstr ""
+
+#: core/rules.php:38
+msgid "Year archives"
+msgstr ""
+
+#: core/rules.php:39
+msgid "Month archives"
+msgstr ""
+
+#: core/rules.php:40
+msgid "Day archives"
+msgstr ""
+
+#: core/rules.php:44
+msgid "Front Page"
+msgstr ""
+
+#: core/rules.php:45
+msgid "Search Results Page"
+msgstr ""
+
+#: core/rules.php:46
+msgid "404 Error Page"
+msgstr ""
+
+#: core/rules.php:47
+msgid "Author Archive Pages"
+msgstr ""
+
+#: forms/about.php:39
+msgid "Add extra sidebars that will be hidden behind tab on left or right side of the screen."
+msgstr ""
+
+#: forms/about.php:43
+msgid "About Plugin"
+msgstr ""
+
+#: forms/about.php:52
+msgid "Plugin on the Web"
+msgstr ""
+
+#: forms/about.php:28
+msgid "uploaded on"
+msgstr ""
+
+#: forms/about.php:29
+msgid "last update"
+msgstr ""
+
+#: forms/about.php:45
+msgid "Version"
+msgstr ""
+
+#: forms/about.php:46
+msgid "Date"
+msgstr ""
+
+#: forms/about.php:47
+msgid "Build"
+msgstr ""
+
+#: forms/auto.php:6
+msgid "With auto positioning, plugin will ignore some of the sidebars individual settings and it will automatically calculate location of tabs to prevent overlaps."
+msgstr ""
+
+#: forms/auto.php:8
+#: forms/defaults.php:8
+#: forms/settings.php:27
+msgid "Save Settings"
+msgstr ""
+
+#: forms/auto.php:10
+msgid "With too many sidebars with big tabs are on one screen side, proper positioning can be a problem."
+msgstr ""
+
+#: forms/auto.php:13
+#: forms/defaults.php:10
+#: forms/settings.php:29
+msgid "For more information about all settings, the way the sidebar is positioned, please consult the user guide."
+msgstr ""
+
+#: forms/auto.php:18
+msgid "Left Screen Side"
+msgstr ""
+
+#: forms/auto.php:23
+#: forms/auto.php:26
+#: forms/auto.php:105
+#: forms/auto.php:108
+#: forms/index.php:5
+msgid "Auto Position"
+msgstr ""
+
+#: forms/auto.php:29
+#: forms/auto.php:111
+#: forms/rules.php:63
+#: forms/rules.php:88
+#: forms/rules.php:112
+#: forms/rules.php:133
+#: forms/rules.php:157
+#: forms/rules.php:181
+#: forms/rules.php:206
+msgid "Active"
+msgstr ""
+
+#: forms/auto.php:34
+#: forms/auto.php:37
+#: forms/auto.php:116
+#: forms/auto.php:119
+msgid "Wrapper Offset"
+msgstr ""
+
+#: forms/auto.php:41
+#: forms/auto.php:123
+#: forms/sidebar.php:252
+msgid "Offset is space between sidebar and the screen edge defined by Anchor."
+msgstr ""
+
+#: forms/auto.php:42
+#: forms/auto.php:55
+#: forms/auto.php:68
+#: forms/auto.php:81
+#: forms/auto.php:124
+#: forms/auto.php:137
+#: forms/auto.php:150
+#: forms/auto.php:163
+#: forms/defaults.php:47
+#: forms/defaults.php:59
+#: forms/defaults.php:71
+#: forms/defaults.php:89
+#: forms/sidebar.php:253
+#: forms/sidebar.php:266
+#: forms/sidebar.php:279
+#: forms/sidebar.php:319
+#: forms/sidebar.php:411
+#: forms/sidebar.php:424
+msgid "This value has to be positive number, and it is in pixels."
+msgstr ""
+
+#: forms/auto.php:47
+#: forms/auto.php:50
+#: forms/auto.php:129
+#: forms/auto.php:132
+msgid "Wrapper Edge"
+msgstr ""
+
+#: forms/auto.php:54
+#: forms/auto.php:136
+#: forms/sidebar.php:265
+msgid "Edge is space between sidebar and the screen edge oposite to Anchor."
+msgstr ""
+
+#: forms/auto.php:60
+#: forms/auto.php:63
+#: forms/auto.php:142
+#: forms/auto.php:145
+#: forms/sidebar.php:403
+msgid "Tab Offset"
+msgstr ""
+
+#: forms/auto.php:67
+#: forms/auto.php:149
+#: forms/sidebar.php:410
+msgid "Offset is space between tab and sidebar content on the side defined by Anchor."
+msgstr ""
+
+#: forms/auto.php:73
+#: forms/auto.php:76
+#: forms/auto.php:155
+#: forms/auto.php:158
+#: forms/sidebar.php:416
+msgid "Tab Edge"
+msgstr ""
+
+#: forms/auto.php:80
+#: forms/auto.php:162
+#: forms/sidebar.php:423
+msgid "Edge is on oposite side to offset for the tab, and it is minimal space allowed when resizing sidebar."
+msgstr ""
+
+#: forms/auto.php:86
+#: forms/auto.php:89
+#: forms/auto.php:168
+#: forms/auto.php:171
+msgid "Tab Spacing"
+msgstr ""
+
+#: forms/auto.php:93
+#: forms/auto.php:175
+msgid "This option defines space between two tabs. This value has to be positive number, and it is in pixels."
+msgstr ""
+
+#: forms/auto.php:100
+msgid "Right Screen Side"
+msgstr ""
+
+#: forms/css.php:4
+msgid "On the right side you have CSS generated for the selected style. You can use this CSS as an example to create fully custom style of your own and make changes that go beyond what this Styler can do."
+msgstr ""
+
+#: forms/css.php:6
+msgid "Edit Style"
+msgstr ""
+
+#: forms/defaults.php:6
+msgid "This panel contains default sidebar settings will be used only by newely added sidebars."
+msgstr ""
+
+#: forms/defaults.php:16
+#: forms/sidebar.php:177
+msgid "Style and Location"
+msgstr ""
+
+#: forms/defaults.php:20
+#: forms/sidebar.php:199
+msgid "Minimal Browser Size"
+msgstr ""
+
+#: forms/defaults.php:23
+#: forms/defaults.php:94
+#: forms/defaults.php:97
+#: forms/sidebar.php:202
+#: forms/sidebar.php:299
+#: forms/sidebar.php:302
+#: forms/sidebar.php:390
+#: forms/sidebar.php:393
+msgid "Width and Height"
+msgstr ""
+
+#: forms/defaults.php:28
+#: forms/sidebar.php:207
+msgid "If the browser size is smaller than dimensions set here, sidebar will not be active. This can be used if you want to hide sidebar on small screen devices."
+msgstr ""
+
+#: forms/defaults.php:29
+#: forms/defaults.php:102
+#: forms/sidebar.php:208
+#: forms/sidebar.php:307
+#: forms/sidebar.php:398
+msgid "These values have to be positive numbers, and both in pixels."
+msgstr ""
+
+#: forms/defaults.php:36
+#: forms/sidebar.php:215
+msgid "Sidebar Wrapper"
+msgstr ""
+
+#: forms/defaults.php:40
+#: forms/defaults.php:43
+#: forms/sidebar.php:245
+#: forms/sidebar.php:248
+msgid "Offset"
+msgstr ""
+
+#: forms/defaults.php:52
+#: forms/defaults.php:55
+#: forms/sidebar.php:258
+#: forms/sidebar.php:261
+msgid "Edge"
+msgstr ""
+
+#: forms/defaults.php:64
+#: forms/defaults.php:67
+msgid "Space"
+msgstr ""
+
+#: forms/defaults.php:78
+#: forms/sidebar.php:295
+msgid "Sidebar Container"
+msgstr ""
+
+#: forms/defaults.php:82
+#: forms/sidebar.php:312
+#: forms/sidebar.php:315
+msgid "Padding"
+msgstr ""
+
+#: forms/defaults.php:85
+#: forms/sidebar.php:406
+msgid "Top Offset"
+msgstr ""
+
+#: forms/impexp.php:1
+#: forms/impexp.php:11
+msgid "Export Plugin Settings"
+msgstr ""
+
+#: forms/impexp.php:3
+msgid "Plugin settings (one or more records stored in the WordPress options table), sidebars and custom styles will be exported as serialized string and saved into text file that can be imported on this or any other WordPress installation. Do not make any modifications to this file, or later import will fail!"
+msgstr ""
+
+#: forms/impexp.php:7
+msgid "Export Custom Styles"
+msgstr ""
+
+#: forms/impexp.php:9
+msgid "Export Sidebars Settings"
+msgstr ""
+
+#: forms/impexp.php:14
+msgid "Export"
+msgstr ""
+
+#: forms/impexp.php:20
+#: forms/impexp.php:30
+msgid "Import Plugin Settings"
+msgstr ""
+
+#: forms/impexp.php:22
+msgid "You need valid, unmodified export file (.sss extension), generated by the export tool on this page. Importing data will overwrite all exisiting data!"
+msgstr ""
+
+#: forms/impexp.php:26
+msgid "Import Custom Styles"
+msgstr ""
+
+#: forms/impexp.php:28
+msgid "Import Sidebars Settings"
+msgstr ""
+
+#: forms/impexp.php:34
+msgid "Import"
+msgstr ""
+
+#: forms/index.php:22
+msgid "Settings saved."
+msgstr ""
+
+#: forms/index.php:24
+msgid "Style settings saved."
+msgstr ""
+
+#: forms/index.php:26
+msgid "Style deleted."
+msgstr ""
+
+#: forms/index.php:28
+msgid "Sidebar settings saved."
+msgstr ""
+
+#: forms/index.php:30
+msgid "Sidebar deleted."
+msgstr ""
+
+#: forms/index.php:32
+msgid "File import failed."
+msgstr ""
+
+#: forms/index.php:34
+msgid "Nothing imported."
+msgstr ""
+
+#: forms/index.php:6
+#: forms/style.php:35
+msgid "Defaults"
+msgstr ""
+
+#: forms/index.php:7
+msgid "Sidebars"
+msgstr ""
+
+#: forms/index.php:8
+msgid "Styler"
+msgstr ""
+
+#: forms/index.php:9
+msgid "Export / Import"
+msgstr ""
+
+#: forms/index.php:14
+msgid "About"
+msgstr ""
+
+#: forms/jquery.php:8
+msgid "If you need to control sidebars from JavaScript for extra interaction, you can use jQuery code to open or close the sidebar."
+msgstr ""
+
+#: forms/jquery.php:11
+msgid "To use these examples it is required to have knowledge of JavaScript and jQuery!"
+msgstr ""
+
+#: forms/jquery.php:16
+msgid "Open / Close Sidebar"
+msgstr ""
+
+#: forms/jquery.php:20
+#: forms/jquery.php:23
+msgid "Open"
+msgstr ""
+
+#: forms/jquery.php:27
+msgid "Opens the sidebar if it is closed."
+msgstr ""
+
+#: forms/jquery.php:32
+#: forms/jquery.php:35
+msgid "Close"
+msgstr ""
+
+#: forms/jquery.php:39
+msgid "Closes the sidebar if it is open."
+msgstr ""
+
+#: forms/jquery.php:44
+#: forms/jquery.php:47
+msgid "Toggle"
+msgstr ""
+
+#: forms/jquery.php:51
+msgid "Opens the sidebar if it is closed or closes sidebar if it is open."
+msgstr ""
+
+#: forms/jquery.php:58
+msgid "Show / Hide Sidebar"
+msgstr ""
+
+#: forms/jquery.php:62
+#: forms/jquery.php:65
+msgid "Show"
+msgstr ""
+
+#: forms/jquery.php:69
+msgid "Show sidebar if it is hidden. Do not abuse this operation and attempt to show sidebars hidden when another sidebar is open."
+msgstr ""
+
+#: forms/jquery.php:74
+#: forms/jquery.php:77
+msgid "Hide"
+msgstr ""
+
+#: forms/jquery.php:81
+msgid "Hide sidebar if it is visible."
+msgstr ""
+
+#: forms/rules.php:21
+msgid "Here you can setup when the sidebar will be display. You can set it as site wide, manual or you can create set of rules."
+msgstr ""
+
+#: forms/rules.php:23
+#: forms/sidebar.php:88
+msgid "Save Sidebar"
+msgstr ""
+
+#: forms/rules.php:27
+msgid "Select Rules Mode"
+msgstr ""
+
+#: forms/rules.php:31
+#: forms/rules.php:34
+msgid "Mode"
+msgstr ""
+
+#: forms/rules.php:43
+msgid "Custom Rules"
+msgstr ""
+
+#: forms/rules.php:47
+#: forms/rules.php:50
+#: forms/rules.php:232
+#: forms/rules.php:235
+msgid "Notice"
+msgstr ""
+
+#: forms/rules.php:51
+msgid "Sidebar will be visible on pages that have at least one of the rules matched."
+msgstr ""
+
+#: forms/rules.php:120
+msgid "List of post/page ID's, comma separated"
+msgstr ""
+
+#: forms/rules.php:175
+#: forms/rules.php:178
+msgid "Other Pages and Archives"
+msgstr ""
+
+#: forms/rules.php:228
+msgid "Manual Activation Hook"
+msgstr ""
+
+#: forms/rules.php:237
+msgid "Manual activation hook can be used always, regardless of the mode you selected. This hook (WordPress filter) is unique for each sidebar, and it expects values TRUE/FALSE (to display/hide sidebar)."
+msgstr ""
+
+#: forms/rules.php:238
+msgid "If you set mode to manual, this filter initial value is always FALSE. If you set to site wide, value is always TRUE. If mode is on custom rules, initial value for this filter depends on the rules detection."
+msgstr ""
+
+#: forms/rules.php:243
+#: forms/rules.php:246
+msgid "Filter Name"
+msgstr ""
+
+#: forms/rules.php:6
+msgid "Site wide"
+msgstr ""
+
+#: forms/rules.php:7
+msgid "Manual only"
+msgstr ""
+
+#: forms/rules.php:8
+msgid "Custom rules"
+msgstr ""
+
+#: forms/settings.php:25
+msgid "This panel contains general plugin settings. If you want for plugin to auto position tabs for each sidebar slider, use Tab auto position options."
+msgstr ""
+
+#: forms/settings.php:34
+msgid "Sidebars Sliders Position"
+msgstr ""
+
+#: forms/settings.php:39
+#: forms/settings.php:42
+msgid "Page Position"
+msgstr ""
+
+#: forms/settings.php:46
+msgid "This is position relative to browser window. Fixed will keep sidebars always on screen is same location even when page is scrolling."
+msgstr ""
+
+#: forms/settings.php:47
+msgid "Relative position can cause some strange scrollbars effects with many themes."
+msgstr ""
+
+#: forms/settings.php:53
+#: forms/settings.php:56
+msgid "Embed Location"
+msgstr ""
+
+#: forms/settings.php:60
+msgid "In some cases (related to some themes), DOM location to add sidebars can be relevant, so here you can switch between bottom or top of BODY to embed sidebars HTML."
+msgstr ""
+
+#: forms/settings.php:68
+msgid "zIndex Settings"
+msgstr ""
+
+#: forms/settings.php:73
+#: forms/settings.php:76
+msgid "Normal"
+msgstr ""
+
+#: forms/settings.php:80
+msgid "All sidebars will use this as basic zIndex. If you have more than one sidebar active, each will get unique zIndex based on this value."
+msgstr ""
+
+#: forms/settings.php:85
+#: forms/settings.php:88
+msgid "Open Sidebar"
+msgstr ""
+
+#: forms/settings.php:92
+msgid "Sidebar currently open will use this value for zIndex."
+msgstr ""
+
+#: forms/settings.php:99
+msgid "Extras"
+msgstr ""
+
+#: forms/settings.php:104
+#: forms/settings.php:107
+msgid "FontAwesome"
+msgstr ""
+
+#: forms/settings.php:110
+msgid "Load from MaxCDN"
+msgstr ""
+
+#: forms/settings.php:113
+msgid "If you want to use FontAwesome icons for tabs, you can enable this to load this font."
+msgstr ""
+
+#: forms/settings.php:3
+msgid "Append, to the BODY bottom"
+msgstr ""
+
+#: forms/settings.php:4
+msgid "Prepend, to the BODY top"
+msgstr ""
+
+#: forms/settings.php:8
+msgid "Fixed"
+msgstr ""
+
+#: forms/settings.php:9
+msgid "Absolute"
+msgstr ""
+
+#: forms/settings.php:13
+#: forms/sidebar.php:18
+msgid "Top"
+msgstr ""
+
+#: forms/settings.php:14
+#: forms/sidebar.php:19
+msgid "Bottom"
+msgstr ""
+
+#: forms/sidebar.php:86
+msgid "Set up sidebar on this panel, the way it will look like, size and animation."
+msgstr ""
+
+#: forms/sidebar.php:90
+msgid "For more information about all settings, the way the sidebar is positioned, please consult the user guide. Guide contains examples on how the offset, edge and other parameters are used to define the sidebar and tab."
+msgstr ""
+
+#: forms/sidebar.php:95
+msgid "Sidebar Name And Description"
+msgstr ""
+
+#: forms/sidebar.php:99
+#: forms/sidebar.php:102
+#: forms/style.php:153
+#: forms/style.php:156
+msgid "Name"
+msgstr ""
+
+#: forms/sidebar.php:108
+#: forms/sidebar.php:111
+msgid "Description"
+msgstr ""
+
+#: forms/sidebar.php:115
+msgid "Displayed on the Widgets panel."
+msgstr ""
+
+#: forms/sidebar.php:123
+msgid "Content"
+msgstr ""
+
+#: forms/sidebar.php:127
+#: forms/sidebar.php:130
+msgid "Sidebar Content"
+msgstr ""
+
+#: forms/sidebar.php:134
+msgid "By design, sidebar is registered and you can place widgets in it. But, you can choose to place any other content instead: custom PHP/HTML or use action to add content though code."
+msgstr ""
+
+#: forms/sidebar.php:139
+#: forms/sidebar.php:142
+#: forms/sidebar.php:7
+msgid "Widgets"
+msgstr ""
+
+#: forms/sidebar.php:143
+msgid "Add widgets from the WordPress Appearance / Widgets panel for this sidebar"
+msgstr ""
+
+#: forms/sidebar.php:144
+msgid "Widgets Panel"
+msgstr ""
+
+#: forms/sidebar.php:149
+#: forms/sidebar.php:152
+#: forms/sidebar.php:8
+msgid "Custom Content"
+msgstr ""
+
+#: forms/sidebar.php:156
+msgid "This can be any HTML and PHP code you want."
+msgstr ""
+
+#: forms/sidebar.php:157
+#: forms/sidebar.php:170
+msgid "If you added widgets to this sidebar, they will not be displayed."
+msgstr ""
+
+#: forms/sidebar.php:162
+#: forms/sidebar.php:165
+#: forms/sidebar.php:9
+msgid "Custom Action"
+msgstr ""
+
+#: forms/sidebar.php:169
+msgid "This is the name of the custom action. Plugin will run this action, and you need to hook a function to it to print whatever you want to appear in the sidebar."
+msgstr ""
+
+#: forms/sidebar.php:181
+#: forms/sidebar.php:184
+msgid "Screen Location"
+msgstr ""
+
+#: forms/sidebar.php:190
+msgid "Color Style"
+msgstr ""
+
+#: forms/sidebar.php:193
+msgid "Style"
+msgstr ""
+
+#: forms/sidebar.php:219
+msgid "Anchor"
+msgstr ""
+
+#: forms/sidebar.php:222
+msgid "Screen Anchor"
+msgstr ""
+
+#: forms/sidebar.php:226
+msgid "This option is used to set fixed point for the sidebar. Tab offset and resizing depend on this value."
+msgstr ""
+
+#: forms/sidebar.php:231
+#: forms/sidebar.php:234
+msgid "Full Size"
+msgstr ""
+
+#: forms/sidebar.php:237
+msgid "Auto size sidebar to full available height"
+msgstr ""
+
+#: forms/sidebar.php:240
+msgid "If this option is active, Offset and Edge values will be ignored. Sidebar height will be ignored also. WordPress toolbar will be taken into account."
+msgstr ""
+
+#: forms/sidebar.php:271
+#: forms/sidebar.php:274
+msgid "Side Offset"
+msgstr ""
+
+#: forms/sidebar.php:278
+msgid "Side offset is extra space on the side oposite to sidebar location."
+msgstr ""
+
+#: forms/sidebar.php:287
+#: forms/sidebar.php:284
+#: forms/sidebar.php:324
+#: forms/sidebar.php:327
+#: forms/sidebar.php:429
+#: forms/sidebar.php:432
+msgid "Extra CSS Class"
+msgstr ""
+
+#: forms/sidebar.php:335
+msgid "Sidebar Tab"
+msgstr ""
+
+#: forms/sidebar.php:339
+#: forms/sidebar.php:342
+msgid "Tab Label, Open"
+msgstr ""
+
+#: forms/sidebar.php:351
+#: forms/sidebar.php:354
+msgid "Tab Label, Closed"
+msgstr ""
+
+#: forms/sidebar.php:371
+msgid "It will be set as 'title' attribute to tab element and will act as tooltip on hover."
+msgstr ""
+
+#: forms/sidebar.php:358
+#: forms/sidebar.php:346
+msgid "This can be plain text or HTML. Make it short to fit the size of the tab."
+msgstr ""
+
+#: forms/sidebar.php:359
+msgid "Leave this value empty, and it will use Open value for closed tab state."
+msgstr ""
+
+#: forms/sidebar.php:364
+#: forms/sidebar.php:367
+msgid "Tab Title"
+msgstr ""
+
+#: forms/sidebar.php:376
+#: forms/sidebar.php:379
+msgid "Tab Rotation"
+msgstr ""
+
+#: forms/sidebar.php:382
+msgid "90 degree rotation"
+msgstr ""
+
+#: forms/sidebar.php:385
+msgid "If you use single character for sidebar label, disable rotation and make width and height the same. If you use text, enable rotation to display tab label vertical."
+msgstr ""
+
+#: forms/sidebar.php:419
+msgid "Top Edge"
+msgstr ""
+
+#: forms/sidebar.php:440
+msgid "Opacity"
+msgstr ""
+
+#: forms/sidebar.php:444
+#: forms/sidebar.php:447
+msgid "Open Opacity"
+msgstr ""
+
+#: forms/sidebar.php:451
+msgid "Opacity for the whole sidebar when it is open. Range from 0 to 100."
+msgstr ""
+
+#: forms/sidebar.php:456
+#: forms/sidebar.php:459
+msgid "Closed Opacity"
+msgstr ""
+
+#: forms/sidebar.php:463
+msgid "Opacity for the whole sidebar when it is closed. Range from 0 to 100."
+msgstr ""
+
+#: forms/sidebar.php:470
+msgid "Slider Animation"
+msgstr ""
+
+#: forms/sidebar.php:474
+#: forms/sidebar.php:477
+msgid "Open Duration"
+msgstr ""
+
+#: forms/sidebar.php:481
+#: forms/sidebar.php:502
+msgid "This value has to be positive number, and it is in miliseconds."
+msgstr ""
+
+#: forms/sidebar.php:486
+#: forms/sidebar.php:489
+msgid "Open Effect"
+msgstr ""
+
+#: forms/sidebar.php:495
+#: forms/sidebar.php:498
+msgid "Close Duration"
+msgstr ""
+
+#: forms/sidebar.php:507
+#: forms/sidebar.php:510
+msgid "Close Effect"
+msgstr ""
+
+#: forms/sidebar.php:518
+msgid "Advanced Settings"
+msgstr ""
+
+#: forms/sidebar.php:522
+#: forms/sidebar.php:525
+msgid "Open on Load"
+msgstr ""
+
+#: forms/sidebar.php:528
+msgid "Sidebar will be open on page load"
+msgstr ""
+
+#: forms/sidebar.php:531
+msgid "Be careful with this option, if you have more than one sidebar on the page. If you set more then one sidebar to open on load, it can create a mess on the screen. Also, plugin will allow only one open sidebar on each side of the screen."
+msgstr ""
+
+#: forms/sidebar.php:13
+msgid "Left"
+msgstr ""
+
+#: forms/sidebar.php:14
+msgid "Right"
+msgstr ""
+
+#: forms/sidebar.php:58
+msgid "Default Styles"
+msgstr ""
+
+#: forms/sidebar.php:59
+msgid "Styler Styles"
+msgstr ""
+
+#: forms/sidebar.php:71
+msgid "Custom Styles"
+msgstr ""
+
+#: forms/sidebars.php:10
+msgid "You can add sidebars, or edit exitings sidebars from the list on the right. For each sidebar, you can set rules to display them on in different website areas."
+msgstr ""
+
+#: forms/sidebars.php:12
+msgid "New Sidebar"
+msgstr ""
+
+#: forms/sidebars.php:14
+msgid "To reorder sidebars, move sidebars up and down by draging the sidebar ID column."
+msgstr ""
+
+#: forms/sidebars.php:20
+msgid "There are sidebars created yet."
+msgstr ""
+
+#: forms/sidebars.php:25
+#: forms/styler.php:22
+msgid "ID"
+msgstr ""
+
+#: forms/sidebars.php:26
+msgid "Sidebar Name"
+msgstr ""
+
+#: forms/sidebars.php:27
+msgid "Rules"
+msgstr ""
+
+#: forms/sidebars.php:28
+msgid "Tab Label"
+msgstr ""
+
+#: forms/sidebars.php:29
+msgid "Location"
+msgstr ""
+
+#: forms/sidebars.php:30
+#: forms/styler.php:26
+msgid "Options"
+msgstr ""
+
+#: forms/sidebars.php:41
+msgid "Edit this sidebar."
+msgstr ""
+
+#: forms/sidebars.php:43
+msgid "edit rules"
+msgstr ""
+
+#: forms/sidebars.php:48
+msgid "Get jQuery code for sidebar control from JavaScript."
+msgstr ""
+
+#: forms/sidebars.php:48
+msgid "jquery"
+msgstr ""
+
+#: forms/sidebars.php:49
+msgid "Copy this sidebar to create new one."
+msgstr ""
+
+#: forms/sidebars.php:49
+#: forms/styler.php:63
+msgid "copy"
+msgstr ""
+
+#: forms/sidebars.php:50
+msgid "Delete this sidebar."
+msgstr ""
+
+#: forms/sidebars.php:50
+#: forms/styler.php:64
+msgid "delete"
+msgstr ""
+
+#: forms/style.php:131
+msgid "Save Style"
+msgstr ""
+
+#: forms/style.php:133
+msgid "Preview all your style settings on example bellow. Preview does not behave as real slider, or look exactly as it should."
+msgstr ""
+
+#: forms/style.php:149
+msgid "Basic Information"
+msgstr ""
+
+#: forms/style.php:162
+#: forms/style.php:165
+msgid "Code"
+msgstr ""
+
+#: forms/style.php:169
+msgid "This must be unique value to be used for style name, with only<br/>lowercase alphanumeric characters and dashes!"
+msgstr ""
+
+#: forms/style.php:170
+msgid "It will be prefixed with:"
+msgstr ""
+
+#: forms/style.php:21
+msgid "Font size."
+msgstr ""
+
+#: forms/style.php:28
+msgid "Width, in pixels."
+msgstr ""
+
+#: forms/style.php:36
+msgid "None"
+msgstr ""
+
+#: forms/style.php:37
+msgid "Inherit"
+msgstr ""
+
+#: forms/style.php:39
+msgid "Sans Serif"
+msgstr ""
+
+#: forms/style.php:48
+msgid "Serif"
+msgstr ""
+
+#: forms/style.php:54
+msgid "Monospace"
+msgstr ""
+
+#: forms/style.php:58
+msgid "Fantasy"
+msgstr ""
+
+#: forms/style.php:62
+msgid "Cursive"
+msgstr ""
+
+#: forms/style.php:103
+msgid "Main"
+msgstr ""
+
+#: forms/style.php:103
+msgid "Settings here are applied to the whole sidebar slider."
+msgstr ""
+
+#: forms/style.php:104
+msgid "Drawer"
+msgstr ""
+
+#: forms/style.php:104
+msgid "Settings applied to the drawer control."
+msgstr ""
+
+#: forms/style.php:105
+msgid "Tab"
+msgstr ""
+
+#: forms/style.php:105
+msgid "Settings applied to the text displayed on the slider tab."
+msgstr ""
+
+#: forms/style.php:106
+msgid "Scroller"
+msgstr ""
+
+#: forms/style.php:106
+msgid "Settings applied nanoScroller control."
+msgstr ""
+
+#: forms/style.php:110
+#: forms/style.php:121
+msgid "Background"
+msgstr ""
+
+#: forms/style.php:110
+msgid "If you want to use background with opacity, you should set border to zero to get best effect."
+msgstr ""
+
+#: forms/style.php:111
+msgid "Text Color"
+msgstr ""
+
+#: forms/style.php:112
+msgid "Link Color"
+msgstr ""
+
+#: forms/style.php:113
+msgid "Border"
+msgstr ""
+
+#: forms/style.php:114
+#: forms/style.php:120
+msgid "Border Radius"
+msgstr ""
+
+#: forms/style.php:115
+msgid "Color"
+msgstr ""
+
+#: forms/style.php:116
+msgid "Font Family"
+msgstr ""
+
+#: forms/style.php:117
+msgid "Font Size"
+msgstr ""
+
+#: forms/style.php:118
+msgid "Font Weight"
+msgstr ""
+
+#: forms/style.php:119
+msgid "Font Style"
+msgstr ""
+
+#: forms/style.php:122
+msgid "Scrollbar"
+msgstr ""
+
+#: forms/style.php:227
+#: forms/style.php:240
+msgid "Color, HEX value."
+msgstr ""
+
+#: forms/style.php:228
+#: forms/style.php:241
+msgid "Color opacity"
+msgstr ""
+
+#: forms/style.php:234
+msgid "Radius, in pixels."
+msgstr ""
+
+#: forms/styler.php:10
+msgid "You can create new color styles, or edit exitings custom styles from the list on the right."
+msgstr ""
+
+#: forms/styler.php:12
+msgid "New Style"
+msgstr ""
+
+#: forms/styler.php:17
+msgid "There are no custom color styles created yet."
+msgstr ""
+
+#: forms/styler.php:23
+msgid "Style Name"
+msgstr ""
+
+#: forms/styler.php:24
+msgid "CSS Class"
+msgstr ""
+
+#: forms/styler.php:25
+msgid "Colors Used"
+msgstr ""
+
+#: forms/styler.php:53
+msgid "Edit this color style."
+msgstr ""
+
+#: forms/styler.php:54
+msgid "Get the CSS for this style for manual edit."
+msgstr ""
+
+#: forms/styler.php:63
+msgid "Copy this style to create new one."
+msgstr ""
+
+#: forms/styler.php:64
+msgid "Delete this color style."
+msgstr ""
+

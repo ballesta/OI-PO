@@ -1,0 +1,1778 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!--[if lte IE 7]><html lang="fr" class="ie7 lte-ie8"><![endif]-->
+<!--[if IE 8]><html lang="fr" class="ie8 lte-ie8"><![endif]-->
+<!--[if IE 9]><html lang="fr" class="ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" version="XHTML+RDFa 1.0" dir="ltr"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+
+  <meta name="viewport" content="initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:url" content="http://www.economie.gouv.fr/tracfin/accueil-tracfin" />
+<link rel="shortcut icon" href="http://www.economie.gouv.fr/sites/all/themes/bercy/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://www.economie.gouv.fr/node/83593" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Accueil Tracfin" />
+<meta property="twitter:title" content="Accueil Tracfin" />
+<meta property="twitter:description" content="Accueil Tracfin" />
+<link rel="canonical" href="http://www.economie.gouv.fr/tracfin/accueil-tracfin" />
+  <title>Accueil Tracfin | Le portail des ministères économiques et financiers</title>
+  <link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_-tkkLyPHY8z4h91lguZYlmzqgmXhiFUuTXKKnhjKtYQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_UWzvrQOfO603wCi7Za8sL17o03kLfXBhihpXJBXUFoU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_UPrJ1oODJNFA4PGlq_n6SV_EbUezsS2cHEiNAAXMvSo.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_y6G2-fLqoDcuB7VpTpyaPAypOfxKSb3qVKO7I9EdEug.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_dFs488YHICKgOCMXtfLHDPmYGM1rKWQVa589NNh3b5A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_AhVNb1LalRE_rVQkRamKMLQQULxRBxgzTE_3EXaPb4Q.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://www.economie.gouv.fr/files/css/css_ANhHFH85vjPthQCd0RCFgEekBR6gahaEgHoMsGtBKfE.css" media="all" />
+  <script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/jquery_update/replace/jquery/1.5/jquery.min.js?v=1.5.2"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/misc/drupal.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/custom/mod_mesures_thematiques/mod_mesures_thematiques.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/files/languages/fr_DLdu_lJr71zQnAVQxUvBl50-1MxrHrRsK5ojf9T_wO0.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/libraries/colorbox/jquery.colorbox-min.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/colorbox/js/colorbox.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/colorbox/styles/default/colorbox_style.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/colorbox/js/colorbox_inline.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/custom/mediation/js/mediation.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/panels/js/panels.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/misc/autocomplete.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/misc/ajax.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/field_group/field_group.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/google_analytics/googleanalytics.js?nv86m1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-44541701-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/modernizr.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/jquery.colorbox-min.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/jquery.photo-gallery.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/jMyCarousel.min.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/carousel.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/cessions-colorbox.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/jQuery.tree.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/plan.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/library_cplt.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/swfobject.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/scripts.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/date.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/fonctions.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/jquery.news-focus.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/jquery.tabs.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/bercy/lib/js/common/jquery.maphilight.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/modernizr.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/suggest.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/faq.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/common/jquery.accessFold.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/common/jquery.accessTabs.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/fete-gastronomie.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/jquery.flexslider.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/jquery.mCustomScrollbar.min.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/jquery.mousewheel.min.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/jquery.menu-level.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/jquery.equalize.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/economie.js?nv86m1"></script>
+<script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/themes/economie/lib/js/custom/rwd.js?nv86m1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"economie","theme_token":"wp8GGKY3l_dInmiPsp5dcGSwIzAAiOLgopiRWeEwyD0","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/mod_mesures_thematiques\/mod_mesures_thematiques.css":1,"sites\/all\/modules\/custom\/mod_mesures_thematiques\/mod_mesures_thematiques.print.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"sites\/all\/modules\/quiz\/quiz.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/mediation\/css\/mediation.css":1,"public:\/\/css\/menu_icons.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/search_contributeur\/css\/autocomplete.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"sites\/all\/modules\/field_group\/field_group.css":1,"public:\/\/ctools\/css\/aad03cf800e81af1211048b57e93e523_0.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/themes\/bercy\/lib\/css\/custom\/bercy.css":1,"sites\/all\/themes\/bercy\/lib\/css\/common\/screen.css":1,"sites\/all\/themes\/bercy\/lib\/css\/common\/club.css":1,"sites\/all\/themes\/economie\/lib\/css\/custom\/economie.css":1,"sites\/all\/themes\/economie\/lib\/css\/custom\/faq.css":1,"sites\/all\/themes\/economie\/lib\/css\/custom\/fete-gastronomie.css":1,"sites\/all\/themes\/economie\/lib\/css\/custom\/jquery.mCustomScrollbar.css":1,"sites\/all\/themes\/economie\/lib\/css\/custom\/flexslider.css":1,"sites\/all\/themes\/economie\/lib\/css\/custom\/rwd.css":1,"sites\/all\/themes\/bercy\/lib\/css\/common\/print.css":1,"sites\/all\/themes\/bercy\/lib\/css\/common\/panel_direction.css":1},"js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/mod_mesures_thematiques\/mod_mesures_thematiques.js":1,"public:\/\/languages\/fr_DLdu_lJr71zQnAVQxUvBl50-1MxrHrRsK5ojf9T_wO0.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/custom\/mediation\/js\/mediation.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"misc\/autocomplete.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/modernizr.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/jquery.colorbox-min.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/jquery.photo-gallery.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/jMyCarousel.min.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/carousel.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/cessions-colorbox.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/jQuery.tree.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/plan.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/library_cplt.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/swfobject.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/scripts.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/date.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/fonctions.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/jquery.news-focus.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/jquery.tabs.js":1,"sites\/all\/themes\/bercy\/lib\/js\/common\/jquery.maphilight.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/modernizr.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/suggest.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/faq.js":1,"sites\/all\/themes\/economie\/lib\/js\/common\/jquery.accessFold.js":1,"sites\/all\/themes\/economie\/lib\/js\/common\/jquery.accessTabs.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/fete-gastronomie.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/jquery.flexslider.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/jquery.mousewheel.min.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/jquery.menu-level.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/jquery.equalize.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/economie.js":1,"sites\/all\/themes\/economie\/lib\/js\/custom\/rwd.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Fermer","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"field_group":{"fieldset":"teaser"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":1,"popup_clicking_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003ECe site utilise des cookies\u003C\/h2\u003E\u003Cp\u003EEn naviguant sur notre site vous acceptez l\u0027installation et l\u0027utilisation des cookies sur votre ordinateur.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EJ\u0027accepte\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003EEn savoir plus\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"http:\/\/www.economie.gouv.fr\/mentions-legales#informations","popup_link_new_window":1,"popup_position":null,"popup_language":"fr","domain":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <script type="text/javascript">document.getElementsByTagName('html')[0].id = 'js';</script>
+
+</head>
+
+
+<body id="home" class="html not-front not-logged-in no-sidebars page-node page-node- page-node-83593 node-type-panel i18n-fr newpresentation secondNav"  style="background-image: url(http://www.economie.gouv.fr/files/fond-tracfin.jpg)">
+
+<!-- ###DOCUMENT_BODY### begin-->
+
+  <!--Quick access menu-->
+  <div id="skip-links" role="navigation">
+    <ul>
+        <li><a href="#menuprincipal">Aller au menu principal</a></li>
+        <li><a href="#contenuprincipal">Aller au contenu</a></li>
+        <li><a href="#recherche">Aller au formulaire de recherche</a></li>
+    </ul>
+  </div>
+
+  <div id="wrapper" class="wrapper">
+
+    <a name="HautDePage" id="HautDePage"></a>
+
+    <ul id="NavigationInterne">
+      <li class="first"><a href="/cedef">Documentation</a></li>
+      <li><a href="/recrutement">Espace recrutement</a></li>
+</ul>
+        
+
+<div id="EnTete">
+  
+  <!--Mobile menu trigger-->
+  <button type="button" id="mobile-nav-trigger" class="btn-nav"><span>Menu</span></button>
+
+  <!--Mobile menu-->
+  <nav id="mobile-nav" class="mobile-nav region region-menu-tactile">
+
+    <div class="menu-tools">
+
+      <!--Close button-->
+      <button type="button" class="nav-close" arial-label="Fermer le menu" title="Fermer le menu">Fermer</button>
+
+      <!--Formulaire de recherche-->
+
+<form action="http://www.economie.gouv.fr/resultat-recherche" method="get" class="search-form-mob" >
+
+      <input type="hidden" name="filtres[]" value=""/>
+  
+  <label for="mot_cle-mob" accesskey="4" class="visually-hidden">Recherche</label>
+  <input id="mot_cle-mob" name="mot" type="text" value="Recherche" class="clearInput" />
+  <button type="submit" class="button" title="Lancer une recherche sur le site" alt="Lancer une recherche sur le site">Ok</button>
+
+</form>
+
+    </div><!--/menu-tools-->
+
+    <div id="menu-level-wrapper" class="menu-level-wrapper">
+  <div class="menu-level">
+    <ul class="menu-level-list">
+<li><a href="/">Accueil</a>
+
+</li>
+<li><a href="/toutes-les-actualites">Actualités</a>
+
+</li>
+<li><a href="/vous-orienter">Vous orienter</a>
+
+<div class="menu-level">
+  <div class="menu-level-inner">
+    <button type="button" class="menu-level-back"><span>Vous orienter</span></button>
+    <ul class="menu-level-list">
+      <li><a href="/vous-orienter/artisanat-et-commerce" class="menu-level-leaf">Artisanat et Commerce</a></li>
+      <li><a href="/vous-orienter/consommation" class="menu-level-leaf">Consommation</a></li>
+      <li><a href="/vous-orienter/economie" class="menu-level-leaf">Économie</a></li>
+      <li><a href="/vous-orienter/economie-sociale-solidaire" class="menu-level-leaf">Économie sociale et solidaire</a></li>
+      <li><a href="/vous-orienter/entreprises" class="menu-level-leaf">Entreprises</a></li>
+      <li><a href="/vous-orienter/europe-international" class="menu-level-leaf">Europe et International</a></li>
+      <li><a href="/vous-orienter/impots-budget" class="menu-level-leaf">Impôts et Budget</a></li>
+      <li><a href="/vous-orienter/industrie" class="menu-level-leaf">Industrie</a></li>
+      <li><a href="/vous-orienter/numerique" class="menu-level-leaf">Numérique</a></li>
+      <li><a href="/vous-orienter/par-besoin" class="menu-level-leaf">Recherche par besoin</a></li>
+      <li><a href="/vous-orienter/par-expertise" class="menu-level-leaf">Recherche par expertise</a></li>
+      <li><a href="/vous-orienter/index-az" class="menu-level-leaf">Recherche alphabétique</a></li>
+    </ul>
+  </div><!--/menu-level-inner-->
+</div><!--/menu-level-->
+
+</li>
+<li><a href="/les-ministeres">Les ministères</a>
+
+<div class="menu-level">
+  <div class="menu-level-inner">
+    <button type="button" class="menu-level-back"><span>Les ministères</span></button>
+    <ul class="menu-level-list">
+      <li><a href="/le-ministere/missions" class="menu-level-leaf">Missions</a></li>
+      <li><a href="/le-ministere/directions" class="menu-level-leaf">Directions</a></li>
+      <li><a href="/le-ministere/michel-sapin" class="menu-level-leaf">Michel Sapin</a></li>
+      <li><a href="/le-ministere/christian-eckert" class="menu-level-leaf">Christian Eckert</a></li>
+      <li><a href="/le-ministere/emmanuel-macron" class="menu-level-leaf">Emmanuel Macron</a></li>
+      <li><a href="/le-ministere/axelle-lemaire" class="menu-level-leaf">Axelle Lemaire</a></li>
+    </ul>
+  </div><!--/menu-level-inner-->
+</div><!--/menu-level-->
+
+</li>
+<li><a href="/presse">Salle de presse</a>
+
+<div class="menu-level">
+  <div class="menu-level-inner">
+    <button type="button" class="menu-level-back"><span>Salle de presse</span></button>
+    <ul class="menu-level-list">
+      <li><a href="/presse/michel-sapin" class="menu-level-leaf">Michel Sapin</a></li>
+      <li><a href="/presse/emmanuel-macron" class="menu-level-leaf">Emmanuel Macron</a></li>
+      <li><a href="/presse/christian-eckert" class="menu-level-leaf">Christian Eckert</a></li>
+      <li><a href="/presse/axelle-lemaire" class="menu-level-leaf">Axelle Lemaire</a></li>
+    </ul>
+  </div><!--/menu-level-inner-->
+</div><!--/menu-level-->
+
+</li>
+<li><a href="/consultations-publiques">Consultations publiques</a>
+
+</li>
+
+</ul>
+
+		<div class="mobile-nav-social">
+    	<ul>
+      <li><a class="external_link" href="http://www.facebook.com/finances.bercy" target="_blank" title="Ouvrir le site « Facebook | finances.bercy » dans une nouvelle fenêtre"><img src="/files/files/facebook.png" alt="Facebook" /></a></li>
+      <li><a class="external_link" href="http://www.twitter.com/_Bercy_" target="_blank" title="Ouvrir le site « @_Bercy_ » dans une nouvelle fenêtre"><img src="/files/files/picto-twitter.png" alt="Twitter" /></a></li>
+    </ul>  	</div><!--/mobile-nav-social-->
+
+  </div><!--/menu-level-->
+</div><!--/menu-level-wrapper-->
+
+  </nav>
+
+
+<a name="recherche" id="recherche"></a>
+<div id="Annexe" class="newpresentation">
+
+  <div class="sub1">
+    <ul>
+      <li><a class="external_link" href="http://www.facebook.com/finances.bercy" target="_blank" title="Ouvrir le site « Facebook | finances.bercy » dans une nouvelle fenêtre"><img src="/files/files/facebook.png" alt="Facebook" /></a></li>
+      <li><a class="external_link" href="http://www.twitter.com/_Bercy_" target="_blank" title="Ouvrir le site « @_Bercy_ » dans une nouvelle fenêtre"><img src="/files/files/picto-twitter.png" alt="Twitter" /></a></li>
+    </ul>
+    <!--Formulaire de recherche-->
+
+<form action="http://www.economie.gouv.fr/resultat-recherche" method="get" class="search-form" >
+
+      <input type="hidden" name="filtres[]" value="espace_directionnel:&quot;tracfin&quot;"/>
+  
+  <label for="mot_cle" accesskey="4" >Recherche</label>
+  <input id="mot_cle" name="mot" type="text" value="Recherche" class="clearInput" />
+  <button type="submit" class="button" title="Lancer une recherche sur le site" alt="Lancer une recherche sur le site">Ok</button>
+
+</form>
+
+  </div>
+
+  <div class="sub2">
+    Suivez-nous sur <a href="http://www.economie.gouv.fr/reseaux-sociaux-ministere-et-directions">les médias sociaux</a> | Abonnez-vous aux <a href="/vous-orienter/par-besoin/acceder-publications-documentation-archives">lettres électroniques</a>   </div>
+
+</div><!--/Annexe-->
+
+
+
+<div id="Logo">
+
+  <div class="rf">
+    <a accesskey="1" title="Retour à la page d'accueil du portail des ministères économiques et financiers" href="http://www.economie.gouv.fr">
+      <img alt="Liberté, Égalité, Fraternité, République Française - Le portail des ministères économiques et financiers"
+            src="http://www.economie.gouv.fr/sites/all/themes/bercy/img/ministere-economie.png" />
+    </a>
+  </div>
+
+  <div class="logo">
+          <a href="http://www.economie.gouv.fr" title="Retour à la page d'accueil du portail des ministères économiques et financiers">
+        <img src="http://www.economie.gouv.fr/sites/all/themes/bercy/img/banner.gif"
+             alt="Le portail des ministères économiques et financiers" />
+      </a>
+      </div><!--/logo-->
+
+
+  <div class="portal-name"><span><a href="http://www.economie.gouv.fr">Le portail des ministères économiques et financiers</a></span></div>
+
+</div><!--/Logo-->
+
+  <a name="menuprincipal" id="menuprincipal"></a>
+  <!-- ###NAVIGATION### begin -->
+  <div id="Navigation">
+            <div class="region region-navigation-principale">
+    
+<div id="block-menu-menu-menu-portail" class="block block-menu ">
+  
+      
+  <div class="content">
+    <ul id="NavigationPrincipale"><li class="NavItem "><a href="/">Accueil</a></li>
+<li class="NavItem "><a href="/toutes-les-actualites">Actualités</a></li>
+<li class="NavItem "><a href="/vous-orienter" class="vous-orienter">Vous orienter</a><ul class="NavigationSecondaire "><li><a href="/vous-orienter/artisanat-et-commerce">Artisanat et Commerce</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/consommation">Consommation</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/economie">Économie</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/economie-sociale-solidaire">Économie sociale et solidaire</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/entreprises">Entreprises</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/europe-international">Europe et International</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/impots-budget">Impôts et Budget</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/industrie">Industrie</a><span class="separateur-menu-principal"></span></li><li><a href="/vous-orienter/numerique">Numérique</a></li></ul></li>
+<li class="NavItem "><a href="/les-ministeres">Les ministères</a><ul class="NavigationSecondaire "><li><a href="/les-ministeres" title="" class="">Présentation</a><span class="separateur-menu-principal"></span></li><li><a href="/le-ministere/missions">Missions</a><span class="separateur-menu-principal"></span></li><li><a href="/le-ministere/directions">Directions</a><span class="separateur-menu-principal"></span></li><li><a href="/le-ministere/michel-sapin">Michel Sapin</a><span class="separateur-menu-principal"></span></li><li><a href="/le-ministere/christian-eckert">Christian Eckert</a><span class="separateur-menu-principal"></span></li><li><a href="/le-ministere/emmanuel-macron">Emmanuel Macron</a><span class="separateur-menu-principal"></span></li><li><a href="/le-ministere/axelle-lemaire">Axelle Lemaire</a><span class="separateur-menu-principal"></span></li><li><a href="/le-ministere/martine-pinville">Martine Pinville</a></li></ul></li>
+<li class="NavItem "><a href="/presse">Salle de presse</a><ul class="NavigationSecondaire "><li><a href="/presse/michel-sapin">Michel Sapin</a><span class="separateur-menu-principal"></span></li><li><a href="/presse/emmanuel-macron">Emmanuel Macron</a><span class="separateur-menu-principal"></span></li><li><a href="/presse/christian-eckert">Christian Eckert</a><span class="separateur-menu-principal"></span></li><li><a href="/presse/axelle-lemaire">Axelle Lemaire</a><span class="separateur-menu-principal"></span></li><li><a href="/presse/martine-pinville">Martine Pinville</a></li></ul></li>
+<li class="NavItem "><a href="/consultations-publiques">Consultations publiques</a></li>
+</ul>  </div>
+
+    
+</div>
+  </div>
+      </div>
+  <!-- ###NAVIGATION### end -->
+</div>
+
+<div id="ContainerCols" class="relative">
+  <div id="toolBox"></div>
+
+      <div id="FildAriane"><a href="/">Accueil du portail</a> › <a href="http://www.economie.gouv.fr/tracfin">TRACFIN</a> › <a href="/tracfin/accueil-tracfin">Accueil</a> › Accueil Tracfin</div>
+  
+  
+    <div class="clear"></div>
+
+  <!--[**************ESPACE_MINEFE-->
+      <div class="bandeau_direction tracfin">
+    <img class="logoespace" src="http://www.economie.gouv.fr/files/bandeau_tracfin.jpg" alt="Cellule française de lutte contre le blanchiment de capitaux et le financement du terrorisme" />
+</div>
+<div class="clear"></div>
+    <div id="secondNav-module">
+
+      <div class="menu-espace">
+
+  <!--Mobile menu trigger-->
+  <div class="btn-nav-espace-wrapper">
+    <button type="button" id="nav-espace-trigger" class="btn-nav-espace"><span> Traitement du renseignement et action contre les circuits financiers clandestins</span></button>
+    <!--span class="nav-espace-portail-name"></span-->
+  </div>
+
+  <!--Mobile menu-->
+  <nav id="nav-espace" class="nav-espace">
+
+    <div class="menu-tools">
+
+      <!--Close button-->
+      <button type="button" class="nav-espace-close" arial-label="Fermer le menu" title="Fermer le menu">Fermer</button>
+
+    </div><!--/menu-tools-->
+
+    <div id="menu-level-wrapper" class="menu-level-wrapper">
+      <div class="menu-level">
+
+                                <ul class="onglets menu-level-list"><li class="active"><a href="/tracfin/accueil-tracfin" class="active">Accueil</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Accueil</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/4353" class="menu-level-leaf">Actualités</a></li>
+</ul>
+</div>
+</li><li><a href="/tracfin/missions">Missions</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Missions</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/lorganisation" class="menu-level-leaf">Organisation</a></li>
+<li>
+<a href="/tracfin/pouvoirs-tracfin" class="menu-level-leaf">Pouvoirs de Tracfin</a></li>
+<li>
+<a href="/tracfin/interlocuteurs-tracfin" class="menu-level-leaf">Interlocuteurs de Tracfin</a></li>
+<li>
+<a href="/tracfin/2956" class="menu-level-leaf">Textes de référence</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Textes de référence</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/normes-nationales" class="menu-level-leaf">Les normes nationales</a></li>
+<li>
+<a href="/tracfin/dispositions-europeennes" class="menu-level-leaf">Les dispositions europeennes</a></li>
+<li>
+<a href="/tracfin/normes-internationales" class="menu-level-leaf">Les normes internationales</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/tracfin/nous-contacter" class="menu-level-leaf">Nous contacter</a></li>
+</ul>
+</div>
+</li><li><a href="/tracfin/circuits-financiers-clandestins">Circuits financiers clandestins</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Circuits financiers clandestins</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/typologies-tracfin" class="menu-level-leaf">Les typologies TRACFIN</a></li>
+<li>
+<a href="/tracfin/typologies-gafi" class="menu-level-leaf">Les typologies GAFI</a></li>
+<li>
+<a href="/tracfin/typologies-egmont" class="menu-level-leaf">Les typologies EGMONT</a></li>
+</ul>
+</div>
+</li><li><a href="/tracfin/declarants-0">Déclarants</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Déclarants</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/professions-financieres" class="menu-level-leaf">Déclarants secteur financier</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Déclarants secteur financier</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/banques-et-assurances" class="menu-level-leaf">Banques et assurances</a></li>
+<li>
+<a href="/tracfin/changeurs-manuels" class="menu-level-leaf">Changeurs manuels</a></li>
+<li>
+<a href="/tracfin/autres-professions-financieres" class="menu-level-leaf">Autres professions financières</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/tracfin/professions-non-financieres" class="menu-level-leaf">Déclarants secteur non financier</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Déclarants secteur non financier</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/professions-chiffre" class="menu-level-leaf">Professions du chiffre </a></li>
+<li>
+<a href="/tracfin/professions-droit" class="menu-level-leaf">Professions du droit</a></li>
+<li>
+<a href="/tracfin/autres-professions-non-financieres" class="menu-level-leaf">Autres professions non financieres</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/tracfin/autorites-controle" class="menu-level-leaf">Les autorités de contrôle</a></li>
+</ul>
+</div>
+</li><li><a href="/tracfin/declarer">Déclarer</a></li><li><a href="/tracfin/publications-2">Publications</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>Publications</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/rapports-annuels" class="menu-level-leaf">Les rapports annuels</a></li>
+<li>
+<a href="/tracfin/lignes-directrices" class="menu-level-leaf">Les lignes directrices</a></li>
+<li>
+<a href="/tracfin/lettres-dinformation-aux-professionnels" class="menu-level-leaf">La lettre d&#039;information</a></li>
+</ul>
+</div>
+</li><li><a href="/tracfin/accueil-international">International</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>International</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/gafi" class="menu-level-leaf">GAFI</a></li>
+<li>
+<a href="/tracfin/groupe-egmont" class="menu-level-leaf">Le groupe EGMONT</a></li>
+<li>
+<a href="/tracfin/travaux-au-sein-lunion-europeenne" class="menu-level-leaf">Les travaux au sein de l&#039;UE</a></li>
+<li>
+<a href="/tracfin/cooperation-bilaterale" class="menu-level-leaf">La coopération bilatérale</a></li>
+</ul>
+</div>
+</li><li><a href="/tracfin/faq-0">FAQ</a><div class="hidden menu-level">
+    <button type="button" class="menu-level-back"><span>FAQ</span></button>
+<ul class="menu-level-list">
+<li>
+<a href="/tracfin/blanchiment-0" class="menu-level-leaf">Le blanchiment</a></li>
+<li>
+<a href="/tracfin/faqtracfin" class="menu-level-leaf">Faq Tracfin</a></li>
+<li>
+<a href="/tracfin/obligations-vigilance-0" class="menu-level-leaf">Les obligations de vigilance</a></li>
+<li>
+<a href="/tracfin/obligations-declaratives-0" class="menu-level-leaf">Les obligations déclaratives</a></li>
+<li>
+<a href="/tracfin/international-1" class="menu-level-leaf">International</a></li>
+</ul>
+</div>
+</li></ul>
+      </div><!--/menu-level-->
+    </div><!--/menu-level-wrapper-->
+
+
+  </nav>
+
+
+</div><!--/menu-espace-->
+
+      <div id="secondNav-submodule">
+        <div class="secondNav-content-module">
+
+                          <div class="secondNav-wrapper"><ul id="secondNav-subnav"><li style="z-index: 99;"><a href="/tracfin/4353">Actualités</a></li></ul></div>                <!--FIN ESPACE_MINEFE ************]-->
+
+  
+      <a name="contenuprincipal" id="contenuprincipal"></a>
+        <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system ">
+  
+      
+  <div class="content">
+    
+
+
+  <!-- mode complet -->
+  
+      
+ <div id="ColA" class="layout-2-cols layout-66-33" style="width: 100%">
+      <div id="ColContenu">
+        <div class="contenu">
+          <div class="inner">
+            <div class="inner2">
+              <div class="panel-flexible panels-flexible-minefe_panel clearfix" >
+<div class="panel-flexible-inside panels-flexible-minefe_panel-inside">
+<div class="panels-flexible-column panels-flexible-column-minefe_panel-3 panels-flexible-column-first ">
+  <div class="inside panels-flexible-column-inside panels-flexible-column-minefe_panel-3-inside panels-flexible-column-inside-first">
+<div class="panels-flexible-row panels-flexible-row-minefe_panel-5 panels-flexible-row-first clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-minefe_panel-5-inside panels-flexible-row-inside-first clearfix">
+<div class="panels-flexible-region panels-flexible-region-minefe_panel-region_gauche_ panels-flexible-region-first panels-flexible-region-last ColA">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-minefe_panel-region_gauche_-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/bruno-dalles-est-nomme-directeur-service-tracfin">Bruno DALLES est nommé Directeur du Service Tracfin </a>                          <span class="date"> - 05/08/2015</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p>Magistrat judiciaire, Bruno DALLES occupait la fonction de Procureur de la République à Melun depuis 2010. Après divers postes en juridiction, Bruno DALLES a notamment dirigé au ministère de la Justice le bureau de lutte contre la criminalité organisée, le terrorisme et le blanchiment, matière qui est au cœur de la mission de Tracfin. En 2003, Bruno DALLES a ensuite pris, au ministère des Finances, la direction du Service national de douane judiciaire.</p></div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-minefe_panel-4 panels-flexible-row-last clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-minefe_panel-4-inside panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-minefe_panel-region_droite panels-flexible-region-first contenu">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-minefe_panel-region_droite-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/presentation-plan-daction-pour-lutter-contre-financement-terrorisme">Présentation du Plan d&#039;action pour lutter contre le financement du terrorisme </a>                          <span class="date"> - 31/03/2015</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p>Michel Sapin, ministre des Finances et des Comptes publics, a présenté le 18 mars, un Plan d'action pour lutter contre le financement du terrorisme. Huit mesures articulées autour de trois objectifs : identifier, surveiller et agir.</p>
+
+<p> </p>
+</div>
+    <div class="clear"></div>
+        <ul><li class="pdf"><a href="http://www.economie.gouv.fr/files/dpfinalluttecontrefinancementterrorisme_18mars2015_0.pdf" target="_blank"><strong>Dossier de presse (FR)</strong> - application/pdf - 734.07 Ko - 31/03/2015</a></li><li class="pdf"><a href="http://www.economie.gouv.fr/files/dp_lutte_contre_le_financement_du_terrorisme_anglais.pdf" target="_blank"><strong>Dossier de presse (EN)</strong> - application/pdf - 730.02 Ko - 31/03/2015</a></li><li class="pdf"><a href="http://www.economie.gouv.fr/files/luttecontrefinancementterrorisme_tableau_synthetiqdef_0.pdf" target="_blank"><strong>Tableau des mesures (FR)</strong> - application/pdf - 291.5 Ko - 31/03/2015</a></li><li class="pdf"><a href="http://www.economie.gouv.fr/files/tableau_lutte_contre_le_financement_du_terrorisme_anglais.pdf" target="_blank"><strong>Tableau des mesures (EN)</strong> - application/pdf - 289.1 Ko - 31/03/2015</a></li><li class="pdf"><a href="http://www.economie.gouv.fr/files/infographie_lutte_financement_terrorisme.pdf" target="_blank"><strong>Eléments clés (FR)</strong> - application/pdf - 634.95 Ko - 28/08/2015</a></li><li class="pdf"><a href="http://www.economie.gouv.fr/files/info_terrorsime_en_infographie.pdf" target="_blank"><strong>Eléments clés (EN)</strong> - application/pdf - 620.26 Ko - 31/03/2015</a></li></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/lutte-contre-financement-daech">Lutte contre le financement de Daech</a>                          <span class="date"> - 29/01/2015</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p>La Direction générale du Trésor lance un appel à vigilance aux professionnels déclarants afin que ceux-ci renforcent l’intensité des mesures de vigilance, prévues aux articles L. 561-5 et L. 561-6 du Code monétaire et financier, à l’égard de toutes les opérations financières susceptibles de participer au financement de Daech.</p>
+
+<ul><li><a href="http://www.tresor.economie.gouv.fr/10858_lutte-contre-le-financement-de-daech" target="_blank">Consulter l'appel à vigilance sur le site de la Direction générale du Trésor</a></li>
+</ul><p> </p>
+</div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/rapport-lencadrement-des-monnaies-virtuelles">Rapport &quot;L&#039;encadrement des monnaies virtuelles&quot;</a>                          <span class="date"> - 10/07/2014</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+          <div class="blocVisu">
+      <img src="http://www.economie.gouv.fr/files/styles/illustration_story_teaser/public/mv.jpg?itok=AylbqJqH" width="61" height="90" alt="" />      </div>
+        
+    <div class="blocTxt"><p>Dans le prolongement des réflexions engagées en 2011 sur les nouveaux moyens de paiement, le groupe de travail « monnaies virtuelles », mis en place par Tracfin en décembre 2013, a remis vendredi 11 juillet ses recommandations à Michel Sapin, ministre des Finances et des Comptes publics.</p>
+
+<p>Le groupe de travail a dressé un panorama des risques et menaces présentés par les monnaies virtuelles et effectué des recommandations visant à en diminuer les impacts.</p>
+
+<p> </p>
+</div>
+    <div class="clear"></div>
+        <ul><li class="pdf"><a href="http://www.economie.gouv.fr/files/rapport_monnaiesvirtuelles_web.pdf" target="_blank"><strong>Synthèse du rapport « Encadrement des monnaies virtuelles »</strong> - application/pdf - 695.52 Ko - 10/07/2014</a></li><li class="pdf"><a href="http://www.economie.gouv.fr/files/regulatingvirtualcurrencies.pdf" target="_blank"><strong>Regulating virtual currencies</strong> - application/pdf - 564.46 Ko - 25/08/2014</a></li></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/procedures-conformite-renforcee-moneyval-concernant-bosnie-herzegovine">Procédures de conformité renforcée de MONEYVAL concernant la Bosnie-Herzégovine</a>                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p>Dans le cadre de la procédure de suivi d’évaluation de la Bosnie-Herzégovine par le Comité d’experts du Conseil de l’Europe sur l’appréciation des mesures de lutte contre le blanchiment des capitaux et le financement du terrorisme (MONEYVAL), MONEYVAL a publié un communiqué sur les lacunes du régime de lutte contre le blanchiment des capitaux/financement du terrorisme (LBC/FT) en Bosnie-Herzégovine.</p>
+</div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/loi-separation-et-regulation-des-activites-bancaires-26-juillet-2013">La loi de séparation et de régulation des activités bancaires du 26 juillet 2013</a>                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p><a href="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027754539&amp;dateTexte=&amp;categorieLien=id" target="_blank" title="Ouvrir le site « La loi n°2013-672 de séparation et de régulation des activités bancaires du 26 juillet 2013 (JO du 27 juillet 2013) » dans une nouvelle fenêtre">La loi n°2013-672 de séparation et de régulation des activités bancaires du 26 juillet 2013 (JO du 27 juillet 2013)</a>  introduit de nouvelles dispositions en matière  d’exercice du droit d’opposition,  déclaration de soupçon, communication systématiques d’informations (COSI), tentatives d’opérations, obligation déclarative des autorités de contrôle et transmissions spontanées.</p>
+
+<ul><li>Le dispositif de déclaration systématique d’opération (DSO) est suspendu (IV et VI de l'article L561-15 du CMF supprimés)</li>
+	<li>La nouvelle procédure de COSI (L561-15-1 alinéa 1) est entrée en vigueur le 1<sup>er</sup> novembre 2013</li>
+</ul></div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/vulnerabilites-des-professions-droit-rapport-typologique-gafi">Vulnérabilités des professions du droit  (Rapport typologique du GAFI)</a>                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p class="contenu" id="chapo">Le Groupe d’action financière (Gafi) a publié en juin un rapport typologique relatif aux vulnérabilités des professions du droit en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme auquel Tracfin a participé. Ce rapport,  très concret,  propose aux professionnels concernés de nombreux cas pratiques (plus d’une centaine) et des indicateurs précis concernant les situations qui peuvent les impliquer dans des opérations à risque</p>
+<ul><li class="contenu">
+		<a href="/tracfin/vulnerabilites-des-professions-droit-rapport-typologique-gafi" title="Vulnérabilités des professions du droit">Pour en savoir plus</a></li>
+</ul></div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-minefe_panel-region_gauche panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-minefe_panel-region_gauche-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/rapport-tendances-et-analyse-des-risques-en-2014">Rapport &quot;Tendances et analyse des risques en 2014&quot;</a>                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+          <div class="blocVisu">
+      <img src="http://www.economie.gouv.fr/files/styles/illustration_story_teaser/public/couv_0.jpg?itok=0JKS3AB0" width="61" height="90" alt="" />      </div>
+        
+    <div class="blocTxt"><p style="margin-left:1.0cm;">Tracfin évalue et présente, chaque année, dans le cadre d’un rapport annuel, les tendances et risques de blanchiment de capitaux et de financement du terrorisme. Cette démarche s’inscrit dans le cadre des recommandations du Groupe d’action financière (GAFI) en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme.</p></div>
+    <div class="clear"></div>
+        <ul><li class="pdf"><a href="http://www.economie.gouv.fr/files/tracfin_rapport_analyse2014.pdf" target="_blank"><strong>Rapport "Tendances et analyse des risques de blanchiment  de capitaux et de financement du terrorisme en 2014"</strong> - application/pdf - 1.77 Mo - 29/06/2015</a></li></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/communications-systematiques-dinformations-cosi">Les Communications systématiques d&#039;informations (COSI)</a>                          <span class="date"> - 08/06/2015</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p id="">Parmi les mesures annoncées par le ministre des Finances et des Comptes publics, le 18 mars dernier, en faveur de la lutte contre le financement du terrorisme, certains professionnels devront désormais signaler systématiquement à Tracfin les dépôts et retraits d’espèces supérieurs à 10 000 € à compter du 1er janvier 2016. Retour sur le dispositif.</p>
+</div>
+    <div class="clear"></div>
+        <ul><li class="pdf"><a href="http://www.economie.gouv.fr/files/faq_cosi_juin2015.pdf" target="_blank"><strong>Questions / réponses sur les COSI "Versements et retraits d’espèces" - juin 2015</strong> - application/pdf - 178.67 Ko - 15/06/2015</a></li><li class="pdf"><a href="http://www.economie.gouv.fr/files/presentation_cosi_12062015.pdf" target="_blank"><strong>Présentation détaillée - 12 juin 2015</strong> - application/pdf - 1.34 Mo - 15/06/2015</a></li></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/rapport-dactivite-2014-tracfin">Le rapport d&#039;activité 2014 de Tracfin </a>                          <span class="date"> - 16/04/2015</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p>L’année 2014 a été marquée par la volonté de  renforcement des outils de lutte contre la fraude, le blanchiment et le financement du terrorisme. Dans ce contexte, l’action de Tracfin, au cœur de ces problématiques, marque une progression historique avec une hausse de 33 % du nombre d’informations traités par le Service en 2014 (38 419  informations), soit la plus forte hausse constatée ces 10 dernières années.</p>
+
+<p> </p>
+
+<p> </p>
+</div>
+    <div class="clear"></div>
+        <ul><li class="pdf"><a href="http://www.economie.gouv.fr/files/tracfin_2014.pdf" target="_blank"><strong>Téléchargez le rapport d'activité 2014 de Tracfin</strong> - application/pdf - 2.93 Mo - 16/04/2015</a></li></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/lettre-dinformation-aux-professionnels-n%C2%B08">Lettre d&#039;information aux professionnels n°11</a>                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p class="contenu" id="chapo">Au sommaire de ce numéro dédié à l'activité déclarative des Commissaires aux comptes et Experts-comptables en 2014 :</p>
+
+<ul><li>
+	<p>2014, une hausse encourageante ;</p>
+	</li>
+	<li>
+	<p>la révélation de faits délictueux au procureur versus la déclaration de soupçon à Tracfin ;</p>
+	</li>
+	<li>
+	<p>cas typologique : un client peut-il se rendre complice de blanchiment de capitaux sans le savoir ?</p>
+	</li>
+	<li>
+	<p>Questions/réponses.</p></li></ul></div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/communique-gafi-27-juin-2014">Communiqué du GAFI (27 juin 2014)</a>                          <span class="date"> - 02/07/2014</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p id="">Le 27 juin dernier, le Groupe d'action financière (GAFI) a publié dans un communiqué la liste des pays à haut risque et non coopératifs afin qu'ils améliorent leur système anti-blanchiment et comblent leurs défaillances.</p>
+</div>
+    <div class="clear"></div>
+    <a href="http://www.fatf-gafi.org/fr/themes/juridictionsahautrisqueetnoncooperatives/documents/declaration-publique-juin-2014html.html">Consulter la liste ICRG sur le site du GAFI</a>    <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/conditions-recevabilite-declaration">Les conditions de recevabilité de la déclaration</a>                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p class="contenu" id="chapo">Le décret n°2013-480 du 6 juin 2013 fixant les conditions de recevabilité de la déclaration effectuée en application de l'article L. 561-15 du code monétaire et financier et ainsi que l’arrêté du 6 juin 2013 fixant les modalités de transmission de la déclaration effectuée en application de l'article L. 561-15 du code monétaire et financier et d'information du déclarant de l'irrecevabilité de sa déclaration, sont parus au JORF du 8 juin 2013.</p>
+</div>
+    <div class="clear"></div>
+        <ul><li class="pdf"><a href="http://www.economie.gouv.fr/files/conditions%20de%20recevabilite.pdf" target="_blank"><strong>Les conditions de recevabilité</strong> - application/pdf - 209.56 Ko - 11/06/2013</a></li></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-column panels-flexible-column-minefe_panel-2 panels-flexible-column-last ">
+  <div class="inside panels-flexible-column-inside panels-flexible-column-minefe_panel-2-inside panels-flexible-column-inside-last">
+<div class="panels-flexible-region panels-flexible-region-minefe_panel-region_droite_ panels-flexible-region-first panels-flexible-region-last ColB">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-minefe_panel-region_droite_-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+      
+                  <fieldset><legend>  </legend></fieldset>
+          <h1 class="pane-title">Tracfin                      </h1>
+        
+        
+
+       
+
+    </div>
+
+    
+  
+
+<!-- mode complet story -->
+<a name="contenuprincipal" id="contenuprincipal"></a>
+<div >
+  
+  <div id="ColContenu" class="clear">
+    <div class="contenu story">
+      <div class="inner">
+      
+      
+      
+        
+        <div class="inner2">
+          <div class="txtVisu left">
+                        
+            <div class="blocTxt"> <p>Tracfin <strong>est un Service de renseignement </strong>rattaché au Ministère des Finances et des Comptes publics<strong>.</strong> Il concourt au développement d’une économie saine en luttant contre les circuits financiers clandestins, le blanchiment d’argent et le financement du terrorisme. Le Service est chargé de recueillir, analyser et enrichir les déclarations de soupçons que les professionnels assujettis sont tenus, par la loi, de lui déclarer.</p>
+
+<h3>Tracfin n'est pas habilité à recevoir et traiter les informations transmises par des particuliers. De même, le Service n'a pas vocation à fournir aux particuliers de documentations autres que celles publiées sur ce site.</h3>
+</div>
+            <div class="clear"></div>
+                        <ul><li class="pdf"><a href="http://www.economie.gouv.fr/files/tracfin_avril2015.pdf" target="_blank"><strong>Les missions de Tracfin</strong> - application/pdf - 1.13 Mo - 04/05/2015</a></li></ul>            
+          </div>
+                      <div class="clear"></div>
+            <span class="date-modification"></span> 
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div id="addthis"><!-- AddThis Button BEGIN -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50c8bb3a7979a950" async="async"></script>
+<div class="addthis_sharing_toolbox"></div>
+<!-- AddThis Button END --></div> 
+  
+    
+</div>
+
+<div id="ColB">
+  
+  <div id="ColContextuelle">
+    <div class="contenu besoins"></div>
+  </div>
+  
+    
+    
+</div>
+
+
+  <div class="clearfix">
+          <div class="links"></div>
+    
+      </div>
+
+  
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/utilisation-frauduleuse-lidentite-tracfin">Utilisation frauduleuse de l&#039;identité de Tracfin</a>                          <span class="date"> - 26/06/2015</span>
+                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><p>Des cas d’utilisations frauduleuses de l’identité de Tracfin, par contact téléphonique et par courrier électronique, ont été récemment détectés par des déclarants.</p>
+
+<p> </p>
+</div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-story fieldset">
+
+        
+
+                        <h3  class="pane-title">  
+            <a href="/tracfin/tele-declaration-ermes">Télé déclaration ERMES</a>                      </h3> 
+               
+
+    </div>
+
+    
+  
+
+<!-- mode resume story -->
+<div class="contenu   type1 story">
+  <div class="fieldset">
+  
+    
+    
+  
+
+  <div class="inner2">
+    <div class="txtVisu left">
+        
+    <div class="blocTxt"><div class="inner2">
+	<p class="rtecenter"><a href="https://tracfin.finances.gouv.fr/Pages/Login.aspx?ReturnUrl=%2f"><img alt="" src="/files/files/directions_services/tracfin/Declarer/visuels-v2-05.jpg" style="width: 130px; height: 105px;" /></a></p>
+</div>
+</div>
+    <div class="clear"></div>
+        <ul></ul>    
+    </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+jQuery(".show").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).next().show();
+		jQuery(this).hide();
+		
+		return false; 
+
+	});
+ });
+jQuery(".hide").each(function(i) {
+	
+	jQuery(this).click(function(event){
+		jQuery(this).parent().hide();
+		jQuery(this).parent().prev().show();
+		
+		return false; 
+
+	});
+ });
+</script>  
+
+
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node" >
+
+
+    
+  
+    <div class="panneau-information fieldset">
+
+      
+                  <h3 class="pane-title">S&#039;abonner au flux rss                      </h3>
+        
+        
+
+       
+
+    </div>
+
+    
+  
+
+  <!-- Mode complet -->
+  <div class="contenu information">
+    <legend></legend>
+
+        
+        
+    <div class="inner2">
+      <div class="blocTxt">
+        <p><br /><a href="http://www.economie.gouv.fr/tracfin/rss"><img alt="" src="/files/files/directions_services/tracfin/img/ico_rss.gif" style="width: 18px; height: 18px; float: left; margin-left: 5px; margin-right: 5px;" />Flux des actualités Tracfin</a></p>
+                <ul></ul>      </div>
+    </div>
+
+          <div class="clear"></div>
+      <span class="date-modification"><span class="date-display-single">29/10/2012</span></span> 
+      </div>
+
+  
+
+
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  <div class="clear"></div>
+
+      </div>
+
+    
+</div>
+  </div>
+
+     <div class="clear"></div>
+
+      <!--Haut de page-->
+      <div class="top">
+         <p><a href="#HautDePage">Haut de page</a></p>
+      </div>
+
+
+  
+      </div><!-- secondNav-content-module-->
+    </div><!-- #secondNav-submodule-->
+  </div><!--/secondNav-module-->
+
+  
+
+</div><!--/ContainerCols-->
+
+<!-- ###PIED_PAGE### -->
+<div id="PiedDePage" class="footer">
+
+    <div class="footer-mobile">
+
+      <button type="button" class="footer-mobile-trigger">Mentions légales &amp; infos pratiques</button>
+      <div class="footer-mobile-wrapper">
+      <ul class="footer-links"><li class="menu-50725 first"><a href="/plan-du-portail">Plan du portail</a></li>
+<li class="menu-50726"><a href="/accessibilite">Accessibilité</a></li>
+<li class="menu-50727"><a href="/mentions-legales">Mentions légales</a></li>
+<li class="menu-50728"><a href="/assistance-aux-utilisateurs">Assistance aux utilisateurs</a></li>
+<li class="menu-50729 last"><a href="/contact">Contact</a></li>
+</ul>      </div><!--/footer-mobile-wrapper-->
+    </div><!--/footer-mobile-->
+
+
+
+    <div class="region region-pied-de-page">
+    
+<div id="block-menu-menu-menu-pied-de-page" class="block block-menu ">
+  
+      
+  <div class="content">
+    <div class="cat"><p>Informations sur le portail<ul><li><a href="/plan-du-portail">Plan du portail</a></li><li><a href="/statistiques-consultation" title="" class="">Statistiques de consultation</a></li><li><a href="http://vip.sphinxonline.net/sircom/evaluation_portail_economie/questionnaire.htm" title="" class="">Evaluez le portail</a></li><li><a href="http://www.economie.gouv.fr/cedef/repertoire-des-informations-publiques" title="" class="">Répertoire des informations publiques</a></li><li><a href="http://www.data.gouv.fr/" title="" class="">data.gouv.fr</a></li><li><a href="/accessibilite" title="" class="">Accessibilité</a></li><li><a href="/mentions-legales" title="" class="">Mentions légales</a></li><li><a href="/assistance-aux-utilisateurs" title="" class="">Assistance aux utilisateurs</a></li><li><a href="/contact" title="" class="">Contact</a></li></ul></p>
+</div>
+<div class="cat"><p>Les rubriques du portail<ul><li><a href="/">Accueil</a></li><li><a href="/toutes-les-actualites">Actualités</a></li><li><a href="/vous-orienter">Vous orienter</a></li><li><a href="/les-ministeres">Les ministères</a></li><li><a href="/presse">Salle de presse</a></li><li><a href="/consultations-publiques">Consultations publiques</a></li></ul></p>
+</div>
+<div class="cat"><p>Suivre l'information<ul><li><a href="/colloques-et-salons-2015">Colloques et salons</a></li><li><a href="http://www.economie.gouv.fr/vous-orienter/par-besoin/acceder-publications-documentation-archives" class="">Documentation et lettres d&#039;information</a></li><li><a href="http://www.economie.gouv.fr/bulletin-officiel">Bulletins officiels</a></li><li><a href="/rss" class="">Flux RSS</a></li><li><a href="http://twitter.com/_Bercy_" class="">Twitter</a></li><li><a href="http://www.facebook.com/pages/Minist%C3%A8res-%C3%A9conomique-et-financier-de-Bercy/199288916446" class="">Facebook</a></li><li><a href="http://blogs.economie.gouv.fr/les-cafes-economiques-de-bercy/" class="">Blog des cafés économiques</a></li></ul></p>
+</div>
+<div class="cat"><p>S'informer pour agir<ul><li><a href="/vous-orienter/par-besoin/creer-entreprise" title="" class="">Créer une entreprise</a></li><li><a href="/vous-orienter/par-besoin/mieux-connaitre-droits-consommateurs" title="" class="">Connaitre ses droits de consommateur</a></li><li><a href="/vous-orienter/par-besoin/informer-commande-publique-concourir-marches-publics-achats" title="" class="">S&#039;informer sur la commande publique et concourir à un marché public</a></li><li><a href="http://www.economie.gouv.fr/dgfip/taux_chancellerie_change" title="" class="">Consulter les taux de chancellerie (avec frais de mission)</a></li><li><a href="/vous-orienter/par-besoin/exporter" title="" class="">Exporter, se positionner à l&#039;international</a></li><li><a href="http://www.economie.gouv.fr/cedef" title="" class="">Consulter les ressources documentaires</a></li></ul></p>
+</div>
+<div class="cat last"><p>Portails associés<ul><li><a href="http://www.emploi.gouv.fr" class="">emploi.gouv.fr</a></li><li><a href="https://www.guichet-entreprises.fr/article/repertoire-des-aides-publiques-aux-entreprises-0" class="">guichet-entreprises.fr</a></li><li><a href="https://www.marches-publics.gouv.fr" class="">marches-publics.gouv.fr</a></li><li><a href="http://www.service-public.fr/professionnels-entreprises/" class="">service-public.fr (professionnels et entreprises)</a></li></ul></p>
+</div>
+  </div>
+
+    
+</div>
+  </div>
+    
+      <div id="PiedDePageAnnexe">
+      <ul>
+<li><a href="http://www.service-public.fr/" title="Service Public"><img src="/files/files/sp.png" alt="Service Public" /></a></li>
+<li><a href="http://www.legifrance.gouv.fr/" title="LEGIFRANCE, le service public de la diffusion du droit"><img src="/sites/all/themes/bercy/img/legifrance.gif" alt="LEGIFRANCE, le service public de la diffusion du droit" /></a></li>
+<li><a href="http://www.gouvernement.fr" target="_blank"><img alt="http://www.gouvernement.fr" src="/files/files/LOGO_GOUV_120x45.jpg" style="width: 120px; height: 45px;" /></a></li>
+<li><a href="http://www.france.fr" target="_blank"><img alt="France.fr" src="/files/files/france-fr.gif" style="width: 143px; height: 45px;" /></a></li>
+<li class="last"><a href="http://references.modernisation.gouv.fr/accessibilite-numerique" title="Accessibilité numérique"><img src="/sites/all/themes/bercy/img/rgaa.gif" alt="Accessibilité numérique" /></a></li>
+</ul>    </div>
+      
+      <div id="PiedDePageEnd">
+      <p>&copy; Le portail de l'économie et des finances</p>      <span class="bt"></span>
+    </div>
+  
+</div><!-- ###PIED_PAGE### -->
+
+<!-- champ caché afin de pouvoir juste récupérer dans les fichiers js la variable sétter, qui correspond au path des themes -->
+<form action="">
+  <input id="path_to_theme" type="hidden" value = "http://www.economie.gouv.fr/sites/all/themes/bercy"/>
+  <input id="base_url" type="hidden" value = "http://www.economie.gouv.fr"/>
+  <input id="dateset" type="hidden" value = ""/>
+</form><!-- ###XITI### -->
+<script type="text/javascript">
+<!--
+  xtnv = document;        //parent.document or top.document or document         
+  xtsd = "https://logs4";
+  xtsite = "483556";
+  xtn2 = "33";        // level 2 site ID
+  xtpage = "accueil::accueil_tracfin"; //page name (with the use of :: to create chapters)
+  xtdi = "";        //implication degree
+    xtergo = "0";		//ClickZone activation
+  xt_multc = "";		//all the xi indicators (like "&x1=...&x2=....&x3=...")
+  xt_an = "";        //user ID
+  xt_ac = "";        //category ID
+//do not modify below
+  if (window.xtparam != null) {
+    window.xtparam += xt_multc + "&ac=" + xt_ac + "&an=" + xt_an;
+  }
+  else {
+    window.xtparam = xt_multc + "&ac=" + xt_ac + "&an=" + xt_an;
+  }
+  ;
+//-->
+</script>
+
+<script type="text/javascript" language="javascript" src="/sites/all/themes/bercy/lib/js/common/xtclicks.js"></script>
+<script type="text/javascript" src="/sites/all/themes/economie/lib/js/custom/xtcore.js"></script>
+<noscript>
+<img width="1" height="1" src="https://logs4.xiti.com/hit.xiti?s=483556&amp;s2=33&amp;p=accueil::accueil_tracfin&amp;di=x&amp;an=&amp;ac=" alt='image xiti'/>
+</noscript>
+<!-- ###XITI### -->
+<!-- ###DOCUMENT_BODY### end-->
+    <script type="text/javascript" src="http://www.economie.gouv.fr/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?nv86m1"></script>
+
+  </div><!--/wrapper-->
+
+
+</body><!--/body-->
+</html>

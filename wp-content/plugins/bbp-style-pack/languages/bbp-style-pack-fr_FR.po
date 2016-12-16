@@ -1,0 +1,1525 @@
+# Copyright (C) 2015 bbp style pack
+# This file is distributed under the same license as the bbp style pack package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbp style pack 2.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bbp-style-pack\n"
+"POT-Creation-Date: 2015-04-24 15:02:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-05-04 01:07+0100\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: ikiu <ikiu91@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.7.6\n"
+
+#: extras/loop-forums.php:25 includes/shortcode_display.php:47
+msgid "Forum"
+msgstr "Forum"
+
+#: extras/loop-forums.php:26
+msgid "Topics"
+msgstr "Sujets"
+
+#: extras/loop-forums.php:27
+msgid "Replies"
+msgstr "Réponses"
+
+#: extras/loop-forums.php:27
+msgid "Posts"
+msgstr "Articles"
+
+#: extras/loop-forums.php:28
+msgid "Freshness"
+msgstr "Recemment"
+
+#: includes/breadcrumb.php:14 includes/settings.php:40
+msgid "Breadcrumbs"
+msgstr "Fil d'ariane"
+
+#: includes/breadcrumb.php:22
+msgid ""
+"Breadcrumbs are shown to allow users to track back and forth, clicking the "
+"links to jump to each area."
+msgstr ""
+"Fil d'ariane est indiqué afin de permettre aux utilisateurs de revenir en "
+"arrière, en cliquant sur les liens pour accéder à chaque zone."
+
+#: includes/breadcrumb.php:26
+msgid ""
+"If your theme provides breadcrumbs you may want to disable them, or you may "
+"simply not wish to show them."
+msgstr ""
+"Si votre thème fournit le fil d'ariane vous pouvez le désactiver, ou vous "
+"pouvez simplement ne pas le montrer."
+
+#: includes/breadcrumb.php:30
+msgid ""
+"If you do show them, you may wish not to show all the links, or to change "
+"what the text says."
+msgstr ""
+"Si vous ne les montrez pas, vous pourriez ne pas afficher tous les liens, ou "
+"pour changer ce que dit le texte."
+
+#: includes/breadcrumb.php:34
+msgid ""
+"The home breadcrumb link will take you to your theme's 'front page' as set in "
+"wordpress."
+msgstr ""
+"Le lien home du fil d'ariane vous emmènera à la front page du thème comme "
+"indiqué dans wordpress."
+
+#: includes/breadcrumb.php:38
+msgid "The root breadcrumb will take you to either : "
+msgstr "La  racine du fil d'ariane vous emmènera ici :"
+
+#: includes/breadcrumb.php:41
+msgid ""
+"a) The forum root as set in Dashboard>Settings>forums>Forum Root Slug>Forum "
+"Root"
+msgstr ""
+"a) la racine du forum comme indiqué dans le tableau de bord > paramètres > "
+"forums > Identifiant Forum racine > Forum racine"
+
+#: includes/breadcrumb.php:43
+msgid "or"
+msgstr "ou"
+
+#: includes/breadcrumb.php:46
+msgid ""
+"b) to a page with a shortcode if you have set this up.  To do this create a "
+"page in wordpress and include the shortcode [bbp-forum-index] (or other "
+"bbpress shortcode). "
+msgstr ""
+"b) vers une page avec un shortcode si vous avez configuré cela.  Pour ce "
+"faire, créer une page dans wordpress et inclure le shortcode [bbp-forum-"
+"index] (ou autre shortcode bbpress)."
+
+#: includes/breadcrumb.php:49
+msgid ""
+"Then either see what the permalink is for that page or set it to what you "
+"want (just under the title when editing), and put that exact end permalink "
+"into the forum root in"
+msgstr ""
+"Puis soit voir ce que le permalien est pour cette page ou définissez-le sur "
+"ce que vous voulez (juste sous le titre lors de l'édition) et mettre la fin "
+"exacte de ce permalien dans la racine du forum"
+
+#: includes/breadcrumb.php:52
+msgid "Dashboard>Settings>forums>Forum Root Slug>Forum Root"
+msgstr ""
+"Tableau de bord > paramètres > forums > Identifiant Forum racine > Forum "
+"racine"
+
+#: includes/breadcrumb.php:56
+msgid "The following settings let you control the breadcrumbs."
+msgstr "Les paramètres suivants vous permettent de contrôler le fil d'ariane."
+
+#: includes/breadcrumb.php:73
+msgid "Disable All forum Breadcrumbs"
+msgstr "Désactiver le fil d'ariane dans tout le forum"
+
+#: includes/breadcrumb.php:79
+msgid "Click to disable breadcrumbs"
+msgstr "Cliquer pour désactiver le fil d'ariane"
+
+#: includes/breadcrumb.php:93
+msgid "Disable Home breadcrumbs"
+msgstr "Désactiver la base du fil d'ariane"
+
+#: includes/breadcrumb.php:98
+msgid "Click to disable home breadcrumb"
+msgstr "Cliquer pour désactiver la base du fil d'ariane"
+
+#: includes/breadcrumb.php:107
+msgid ""
+"You can change what the home breadcrumb says eg \"back to site\", \"Exit "
+"forums\" \"Back to home\" etc"
+msgstr ""
+"Vous pouvez modifier ce que la racine du fil d'ariane dit par exemple "
+"\"retour au site\", \"Sortie du Forum\" \"Retour à l'origine\" etc."
+
+#: includes/breadcrumb.php:121
+msgid "Disable Root breadcrumbs"
+msgstr "Desactiver la racine du fil d'ariane"
+
+#: includes/breadcrumb.php:126
+msgid "Click to disable root breadcrumb"
+msgstr "Cliquer pour desactiver la racine du fil d'ariane"
+
+#: includes/breadcrumb.php:135
+msgid "You can change what the root breadcrumb says eg \"The forums\",  etc"
+msgstr ""
+"Vous pouvez modifier ce que la racine du fil d'ariane dit par exemple \" Les "
+"forums\", etc."
+
+#: includes/breadcrumb.php:149
+msgid "Disable current breadcrumb "
+msgstr "Désactiver le fil d'ariane actuel"
+
+#: includes/breadcrumb.php:154
+msgid "Click to disable current breadcrumb"
+msgstr "Cliquer pour désactiver le fil d'ariane actuel"
+
+#: includes/breadcrumb.php:163
+msgid ""
+"You can change what the current breadcrumb says eg \"you are here\", but this "
+"will apply to all \"current\" entries"
+msgstr ""
+"Vous pouvez modifier ce que le fil d'ariane actuel dit par exemple \"vous "
+"êtes ici\", mais cette mesure s'appliquera à toutes les rubriques \"actuelles "
+"\""
+
+#: includes/breadcrumb.php:173 includes/forum_display.php:178
+#: includes/login.php:195 includes/style_settings.php:451
+#: includes/style_settingsf.php:624 includes/style_settingsform.php:203
+#: includes/style_settingst.php:451 includes/style_settingsti.php:560
+msgid "Save changes"
+msgstr "Sauvegarder les changements"
+
+#: includes/extras.php:12 includes/settings.php:42
+msgid "Extras"
+msgstr "Suppléments"
+
+#: includes/extras.php:18 includes/widgets_settings.php:17
+msgid "Only 1 extra at the moment - others will be added"
+msgstr "1 seul supplément pour le moment - d'autres seront ajoutés"
+
+#: includes/extras.php:21
+msgid "Forum template"
+msgstr "Template du Forum"
+
+#: includes/extras.php:24
+msgid "This template shows the forums as Hierarchical"
+msgstr "Le panneau de gauche présente la structure hiérarchique."
+
+#: includes/extras.php:27 includes/forum_display.php:21
+msgid "FROM"
+msgstr "DE"
+
+#: includes/extras.php:28 includes/forum_display.php:22
+msgid "TO"
+msgstr "A"
+
+#: includes/extras.php:34
+msgid "To use this template :"
+msgstr "Pour utiliser ce modèle :"
+
+#: includes/extras.php:38
+msgid "1. Create a directory on your theme called 'bbpress'"
+msgstr "1. Créez un répertoire sur votre thème appelé \"bbpress\""
+
+#: includes/extras.php:42
+msgid "ie wp-content/themes/%your-theme-name%/bbpress"
+msgstr "C'est à dire wp-content/themes/%your-theme-name%/bbpress"
+
+#: includes/extras.php:46
+msgid "where %your-theme-name% is the name of your theme"
+msgstr "où %your-theme-name% est le nom de votre thème"
+
+#: includes/extras.php:50
+msgid "so if your theme is called 'lion', then the directory will be :"
+msgstr "donc si votre thème est appelé « lion », le répertoire sera :"
+
+#: includes/extras.php:55
+msgid "wp-content/themes/lion/bbpress"
+msgstr "wp-content/themes/lion/bbpress"
+
+#: includes/extras.php:61
+msgid ""
+"2. Find wp-content/plugins/bbp-style-pack/extras/loop-forums.php and make a "
+"copy"
+msgstr ""
+"2. trouver wp-content/plugins/bbp-style-pack/extras/loop-forums.php et faire "
+"une copie"
+
+#: includes/extras.php:64
+msgid ""
+"3. Paste this copy into the directory called bbpress that you created in 1. "
+"above, so you end up with :"
+msgstr ""
+"3. Collez cette copie dans le répertoire appelé bbpress que vous avez créé en "
+"1. ci-dessus, alors vous vous retrouvez avec :"
+
+#: includes/extras.php:67
+msgid "wp-content/themes/%your-theme-name%/bbpress/loop-forums.php"
+msgstr "C'est à dire wp-content/themes/%your-theme-name%/bbpress"
+
+#: includes/extras.php:71
+msgid "so for a theme called lion you will have :"
+msgstr "donc pour un thème appelé lion vous aurez :"
+
+#: includes/extras.php:75
+msgid "wp-content/themes/lion/bbpress/loop-forums.php"
+msgstr "wp-content/themes/lion/bbPress/Loop-forums.php"
+
+#: includes/extras.php:80
+msgid ""
+"4. Reload the site - just refreshing the browser will <b> not </b> do.  If in "
+"doubt, shutdown your browser and restart."
+msgstr ""
+"4. recharger le site - juste actualiser le navigateur <b>ne suffira pas</b>.  "
+"En cas de doute, arrêtez votre navigateur et redémarrez."
+
+#: includes/extras.php:85
+msgid ""
+"To stop using this just delete the file wp-content/%your-theme-name%/bbpress/"
+"loop-forums.php"
+msgstr ""
+"Pour cesser d'utiliser cela il suffit de supprimer le fichier wp-content/"
+"%your-theme-name%/bbpress/loop-forums.php"
+
+#: includes/forum_display.php:16
+msgid "This section allows you to amend the way the forums display."
+msgstr ""
+"Cette section vous permet de modifier la façon dont s'affichent les forums."
+
+#: includes/forum_display.php:20
+msgid "CHANGE"
+msgstr "Changement"
+
+#: includes/forum_display.php:23 includes/login.php:77 includes/login.php:141
+#: includes/login.php:187
+msgid "Click to activate"
+msgstr "Cliquez pour activer"
+
+#: includes/forum_display.php:31
+msgid "Forum List"
+msgstr "Liste des forums"
+
+#: includes/forum_display.php:32
+msgid "Alter the list from horizontal to vertical"
+msgstr "Modifier la liste d'horizontal à vertical"
+
+#: includes/forum_display.php:42
+msgid "Change to column list"
+msgstr "Changer en liste en colonne"
+
+#: includes/forum_display.php:49
+msgid "Hide sub-forum counts"
+msgstr "Masquer les comptes de sous-forum"
+
+#: includes/forum_display.php:59
+msgid "Hide counts"
+msgstr "Masquer les comptes"
+
+#: includes/forum_display.php:67
+msgid "Move subscribe"
+msgstr "Bouger les souscriptions"
+
+#: includes/forum_display.php:68
+msgid "Stop subscribe resting against the breadcrumb"
+msgstr "Stopper l'inscription contre le fil d'ariane"
+
+#: includes/forum_display.php:78
+msgid "Move subscribe to right"
+msgstr "Déplacer les souscriptions a droite"
+
+#: includes/forum_display.php:86
+msgid "Remove \"Private\" prefix"
+msgstr "Supprimer le Prefixe \"Privé\""
+
+#: includes/forum_display.php:87
+msgid "Remove private prefix for forums and topics"
+msgstr "Supprimer le préfixe privé pour les forums et sujets"
+
+#: includes/forum_display.php:97
+msgid "Move subscribe to rightRemove private prefix"
+msgstr "Déplacer les souscriptions à droite"
+
+#: includes/forum_display.php:104
+msgid "Add \"Create New Topic\" link"
+msgstr "Ajouter un lien \"Créer un nouveau sujet\""
+
+#: includes/forum_display.php:105
+msgid "Adds a \"Create New Topic\" for individual forums"
+msgstr "Ajouter un lien \"Créer un nouveau sujet\" pour les forums individuels"
+
+#: includes/forum_display.php:115
+msgid "Add New topic link"
+msgstr "Ajouter un lien Nouveau Sujet"
+
+#: includes/forum_display.php:122
+msgid "Create New Topic Description"
+msgstr "Créer une Description Nouveau Sujet"
+
+#: includes/forum_display.php:130
+msgid ""
+"By default this will be \"Create New Topic\".<p> Enter any alternate wording "
+"e.g. \"Start new Topic\", \"Begin a debate\" etc."
+msgstr ""
+"Par défaut, ce sera « Créer un nouveau sujet ».<p>Entrez tout autre libellé, "
+"par exemple, \"Démarrer un nouveau sujet\", \"Lancer un débat\" etc."
+
+#: includes/forum_display.php:136
+msgid "Add Forum Description"
+msgstr "Ajouter une Description du Forum"
+
+#: includes/forum_display.php:137
+msgid "Adds description to the display"
+msgstr "Ajoute la description à l'affichage"
+
+#: includes/forum_display.php:155
+msgid "Add Rounded Corners"
+msgstr "Ajouter des coins arrondis"
+
+#: includes/forum_display.php:156
+msgid "Adds rounded corners"
+msgstr "Ajoute des coins arrondis"
+
+#: includes/functions.php:56
+msgid "Create New Topic"
+msgstr "Créer un  nouveau sujet"
+
+#: includes/functions.php:158
+msgid "Edit Profile"
+msgstr "Editer le Profil"
+
+#: includes/functions.php:178
+msgid "Register"
+msgstr "S'inscrire"
+
+#: includes/help.php:12 includes/settings.php:44
+msgid "Help"
+msgstr "Aide"
+
+#: includes/help.php:18
+msgid "Colors"
+msgstr "Couleurs"
+
+#: includes/help.php:21
+msgid ""
+"Colors are entered as a color eg 'red' or a hex number for that color eg "
+"'#ff0000'"
+msgstr ""
+"Les Couleurs sont entrées comme une couleur par exemple « red » ou un nombre "
+"hexadécimal pour cette couleur, par exemple « #ff0000 »"
+
+#: includes/help.php:26 includes/help.php:45 includes/help.php:83
+msgid "See"
+msgstr "Voir"
+
+#: includes/help.php:28 includes/help.php:47 includes/help.php:85
+msgid "for further info"
+msgstr "pour obtenir plus de renseignements"
+
+#: includes/help.php:34 includes/style_settings.php:144
+#: includes/style_settings.php:232 includes/style_settings.php:272
+#: includes/style_settings.php:312 includes/style_settingsf.php:90
+#: includes/style_settingsf.php:147 includes/style_settingsf.php:242
+#: includes/style_settingsf.php:287 includes/style_settingsf.php:332
+#: includes/style_settingsf.php:385 includes/style_settingsf.php:429
+#: includes/style_settingsf.php:512 includes/style_settingsf.php:566
+#: includes/style_settingsform.php:45 includes/style_settingsform.php:120
+#: includes/style_settingst.php:133 includes/style_settingst.php:189
+#: includes/style_settingst.php:243 includes/style_settingst.php:287
+#: includes/style_settingst.php:335 includes/style_settingst.php:393
+#: includes/style_settingsti.php:46 includes/style_settingsti.php:104
+#: includes/style_settingsti.php:199 includes/style_settingsti.php:247
+#: includes/style_settingsti.php:362 includes/style_settingsti.php:447
+msgid "Font"
+msgstr "Police"
+
+#: includes/help.php:37
+msgid ""
+"Fonts can be single  eg 'Arial' or or a font family such as 'arial, Times, "
+"serif'"
+msgstr ""
+"Les polices peuvent être simple par exemple « Arial » ou une famille de "
+"fontes telles que « arial, Times, serif'"
+
+#: includes/help.php:41
+msgid ""
+"Where a font has more than one word such as Times New Roman, the it must be "
+"entered with double quotes eg \"Times New Roman\""
+msgstr ""
+"Si une police a plus d'un mot comme Times New Roman, l'information doit être "
+"saiiei avec des guillemets doubles, par exemple \" Times New Roman\""
+
+#: includes/help.php:53
+msgid "Font Size"
+msgstr "﻿Taille de la police"
+
+#: includes/help.php:56
+msgid ""
+"Fonts can be specified as absolute-size eg 'medium', relative size eg "
+"'larger', length eg '12px' or '0.8em' or as a percentage eg 80%"
+msgstr ""
+"Les Polices peuvent être spécifiées en format absolu par exemple « moyen », "
+"en taille relative par exemple « plus grand », Taille eg « 12px » ou '0.8em' "
+"ou en pourcentage par exemple 80 %"
+
+#: includes/help.php:60
+msgid "A good explanation  is contained in"
+msgstr "Une bonne explication est contenue dans"
+
+#: includes/help.php:64
+msgid "bbpress uses px eg '12px', but the choice is yours !"
+msgstr "bbPress utilise px par exemple « 12px », mais chosissez le vôtre !"
+
+#: includes/help.php:69
+msgid "Border style"
+msgstr "Style de contour"
+
+#: includes/help.php:72
+msgid ""
+"Borders can be specified as solid, dashed, dotted, groove, ridge, inset & "
+"outset"
+msgstr ""
+"Les bourdures peuvent être spécifiées comme solid, dashed, dotted, groove, "
+"ridge, inset & outset "
+
+#: includes/help.php:76
+msgid "Common values are solid, dashed, dotted"
+msgstr "Les valeurs courantes sont Traits, tirets, pointillés"
+
+#: includes/help.php:80
+msgid ""
+"Values groove, ridge, inset & outset need a border wider than 1px (5px is a "
+"good start point) for the effect to work"
+msgstr ""
+"Values groove, ridge, inset & outset ont d'abord besoin d'une bordure plus "
+"large que 1px (5px est un bon point de départ) pour l'effet à travailler"
+
+#: includes/login.php:14
+msgid "Login options"
+msgstr "Options de connexion"
+
+#: includes/login.php:21
+msgid "There are many ways to get users logged into forums."
+msgstr ""
+"Il y a plusieurs façons d'obtenir des utilisateurs connectés dans les forums."
+
+#: includes/login.php:25
+msgid ""
+"a. Remember bbPress just uses the wordpress login, so any plugin that does "
+"wordpress login will also do bbPress.There are lots out there go to"
+msgstr ""
+"a. Souvenez vous que bbPress utilise juste le login de wordpress, donc "
+"n'importe quel plugin de connexion wordpress agira aussi sur bbPress.Il y a "
+"beaucoup à faire"
+
+#: includes/login.php:29
+msgid ""
+"b. Within bbPress you can use the sidebar login widget "
+"Dashboard>appearance>widgets and look for (bbpress) Login widget"
+msgstr ""
+"b. Avec bbPress, vous pouvez utiliser le widget de connexion sidebar "
+"Dashboard > apparence > widgets et recherchez le widget (bbpress login)"
+
+#: includes/login.php:32
+msgid ""
+"c. Or use a page or post to display the widget using the shortcode  [bbp-"
+"login]"
+msgstr ""
+"c. Ou utiliser une page ou un message pour afficher le widget utilisant le "
+"shortcode [bbp-login]"
+
+#: includes/login.php:35
+msgid ""
+"d. The following adds a simple login/logout to your menu and/or Register/Edit "
+"Profile"
+msgstr ""
+"d. L'exemple suivant ajoute une simple connexion/déconnexion à votre menu et/"
+"ou Enregistrer/Modifier un profil"
+
+#: includes/login.php:38
+msgid ""
+"This can the give you the combination of 'login/Register' and 'logout/edit "
+"profile' as a menu display, which means users only see relevant items"
+msgstr ""
+"Cela peut vous donner la combinaison 'se connecter/s'inscrire' et « logout/"
+"editer le profil » comme un affichage de menu, ce qui signifie que les "
+"utilisateurs voient uniquement les points pertinents"
+
+#: includes/login.php:50
+msgid "Not Logged in"
+msgstr "Non connecté."
+
+#: includes/login.php:53
+msgid "Logged in "
+msgstr "Connecté"
+
+#: includes/login.php:70
+msgid "Add login/logout to menu items"
+msgstr "Ajouter la connexion/déconnexion aux éléments de menu"
+
+#: includes/login.php:83
+msgid "You can opt to only show these menu items on forum pages"
+msgstr ""
+"Vous pouvez choisir d'afficher uniquement ces éléments de menu sur les pages "
+"du forum"
+
+#: includes/login.php:90
+msgid "Only show on forum pages"
+msgstr "Afficher uniquement sur les pages du forum"
+
+#: includes/login.php:97
+msgid "Login/logout"
+msgstr "Connexion et déconnexion:"
+
+#: includes/login.php:98
+msgid "Login page"
+msgstr "Page connexion"
+
+#: includes/login.php:99
+msgid "Logout page"
+msgstr "Page de déconnexion"
+
+#: includes/login.php:100
+msgid "Logged in text"
+msgstr "Texte de Bienvenue (pour les utilisateurs connectés)"
+
+#: includes/login.php:112
+msgid ""
+"You should create a wordpress page with a login shortcode such as [bbp-login] "
+"and put the full url in here e.g. http://www.mysite.com/loginpage. If left "
+"blank the default wordpress login page will be used."
+msgstr ""
+"Vous devez créer une page de wordpress avec un shortcode connexion tels que "
+"[bbp-connexion] et mettre l'url complète ici par exemple http://www.mysite."
+"com/loginpage. Si laissé vide ira à la page de connexion de wordpress par "
+"défaut."
+
+#: includes/login.php:120
+msgid ""
+"This will be the url of the page you want users sent to on logout. For "
+"example this might be the home page or forums page http://www.mysite.com/home "
+"or http://www.mysite.com/forums"
+msgstr ""
+"Il s'agit de l'url de la page que vous souhaitez que les utilisateurs se "
+"logout. Par exemple, cela pourrait être la page d'accueil ou la page forums "
+"http://www.mysite.com/home ou http://www.mysite.com/forums"
+
+#: includes/login.php:128
+msgid ""
+"If you are using [bbp-login], then users will get \"you are already logged in"
+"\" once they log in.  Maybe change this to something nicer such as \"You are "
+"currently logged in\" "
+msgstr ""
+"Si vous utilisez [bbp-connexion], alors les utilisateurs verront \"vous êtes "
+"déjà connecté comme\" une fois qu'ils sont connectés.  Rendez ce texte plus "
+"agréable comme \"Vous êtes actuellement connecté comme\""
+
+#: includes/login.php:135
+msgid "Show a menu 'Register' item to non-logged in users"
+msgstr "Afficher un menu « S'inscrire » pour utilisateurs non enregistrés"
+
+#: includes/login.php:150
+msgid "Register Page"
+msgstr "Page d'enregistrement"
+
+#: includes/login.php:151
+msgid "Register page"
+msgstr "Page d'enregistrement"
+
+#: includes/login.php:152
+msgid "Menu Item Description"
+msgstr "Description des éléments du menu"
+
+#: includes/login.php:162
+msgid ""
+"You should create a wordpress page with a register shortcode such as [bbp-"
+"register] and put the full url in here e.g. http://www.mysite.com/loginpage. "
+"If left blank the default wordpress login page will be used."
+msgstr ""
+"Vous devez créer une page wordpress avec un shortcode d'egistrement tel que "
+"[bbp-inscription] et mettre l'url complète ici par exemple http://www.mysite."
+"com/loginpage. Si laissé vide montrera la page de connexion de wordpress par "
+"défaut."
+
+#: includes/login.php:170
+msgid ""
+"Enter the words you want on the menu item eg \"Register\", \"Sign-up\", "
+"\"Join this group\" etc."
+msgstr ""
+"Entrez les mots que vous voulez sur l'élément de menu par exemple \"s'inscrire"
+"\", \"Inscription\", \"rejoindre ce groupe\" etc."
+
+#: includes/login.php:180
+msgid "Show a menu 'Edit profile' item to logged in users"
+msgstr "Afficher un menu « Modifier le profil » pour utilisateurs enregistré"
+
+#: includes/settings.php:10
+msgid "bbp Style pack"
+msgstr "BBP pack Style"
+
+#: includes/settings.php:16
+msgid "Settings saved"
+msgstr "Paramètres sauvegardés"
+
+#: includes/settings.php:34
+msgid "Forums Index Styling"
+msgstr "Styles Forums Index"
+
+#: includes/settings.php:35
+msgid "Topics Index Styling"
+msgstr "Style des Sujets Index"
+
+#: includes/settings.php:36
+msgid "Topic/Reply Styling"
+msgstr "Style question/réponse"
+
+#: includes/settings.php:37
+msgid "Topic/Reply Form"
+msgstr "Formulaire de question/réponse"
+
+#: includes/settings.php:38
+msgid "Forum Display"
+msgstr "Affichage du Forum"
+
+#: includes/settings.php:39
+msgid "Login"
+msgstr "Connexion"
+
+#: includes/settings.php:41
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/settings.php:43 includes/widgets_settings.php:12
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/settings.php:59
+msgid ""
+"If you find this plugin useful, please consider donating just a few dollars "
+"to help me develop and maintain it. You support will be appreciated"
+msgstr ""
+"Si vous trouvez que ce plugin est utile, envisagez de faire don de quelques "
+"euros pour m'aider à le développer et à le maintenir. Votre soutien sera "
+"apprécié."
+
+#: includes/settings.php:64
+msgid "With thanks to Jacobo Feijóo for extensive testing !"
+msgstr "Merci à Jacobo Feijóo pour les tests approfondis !"
+
+#: includes/settings.php:144
+msgid "bbp Style Pack"
+msgstr "BBP pack Style"
+
+#: includes/shortcode_display.php:12
+msgid "Additional Shortcodes"
+msgstr "Shortcodes supplémentaires"
+
+#: includes/shortcode_display.php:18
+msgid ""
+"Displays the latest topics, optionally from a single forum - see below for "
+"detailed explanation "
+msgstr ""
+"Affiche les derniers sujets, éventuellement d'un forum unique - voir ci-"
+"dessous pour une explication détaillée"
+
+#: includes/shortcode_display.php:21
+msgid "Displays the selected forum indexes - see below for detailed explanation"
+msgstr ""
+"Affiche l'index des forums sélectionnés - voir ci-dessous pour une "
+"explication détaillée"
+
+#: includes/shortcode_display.php:23
+msgid ""
+"Displays the newest users together with their joining date in a table - see "
+"below for detailed explanation"
+msgstr ""
+"Affiche les utilisateurs plus récents ainsi que la date de leur assemblage "
+"dans un tableau - voir ci-dessous pour une explication détaillée"
+
+#: includes/shortcode_display.php:25
+msgid "Display latest Topics"
+msgstr "Afficher les dernièrs sujets"
+
+#: includes/shortcode_display.php:28
+msgid ""
+"To change the number of topics displayed and optionally display from a single "
+"forum, show stickies, or have just the bare minimum."
+msgstr ""
+"Pour modifier le nombre de rubriques affichées et éventuellement afficher un "
+"seul forum, afficher les post-it ou juste avoir le strict minimum."
+
+#: includes/shortcode_display.php:32
+msgid ""
+"Note : the 'show' attribute is mandatory, the other attributes are optional"
+msgstr ""
+"Remarque : l'attribut « show » est obligatoire, les autres attributs sont "
+"facultatifs"
+
+#: includes/shortcode_display.php:35
+msgid "use the shortcode   [bsp-display-topic-index show='5']"
+msgstr "utiliser le shortcode   [bsp-display-topic-index show='5']"
+
+#: includes/shortcode_display.php:39
+msgid "where 5 is the number of posts you want to display"
+msgstr "où 5 est le nombre de posts que vous souhaitez afficher"
+
+#: includes/shortcode_display.php:43
+msgid "Optional extras !"
+msgstr "Suppléments Optionnels"
+
+#: includes/shortcode_display.php:51
+msgid ""
+"You can limit to a single forum  eg [bsp-display-topic-index show='5' forum "
+"='10']"
+msgstr ""
+"Vous pouvez limiter à un seul forum, par exemple [bsp-display-topic-index "
+"show='5' forum ='10']"
+
+#: includes/shortcode_display.php:55 includes/shortcode_display.php:117
+msgid ""
+"To find the ID of a forum go into dashboard>forums>all forums and hover over "
+"the 'edit' of the forum you want to use."
+msgstr ""
+"Pour trouver l'ID d'un forum aller dans tableau de bord > forums > tous les "
+"forums et survolez la « modifier » de l'instance que vous souhaitez utiliser."
+
+#: includes/shortcode_display.php:59 includes/shortcode_display.php:121
+msgid ""
+"You will see at the bottom of the page  http://www.mysite.com/wp-admin/post."
+"php?post=10&amp;action=edit"
+msgstr ""
+"Vous pourrez voir en bas de la page http://www.mysite.com/wp-admin/post.php?"
+"post=10&amp;action=edit"
+
+#: includes/shortcode_display.php:64 includes/shortcode_display.php:126
+msgid "where post=10 is the ID number of the forum."
+msgstr "où post = 10 est le numéro d'identification du forum"
+
+#: includes/shortcode_display.php:68
+msgid "Just the header and posts"
+msgstr "Juste l'en-tête et les messages"
+
+#: includes/shortcode_display.php:71
+msgid "If you don't want the search function and 'viewing topics 1-5'"
+msgstr ""
+"Si vous ne voulez pas la fonction de recherche et ' affichage des sujets 1-5'"
+
+#: includes/shortcode_display.php:75
+msgid "then use    [bsp-display-topic-index show='5' template ='short']"
+msgstr "puis utilisez [bsp-display-topic-index show='5' template ='short']"
+
+#: includes/shortcode_display.php:79
+msgid "Stickies"
+msgstr "Post-it"
+
+#: includes/shortcode_display.php:82
+msgid ""
+"If you want to show stickies then [bsp-display-topic-index show='5' "
+"show_stickies='true']"
+msgstr ""
+"Si vous désirez afficher les post-it [bsp-display-topic-index show='5' "
+"show_stickies='true']"
+
+#: includes/shortcode_display.php:86 includes/shortcode_display.php:152
+msgid "You can use these in any combination"
+msgstr "Vous pouvez les utiliser dans n'importe quelle combinaison"
+
+#: includes/shortcode_display.php:93
+msgid "Display one or more forum indexes "
+msgstr "Afficher un ou plusieurs index de forum"
+
+#: includes/shortcode_display.php:96
+msgid "To display one or more indexes, or create an index display in any order"
+msgstr ""
+"Pour afficher un ou plusieurs index, ou créer un affichage d'index dans "
+"n'importe quel ordre"
+
+#: includes/shortcode_display.php:100
+msgid ""
+"Note : the 'forum' attribute is mandatory, the other attributes are optional"
+msgstr ""
+"Remarque : l'attribut « forum » est obligatoire, les autres attributs sont "
+"facultatifs"
+
+#: includes/shortcode_display.php:104
+msgid "use the shortcode   [bsp-display-forum-index forum= '2932' ] "
+msgstr "Utilisez le shortcode [bsp-display-forum-index forum= '2932' ] "
+
+#: includes/shortcode_display.php:107
+msgid "or for a list use [bsp-display-forum-index forum= '2932, 2922, 2921']"
+msgstr ""
+"ou pour une utilisation de la liste [bsp-display-forum-index forum= '2932, "
+"2922, 2921']"
+
+#: includes/shortcode_display.php:112
+msgid "where the numbers are the ID's of the forum(s)"
+msgstr "où les nombres sont l'ID du/des Forum(s)"
+
+#: includes/shortcode_display.php:130
+msgid "Take out search"
+msgstr "Enlevez la recherche"
+
+#: includes/shortcode_display.php:134
+msgid "If you don't want the search function"
+msgstr "Si vous ne voulez pas la fonction de recherche"
+
+#: includes/shortcode_display.php:139
+msgid ""
+"then use    [bsp-display-forum-index forum= '2932, 2922, 2921' search='no']"
+msgstr ""
+"puis utilisez [bsp-display-forum-index forum= '2932, 2922, 2921' search='no']"
+
+#: includes/shortcode_display.php:144
+msgid "Breadcrumb"
+msgstr "Fil d’Ariane"
+
+#: includes/shortcode_display.php:147
+msgid ""
+"If you don't want to show the breadcrumb then [bsp-display-forum-index forum= "
+"'11326, 2922, 2921' breadcrumb='no']"
+msgstr ""
+"Si vous ne souhaitez pas afficher le fil d'ariane puis  [bsp-display-forum-"
+"index forum= '11326, 2922, 2921' breadcrumb='no']"
+
+#: includes/shortcode_display.php:156
+msgid "eg"
+msgstr "Ex."
+
+#: includes/shortcode_display.php:163
+msgid "Display Newest Users "
+msgstr "Afficher les nouveaux utilisateurs"
+
+#: includes/shortcode_display.php:166
+msgid ""
+"This shortcode displays the newest users together with their joining date in "
+"a table."
+msgstr ""
+"Ce shortcode affiche les utilisateurs plus récents ainsi que la date de leur "
+"inscription dans un tableau."
+
+#: includes/shortcode_display.php:171
+msgid ""
+"use the shortcode   [bsp-display-newest-users]  and it will display the "
+"latest 5 users."
+msgstr ""
+"Utilisez le shortcode [bsp-display-newest-users] et il affiche les 5 derniers "
+"utilisateurs."
+
+#: includes/shortcode_display.php:175
+msgid ""
+"If you wish to display a different number of users use the 'show' parameter eg"
+msgstr ""
+"Si vous souhaitez afficher un nombre différent d'utilisateurs utilisent le "
+"paramètre « show » par exemple"
+
+#: includes/shortcode_display.php:180
+msgid "will show the latest 10 users"
+msgstr "affichera les 10 derniers utilisateurs"
+
+#: includes/shortcodes.php:122
+msgid "Newest users"
+msgstr "Nouveaux utilisateurs"
+
+#: includes/shortcodes.php:123
+msgid "Date joined"
+msgstr "Date d'inscription"
+
+#: includes/style_settings.php:18 includes/style_settingsf.php:18
+#: includes/style_settingsform.php:18 includes/style_settingst.php:18
+#: includes/style_settingsti.php:18
+msgid "This section allows you to amend styles."
+msgstr "Cette section vous permet de modifier les styles."
+
+#: includes/style_settings.php:21 includes/style_settingsf.php:21
+#: includes/style_settingsform.php:19 includes/style_settingst.php:19
+#: includes/style_settingsti.php:21
+msgid ""
+"You only need to enter those styles and elements within a style that you wish "
+"to alter"
+msgstr ""
+"Vous devez seulement entrer les styles et les éléments dans un style que vous "
+"souhaitez modifier"
+
+#: includes/style_settings.php:28 includes/style_settingsf.php:42
+msgid "Forum Content"
+msgstr "Contenu du forum"
+
+#: includes/style_settings.php:29 includes/style_settings.php:56
+#: includes/style_settings.php:99 includes/style_settingsf.php:43
+#: includes/style_settingst.php:39 includes/style_settingst.php:85
+msgid "Background color - odd numbers"
+msgstr "Couleur de fond - nombres impairs"
+
+#: includes/style_settings.php:30 includes/style_settings.php:57
+#: includes/style_settings.php:100 includes/style_settingsf.php:44
+#: includes/style_settingst.php:40 includes/style_settingst.php:86
+msgid "Background color - even numbers"
+msgstr "Couleur de fond - tous nombres"
+
+#: includes/style_settings.php:40 includes/style_settings.php:75
+msgid "Default #fbfbfb"
+msgstr "Défaut #fbfbfb"
+
+#: includes/style_settings.php:48 includes/style_settings.php:67
+msgid "Default #fff"
+msgstr "Défaut #fff"
+
+#: includes/style_settings.php:55 includes/style_settingst.php:38
+msgid "Topic/Reply Content"
+msgstr "Contenu de la question/réponse"
+
+#: includes/style_settings.php:82 includes/style_settingsf.php:70
+msgid "Forum/Topic Headers/Footers"
+msgstr "Forum/rubrique en-têtes/pieds de page"
+
+#: includes/style_settings.php:83 includes/style_settingsf.php:71
+#: includes/style_settingsform.php:99 includes/style_settingsform.php:172
+msgid "Background Color"
+msgstr "Couleur du fond"
+
+#: includes/style_settings.php:91
+msgid "Default #f4f4f4"
+msgstr "Par défaut #f4f4f4"
+
+#: includes/style_settings.php:98 includes/style_settingst.php:84
+msgid "Trash/Spam Content"
+msgstr "contenu Corbeille/Spam "
+
+#: includes/style_settings.php:110
+msgid "Default #fdd"
+msgstr "Défaut #fdd"
+
+#: includes/style_settings.php:118
+msgid "Default #fee"
+msgstr "Défaut #fee"
+
+#: includes/style_settings.php:125
+msgid "Closed Content"
+msgstr "Contenu fermé"
+
+#: includes/style_settings.php:126 includes/style_settingst.php:67
+#: includes/style_settingst.php:112 includes/style_settingsti.php:300
+#: includes/style_settingsti.php:500
+msgid "Background color"
+msgstr "Couleur du fond"
+
+#: includes/style_settings.php:134
+msgid "Default #ccc"
+msgstr "Par défaut #ccc"
+
+#: includes/style_settings.php:141 includes/style_settingsf.php:86
+#: includes/style_settingsf.php:87
+msgid "Forum Headings Font"
+msgstr "Police des rubriques du Forum"
+
+#: includes/style_settings.php:142 includes/style_settings.php:231
+#: includes/style_settings.php:271 includes/style_settings.php:310
+#: includes/style_settings.php:361 includes/style_settings.php:388
+#: includes/style_settingsf.php:88 includes/style_settingsf.php:145
+#: includes/style_settingsf.php:241 includes/style_settingsf.php:286
+#: includes/style_settingsf.php:330 includes/style_settingsf.php:384
+#: includes/style_settingsf.php:428 includes/style_settingsf.php:510
+#: includes/style_settingsf.php:564 includes/style_settingsform.php:43
+#: includes/style_settingsform.php:118 includes/style_settingst.php:131
+#: includes/style_settingst.php:187 includes/style_settingst.php:242
+#: includes/style_settingst.php:286 includes/style_settingst.php:333
+#: includes/style_settingst.php:391 includes/style_settingsti.php:44
+#: includes/style_settingsti.php:102 includes/style_settingsti.php:198
+#: includes/style_settingsti.php:245 includes/style_settingsti.php:360
+#: includes/style_settingsti.php:445
+msgid "Size"
+msgstr "Taille"
+
+#: includes/style_settings.php:143 includes/style_settings.php:311
+#: includes/style_settingsf.php:89 includes/style_settingsf.php:146
+#: includes/style_settingsf.php:331 includes/style_settingsf.php:474
+#: includes/style_settingsf.php:511 includes/style_settingsf.php:565
+#: includes/style_settingsform.php:44 includes/style_settingsform.php:119
+#: includes/style_settingst.php:132 includes/style_settingst.php:188
+#: includes/style_settingst.php:334 includes/style_settingst.php:392
+#: includes/style_settingsti.php:45 includes/style_settingsti.php:103
+#: includes/style_settingsti.php:246 includes/style_settingsti.php:361
+#: includes/style_settingsti.php:446
+msgid "Color"
+msgstr "Couleur"
+
+#: includes/style_settings.php:145 includes/style_settings.php:233
+#: includes/style_settings.php:273 includes/style_settings.php:313
+#: includes/style_settingsf.php:91 includes/style_settingsf.php:148
+#: includes/style_settingsf.php:243 includes/style_settingsf.php:288
+#: includes/style_settingsf.php:333 includes/style_settingsf.php:386
+#: includes/style_settingsf.php:430 includes/style_settingsf.php:513
+#: includes/style_settingsf.php:567 includes/style_settingsform.php:46
+#: includes/style_settingsform.php:121 includes/style_settingst.php:134
+#: includes/style_settingst.php:190 includes/style_settingst.php:244
+#: includes/style_settingst.php:288 includes/style_settingst.php:336
+#: includes/style_settingst.php:394 includes/style_settingsti.php:47
+#: includes/style_settingsti.php:105 includes/style_settingsti.php:200
+#: includes/style_settingsti.php:248 includes/style_settingsti.php:363
+#: includes/style_settingsti.php:448
+msgid "Style"
+msgstr "Style"
+
+#: includes/style_settings.php:159 includes/style_settings.php:245
+#: includes/style_settings.php:285 includes/style_settings.php:327
+#: includes/style_settings.php:372 includes/style_settings.php:424
+msgid "Default 12px"
+msgstr "Par défaut 12px"
+
+#: includes/style_settings.php:167 includes/style_settings.php:205
+#: includes/style_settings.php:213 includes/style_settings.php:221
+#: includes/style_settings.php:335
+msgid "Default inherited from theme - Enter color"
+msgstr "Par défaut hérité de thème - entrer couleur"
+
+#: includes/style_settings.php:175 includes/style_settings.php:253
+#: includes/style_settings.php:293 includes/style_settings.php:343
+msgid "Default inherited from theme - Enter Font eg Arial"
+msgstr "Par défaut hérité de thème - Entrez une police par exemple Arial"
+
+#: includes/style_settings.php:183 includes/style_settings.php:261
+#: includes/style_settings.php:301 includes/style_settings.php:351
+msgid "Default Normal - Enter style eg italic, bold etc"
+msgstr "Par défaut Normal - entrez style par exemple italique, gras etc."
+
+#: includes/style_settings.php:190 includes/style_settingsf.php:200
+msgid "Links"
+msgstr "Liens"
+
+#: includes/style_settings.php:191 includes/style_settingsf.php:201
+#: includes/style_settingsti.php:158
+msgid "Link Color"
+msgstr "Couleur des liens"
+
+#: includes/style_settings.php:192 includes/style_settingsf.php:202
+msgid "Active Color"
+msgstr "Couleur active"
+
+#: includes/style_settings.php:193 includes/style_settingsf.php:203
+#: includes/style_settingsti.php:160
+msgid "Hover Color"
+msgstr "Couleur lors du survol"
+
+#: includes/style_settings.php:230 includes/style_settingsf.php:240
+msgid "Forum and Category List Font"
+msgstr "Police du Forum et de la liste des catégories"
+
+#: includes/style_settings.php:270 includes/style_settingsf.php:285
+msgid "Sub Forum List Font"
+msgstr "Police liste des sous forum"
+
+#: includes/style_settings.php:309 includes/style_settingsf.php:329
+msgid "Forum Description Font"
+msgstr "Polices Description Forum"
+
+#: includes/style_settings.php:360
+msgid "Forum/Topic/Reply Font"
+msgstr "Police Forum/sujet/réponse "
+
+#: includes/style_settings.php:362
+msgid "Border"
+msgstr "Bordure"
+
+#: includes/style_settings.php:380
+msgid "Default 1px solid #eee"
+msgstr "Par défaut 1px solid #eee"
+
+#: includes/style_settings.php:387
+msgid "Forum/Topic/Reply Title Font"
+msgstr "Police de titre de Forum/question/réponse"
+
+#: includes/style_settings.php:396
+msgid "Default 16px"
+msgstr "16px par défaut"
+
+#: includes/style_settings.php:410
+msgid "Default 11px"
+msgstr "Par défaut 11px"
+
+#: includes/style_settings.php:438
+msgid "Default 13px"
+msgstr "Par défaut 13px"
+
+#: includes/style_settingsf.php:54 includes/style_settingst.php:58
+msgid ""
+"Default #fbfbfb Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #fbfbfb couleur d'entrée par nom ou valeur hexadécimale - voir "
+"l'aide pour plus d'infos"
+
+#: includes/style_settingsf.php:62 includes/style_settingst.php:50
+msgid ""
+"Default #fff Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #fff couleur entrée par nom ou valeur hexadécimale - voir l'aide "
+"pour plus d'infos"
+
+#: includes/style_settingsf.php:79 includes/style_settingst.php:75
+msgid ""
+"Default #f4f4f4 Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #f4f4f4 couleur d'entrée par nom ou valeur hexadécimale - voir "
+"l'aide pour plus d'infos"
+
+#: includes/style_settingsf.php:105 includes/style_settingsf.php:162
+#: includes/style_settingsf.php:255 includes/style_settingsf.php:300
+#: includes/style_settingsf.php:347 includes/style_settingsf.php:398
+#: includes/style_settingsf.php:442 includes/style_settingsf.php:527
+#: includes/style_settingsf.php:581 includes/style_settingsform.php:60
+#: includes/style_settingsform.php:135 includes/style_settingst.php:148
+#: includes/style_settingst.php:204 includes/style_settingst.php:256
+#: includes/style_settingst.php:300 includes/style_settingst.php:350
+#: includes/style_settingst.php:408 includes/style_settingsti.php:61
+#: includes/style_settingsti.php:119 includes/style_settingsti.php:212
+#: includes/style_settingsti.php:262 includes/style_settingsti.php:377
+#: includes/style_settingsti.php:462
+msgid "Default 12px - see help for further info"
+msgstr "Default 12px : voir l'aide pour plus d'infos"
+
+#: includes/style_settingsf.php:113 includes/style_settingsf.php:170
+#: includes/style_settingsf.php:215 includes/style_settingsf.php:223
+#: includes/style_settingsf.php:231 includes/style_settingsf.php:355
+#: includes/style_settingsf.php:502 includes/style_settingsf.php:535
+#: includes/style_settingsf.php:589 includes/style_settingsform.php:68
+#: includes/style_settingsform.php:107 includes/style_settingsform.php:143
+#: includes/style_settingsform.php:183 includes/style_settingsform.php:190
+#: includes/style_settingst.php:156 includes/style_settingst.php:212
+#: includes/style_settingst.php:358 includes/style_settingst.php:416
+#: includes/style_settingsti.php:69 includes/style_settingsti.php:127
+#: includes/style_settingsti.php:172 includes/style_settingsti.php:180
+#: includes/style_settingsti.php:188 includes/style_settingsti.php:270
+#: includes/style_settingsti.php:308 includes/style_settingsti.php:349
+#: includes/style_settingsti.php:385 includes/style_settingsti.php:470
+#: includes/style_settingsti.php:508 includes/style_settingsti.php:549
+msgid "Enter color by name or hex value - see help for further info"
+msgstr ""
+"Mettre une couleur par son nom ou valeur hexadécimale – voir l'aide pour plus "
+"d'infos"
+
+#: includes/style_settingsf.php:121 includes/style_settingsf.php:178
+#: includes/style_settingsf.php:263 includes/style_settingsf.php:308
+#: includes/style_settingsf.php:363 includes/style_settingsf.php:406
+#: includes/style_settingsf.php:450 includes/style_settingsf.php:543
+#: includes/style_settingsf.php:597 includes/style_settingsform.php:76
+#: includes/style_settingsform.php:151 includes/style_settingst.php:164
+#: includes/style_settingst.php:220 includes/style_settingst.php:264
+#: includes/style_settingst.php:308 includes/style_settingst.php:366
+#: includes/style_settingst.php:424 includes/style_settingsti.php:77
+#: includes/style_settingsti.php:135 includes/style_settingsti.php:220
+#: includes/style_settingsti.php:278 includes/style_settingsti.php:393
+#: includes/style_settingsti.php:478
+msgid "Enter Font eg Arial - see help for further info"
+msgstr "Entrer la police Arial par exemple - voir l'aide pour plus d'infos"
+
+#: includes/style_settingsf.php:144
+msgid "Breadcrumb Font"
+msgstr "Polices du fil d'Ariane"
+
+#: includes/style_settingsf.php:383
+msgid "Freshness Font"
+msgstr "Police des récents"
+
+#: includes/style_settingsf.php:427
+msgid "Freshness Author Font"
+msgstr "Police pour les auteurs recents"
+
+#: includes/style_settingsf.php:471
+msgid "Forum Border"
+msgstr "Contours du Forum"
+
+#: includes/style_settingsf.php:472 includes/style_settingsti.php:319
+#: includes/style_settingsti.php:519
+msgid "Line width"
+msgstr "Largeur de ligne"
+
+#: includes/style_settingsf.php:473 includes/style_settingsti.php:320
+#: includes/style_settingsti.php:520
+msgid "Line style"
+msgstr "Style de contour"
+
+#: includes/style_settingsf.php:486
+msgid "Default 1px  - Set to 0px to hide border"
+msgstr "Par défaut 1px - valeur 0px pour masquer la bordure"
+
+#: includes/style_settingsf.php:494 includes/style_settingsti.php:341
+#: includes/style_settingsti.php:541
+msgid ""
+"Default solid - solid, dashed, dotted are common values - see help for "
+"further info"
+msgstr ""
+"Par défaut solid - solid, dashed, dotted sont des valeurs communes - voir "
+"l'aide pour plus d'infos"
+
+#: includes/style_settingsf.php:509
+msgid "Topic Count Font"
+msgstr "Police du compteur de sujets"
+
+#: includes/style_settingsf.php:563
+msgid "Post Count Font"
+msgstr "Police du Compteur d'articles"
+
+#: includes/style_settingsform.php:42
+msgid "Labels"
+msgstr "Étiquettes"
+
+#: includes/style_settingsform.php:98 includes/style_settingsform.php:117
+msgid "Text area"
+msgstr "Zone de texte"
+
+#: includes/style_settingsform.php:171
+msgid "Button"
+msgstr "Bouton"
+
+#: includes/style_settingsform.php:173
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: includes/style_settingst.php:66
+msgid "Topic/Reply Header"
+msgstr "En-tête des question/réponse"
+
+#: includes/style_settingst.php:96
+msgid ""
+"Default #fdd Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #fdd couleur d'entrée par nom ou valeur hexadécimale - voir l'aide "
+"pour plus d'infos"
+
+#: includes/style_settingst.php:104
+msgid ""
+"Default #fee Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #fee couleur d'entrée par nom ou valeur hexadécimale - voir l'aide "
+"pour plus d'infos"
+
+#: includes/style_settingst.php:111
+msgid "Closed Topic Content"
+msgstr "Contenu du sujet fermé"
+
+#: includes/style_settingst.php:120
+msgid ""
+"Default #ccc Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #ccc couleur entrée par nom ou valeur hexadécimale - voir l'aide "
+"pour plus d'infos"
+
+#: includes/style_settingst.php:130
+msgid "Topic/Reply Date Font"
+msgstr "Police des Sujets/Réponses et dates"
+
+#: includes/style_settingst.php:186
+msgid "Topic/Reply Text Font"
+msgstr "Police des textes question/réponse"
+
+#: includes/style_settingst.php:241
+msgid "Author Name Font"
+msgstr "Police pour le nom d'auteur"
+
+#: includes/style_settingst.php:285
+msgid "Reply Link Font"
+msgstr "Police des liens de réponse"
+
+#: includes/style_settingst.php:332
+msgid "Author Role"
+msgstr "Rôle de l'auteur"
+
+#: includes/style_settingst.php:390
+msgid "Topic Header"
+msgstr "En-tête de la rubrique"
+
+#: includes/style_settingsti.php:19
+msgid ""
+"The majority of style settings are the same as the Forums Index Styling, and "
+"only where different are listed here"
+msgstr ""
+"La plupart des paramètres de style sont les mêmes que le style d'Index des "
+"Forums et seulement les différents sont répertoriés ici"
+
+#: includes/style_settingsti.php:43
+msgid "Pagination Font"
+msgstr "Police de Pagination"
+
+#: includes/style_settingsti.php:101
+msgid "Voice/Post Count Font"
+msgstr "Police de Compte Voix / Compte post"
+
+#: includes/style_settingsti.php:157
+msgid "Topic Title Links"
+msgstr "Liens des titres de sujets"
+
+#: includes/style_settingsti.php:159
+msgid "Visited Color"
+msgstr "Couleur des liens visités"
+
+#: includes/style_settingsti.php:197
+msgid "Topic Title Font"
+msgstr "Police de titre de rubrique"
+
+#: includes/style_settingsti.php:244
+msgid "Template Notice Font"
+msgstr "Police du modele"
+
+#: includes/style_settingsti.php:299
+msgid "Template Notice"
+msgstr "Notice du template"
+
+#: includes/style_settingsti.php:318
+msgid "Template Notice Border"
+msgstr "Notice du template Bordures"
+
+#: includes/style_settingsti.php:321 includes/style_settingsti.php:521
+msgid "Line color"
+msgstr "Couleur de ligne"
+
+#: includes/style_settingsti.php:333 includes/style_settingsti.php:533
+msgid "Default 1px - Set to 0px to hide border"
+msgstr "Par défaut 1px - régler sur 0px pour masquer la bordure"
+
+#: includes/style_settingsti.php:359
+msgid "Topic Started by"
+msgstr "Sujet initié par"
+
+#: includes/style_settingsti.php:414
+msgid "Sticky Topic/Reply"
+msgstr "Post-it question/réponse"
+
+#: includes/style_settingsti.php:415
+msgid "Background color - sticky topic"
+msgstr "Couleur de fond - sujet post-it"
+
+#: includes/style_settingsti.php:416
+msgid "Background color - super sticky topic"
+msgstr "Couleur de fond - sujet super post-it"
+
+#: includes/style_settingsti.php:426
+msgid ""
+"Default #ffffe0  Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #ffffe0 couleur d'entrée par nom ou valeur hexadécimale - voir "
+"l'aide pour plus d'infos"
+
+#: includes/style_settingsti.php:434
+msgid ""
+"Default #ffffe0 Enter color by name or hex value - see help for further info"
+msgstr ""
+"Par défaut #ffffe0 couleur d'entrée par nom ou valeur hexadécimale - voir "
+"l'aide pour plus d'infos"
+
+#: includes/style_settingsti.php:444
+msgid "Forum Information Font"
+msgstr "Police du Forum informations"
+
+#: includes/style_settingsti.php:499
+msgid "Forum Information"
+msgstr "Forum informations"
+
+#: includes/style_settingsti.php:518
+msgid "Forum Information Border"
+msgstr "Contours du forum d'information"
+
+#: includes/widgets.php:21
+msgid ""
+"A list of recent topics, sorted by popularity or freshness with latest author."
+msgstr ""
+"Une liste de sujets récents, Tri par popularité ou temporelle avec le dernier "
+"auteur."
+
+#: includes/widgets.php:24
+msgid "(Style Pack) Latest Activity"
+msgstr "(Style Pack) Dernière activité"
+
+#: includes/widgets.php:163
+msgctxt "widgets"
+msgid "topic by %1$s"
+msgstr "Sujet par %1$s"
+
+#: includes/widgets.php:164
+msgctxt "widgets"
+msgid "reply by %1$s"
+msgstr "réponse par %1$s"
+
+#: includes/widgets.php:248
+msgid "Title:"
+msgstr "Titre :"
+
+#: includes/widgets.php:249
+msgid "Maximum topics to show:"
+msgstr "Maximum sujets à montrer:"
+
+#: includes/widgets.php:252
+msgid "Parent Forum ID:"
+msgstr "ID du Forum parent :"
+
+#: includes/widgets.php:258
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "\"0\" pour n'afficher que la racine - \"any\" pour afficher tous"
+
+#: includes/widgets.php:261
+msgid "Show Freshness:"
+msgstr "Recemment"
+
+#: includes/widgets.php:262
+msgid "Shorten freshness:"
+msgstr "Récents résumés"
+
+#: includes/widgets.php:263
+msgid "Show topic author:"
+msgstr "Afficher l'auteur de l'article :"
+
+#: includes/widgets.php:264
+msgid "Hide Avatar"
+msgstr "Masquer l'Avatar"
+
+#: includes/widgets.php:265
+msgid "Show Forum:"
+msgstr "Afficher le Forum :"
+
+#: includes/widgets.php:268
+msgid "Order By:"
+msgstr "Trier par :"
+
+#: includes/widgets.php:270
+msgid "Topics With Recent Replies"
+msgstr "Sujets avec des réponses récentes"
+
+#: includes/widgets.php:271
+msgid "Newest Topics"
+msgstr "Sujets les plus récents"
+
+#: includes/widgets.php:272
+msgid "Popular Topics"
+msgstr "Sujets populaires"
+
+#: includes/widgets.php:290
+msgid "Latest Activity"
+msgstr "Dernière Activité"
+
+#: includes/widgets_settings.php:19
+msgid "Latest activity"
+msgstr "Dernière activité"
+
+#: includes/widgets_settings.php:21
+msgid ""
+"This widget combines Recent Topics and Recent replies to give a single more "
+"clear latest activity widget"
+msgstr ""
+"Ce widget combine les sujets récents et les réponses récentes pour donner un "
+"dernier widget d'activité unique plus simple"
+
+#: includes/widgets_settings.php:31
+msgid ""
+"This widget is in Dashboard>appearance>widgets  as (bbp style pack) Latest "
+"Activity and includes options for displaying author, date and forum"
+msgstr ""
+"Ce widget est dans le tableau de bord > apparence > widgets comme (pack de "
+"style bbp) Dernière activité et inclut des options pour l'affichage, auteur, "
+"date et forum"
+
+#. Plugin Name of the plugin/theme
+msgid "bbp style pack"
+msgstr "BBP pack Style"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.rewweb.co.uk/bbp-style-pack/"
+msgstr "http://www.rewweb.co.uk/bbp-style-Pack/"
+
+#. Description of the plugin/theme
+msgid "This plugin adds styling and features to bbPress"
+msgstr "Ce plugin ajoute des styles et des fonctionnalités à bbPress"
+
+#. Author of the plugin/theme
+msgid "Robin Wilson"
+msgstr "Robin Wilson"
+
+#. Author URI of the plugin/theme
+msgid "http://www.rewweb.co.uk"
+msgstr "http://www.rewweb.co.uk"

@@ -1,0 +1,593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Import Joomla 1.5 (FG)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-19 23:58+0100\n"
+"PO-Revision-Date: 2013-12-19 23:58+0100\n"
+"Last-Translator: F. GILLES\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fgj2wp-users.php:87
+msgid "Users deleted"
+msgstr "Пользователи удалены"
+
+#: fgj2wp-users.php:122 fgj2wp-menus.php:87
+#: fg-joomla-to-wordpress-premium.php:221 fg-joomla-to-wordpress.php:774
+#: fg-joomla-to-wordpress.php:823 fg-joomla-to-wordpress.php:874
+msgid "Error:"
+msgstr "Ошибка :"
+
+#: fgj2wp-users.php:247
+#, php-format
+msgid "%d user imported"
+msgid_plural "%d users imported"
+msgstr[0] "%d пользователь перенесен"
+msgstr[1] "%d пользователей перенесено"
+
+#: admin_build_page.tpl.php:21
+msgid "WordPress database"
+msgstr "датабаза WordPress"
+
+#: admin_build_page.tpl.php:32
+msgid ""
+"If you want to rerun the import, you must empty the WordPress content with "
+"the button hereafter."
+msgstr ""
+"Если вы хотите перезапустить импортирование, удалите содержимое Wordpress, "
+"нажав кнопку."
+
+#: admin_build_page.tpl.php:33
+msgid "Remove only new imported posts"
+msgstr "Удалить только новоперенесенные материалы"
+
+#: admin_build_page.tpl.php:34
+#, fuzzy
+msgid "Remove all WordPress content"
+msgstr "Очистить содержимое WordPress"
+
+#: admin_build_page.tpl.php:35
+msgid "Empty WordPress content"
+msgstr "Очистить содержимое WordPress"
+
+#: admin_build_page.tpl.php:46
+msgid "Joomla web site parameters"
+msgstr "Параметры Joomla"
+
+#: admin_build_page.tpl.php:49
+msgid "URL (beginning with http://)"
+msgstr "URL (вместе с http://)"
+
+#: admin_build_page.tpl.php:53
+msgid "Joomla version"
+msgstr "Версия Joomla"
+
+#: admin_build_page.tpl.php:63
+msgid "Joomla database parameters"
+msgstr "Параметры датабазы Joomla"
+
+#: admin_build_page.tpl.php:66
+msgid "Hostname"
+msgstr "Имя хоста"
+
+#: admin_build_page.tpl.php:70
+msgid "Port"
+msgstr "Порт"
+
+#: admin_build_page.tpl.php:74
+msgid "Database"
+msgstr "Имя базы данных"
+
+#: admin_build_page.tpl.php:78
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: admin_build_page.tpl.php:82
+msgid "Password"
+msgstr "Пароль"
+
+#: admin_build_page.tpl.php:86
+msgid "Joomla Table Prefix"
+msgstr "Префикс таблицы Joomla"
+
+#: admin_build_page.tpl.php:91
+msgid "Test the connection"
+msgstr "Проверить соединение"
+
+#: admin_build_page.tpl.php:94
+msgid "Behavior"
+msgstr "Режим"
+
+#: admin_build_page.tpl.php:97
+msgid "Import introtext:"
+msgstr ""
+
+#: admin_build_page.tpl.php:99
+#, fuzzy
+msgid ""
+"The text before the «Read more» split will be imported into the excerpt."
+msgstr "Импортировать вводный текст над \"read more\", как цитату "
+
+#: admin_build_page.tpl.php:99
+msgid "to the excerpt"
+msgstr ""
+
+#: admin_build_page.tpl.php:100
+#, fuzzy
+msgid ""
+"The text before the «Read more» split will be imported into the post content "
+"with a «read more» link."
+msgstr ""
+"Отмечено: вводный текст Joomla импортируется, как цитата. Не отмечено: "
+"импортируется в текст с линком \"read more\""
+
+#: admin_build_page.tpl.php:100
+#, fuzzy
+msgid "to the content"
+msgstr "Проверить соединение"
+
+#: admin_build_page.tpl.php:101
+msgid ""
+"The text before the «Read more» split will be imported into both the excerpt "
+"and the post content."
+msgstr ""
+
+#: admin_build_page.tpl.php:101
+msgid "to both"
+msgstr ""
+
+#: admin_build_page.tpl.php:104
+msgid "Archived posts"
+msgstr ""
+
+#: admin_build_page.tpl.php:106
+#, fuzzy
+msgid "Do not import archived posts"
+msgstr "Удалить только новоперенесенные материалы"
+
+#: admin_build_page.tpl.php:106
+#, fuzzy
+msgid "Not imported"
+msgstr "%d материал перенесен"
+
+#: admin_build_page.tpl.php:107
+msgid "Import archived posts as drafts"
+msgstr ""
+
+#: admin_build_page.tpl.php:107
+msgid "Import as drafts"
+msgstr ""
+
+#: admin_build_page.tpl.php:108
+msgid "Import archived posts as published posts"
+msgstr ""
+
+#: admin_build_page.tpl.php:108
+msgid "Import as published posts"
+msgstr ""
+
+#: admin_build_page.tpl.php:112
+msgid "Medias:"
+msgstr "Медиафайлы:"
+
+#: admin_build_page.tpl.php:113
+msgid "Skip media"
+msgstr "Не загружать медиафайлы"
+
+#: admin_build_page.tpl.php:116
+msgid "Import first image:"
+msgstr ""
+
+#: admin_build_page.tpl.php:117
+msgid "The first image will be kept in the post content"
+msgstr ""
+
+#: admin_build_page.tpl.php:117
+msgid "as is"
+msgstr ""
+
+#: admin_build_page.tpl.php:118
+msgid ""
+"The first image will be removed from the post content and imported as the "
+"featured image only"
+msgstr ""
+
+#: admin_build_page.tpl.php:118
+msgid "as featured only"
+msgstr ""
+
+#: admin_build_page.tpl.php:119
+msgid ""
+"The first image will be kept in the post content and imported as the "
+"featured image"
+msgstr ""
+
+#: admin_build_page.tpl.php:119
+msgid "as is and as featured"
+msgstr ""
+
+#: admin_build_page.tpl.php:121
+msgid "Import external media"
+msgstr "Импорт внешних носителей"
+
+#: admin_build_page.tpl.php:123
+msgid ""
+"Checked: download the media with their full path in order to import media "
+"with identical names."
+msgstr ""
+
+#: admin_build_page.tpl.php:123
+msgid "Import media with duplicate names"
+msgstr ""
+
+#: admin_build_page.tpl.php:125
+msgid ""
+"Checked: download the media even if it has already been imported. Unchecked: "
+"Download only media which were not already imported."
+msgstr ""
+"Отмечено: загрузить медифайлы, если они уже были импортированы. Не отмечено: "
+"Загрузить только медиафайлы, которые не были загружены"
+
+#: admin_build_page.tpl.php:125
+msgid ""
+"Force media import. Leave unchecked if you have already transfered the media."
+"<br />It will speed up the import."
+msgstr ""
+"Принудительная загрузка медиафайлов. Не отмечайте, если вы уже перенесли "
+"медиафайлы<br /> Это ускорит импортирование."
+
+#: admin_build_page.tpl.php:129
+msgid "Meta keywords:"
+msgstr "Мета :"
+
+#: admin_build_page.tpl.php:130
+msgid "Import meta keywords as tags"
+msgstr "Импортировать мета, как теги"
+
+#: admin_build_page.tpl.php:133
+msgid "Create pages:"
+msgstr "Создать страницы :"
+
+#: admin_build_page.tpl.php:134
+msgid "Import as pages instead of blog posts (without categories)"
+msgstr "Импортировать как страницы, а не записи (без категорий)"
+
+#: admin_build_page.tpl.php:137
+msgid "SEO:"
+msgstr ""
+
+#: admin_build_page.tpl.php:139
+msgid ""
+"Import the meta description and the meta keywords to WordPress SEO by Yoast"
+msgstr ""
+
+#: admin_build_page.tpl.php:141
+msgid "Keep the Joomla article ID"
+msgstr ""
+
+#: admin_build_page.tpl.php:143
+msgid ""
+"Redirect the Joomla URLs. Don't use this option while keeping the Joomla "
+"IDs ; it may cause redirects loops."
+msgstr ""
+
+#: admin_build_page.tpl.php:149
+msgid "Save settings"
+msgstr ""
+
+#: admin_build_page.tpl.php:150
+msgid "Import content from Joomla to WordPress"
+msgstr "Импортировать Joomla в WordPress"
+
+#: admin_build_page.tpl.php:157
+msgid "After the migration"
+msgstr "После перенесения"
+
+#: admin_build_page.tpl.php:160
+msgid ""
+"During the migration, prefixes have been added to the categories slugs to "
+"avoid categories duplicates. This button will remove these prefixes which "
+"are useless after the migration."
+msgstr ""
+
+#: admin_build_page.tpl.php:164
+msgid "Remove the prefixes from the categories"
+msgstr ""
+
+#: admin_build_page.tpl.php:169
+msgid "If you have links between articles, you need to modify internal links."
+msgstr ""
+"Если у вас была внутренняя перелинковка, вам нужно модифицировать линки"
+
+#: admin_build_page.tpl.php:173
+msgid "Modify internal links"
+msgstr "Модифицировать внутренние линки"
+
+#: admin_build_page.tpl.php:180
+msgid ""
+"If you found this plugin useful and it saved you many hours or days, please "
+"rate it on <a href=\"http://wordpress.org/extend/plugins/fg-joomla-to-"
+"wordpress/\">FG Joomla to WordPress</a>. You can also make a donation using "
+"the button below."
+msgstr ""
+"Если вы нашли этот плагин полезным, и он сэкономил вам часы, а то и дни "
+"работы, оцените его на странице плагина<a href=\"http://wordpress.org/extend/"
+"plugins/fg-joomla-to-wordpress/\">FG Joomla to WordPress</a>. А если он "
+"понравился вам очень, можете сделать скромное пожертвование автору, который "
+"искренне старался для вас."
+
+#: admin_build_page.tpl.php:199
+msgid ""
+"All new imported posts or pages and their comments will be deleted from "
+"WordPress."
+msgstr ""
+"Все записи и страницы (а так же комментарии) будут удалены из Wordpress"
+
+#: admin_build_page.tpl.php:202
+#, fuzzy
+msgid "All content will be deleted from WordPress."
+msgstr ""
+"Все записи и страницы (а так же комментарии) будут удалены из Wordpress"
+
+#: admin_build_page.tpl.php:205
+msgid "Please select a remove option."
+msgstr "Выберите режим удаления"
+
+#: fgj2wp-menus.php:326
+#, fuzzy, php-format
+msgid "%d menu item imported"
+msgid_plural "%d menu items imported"
+msgstr[0] "%d медиафал перенесен"
+msgstr[1] "%d медиафайлов перенесено"
+
+#: fg-joomla-to-wordpress-premium.php:101 fg-joomla-to-wordpress.php:50
+msgid "Joomla (FG)"
+msgstr "Joomla (FG)"
+
+#: fg-joomla-to-wordpress-premium.php:101
+msgid ""
+"Import categories, articles, medias (images, attachments) and users from a "
+"Joomla database into WordPress."
+msgstr ""
+"Импортировать категории, материалы, медиафайлы (изображения, файлы) и юзеров "
+"из Joomla в WordPress."
+
+#: fg-joomla-to-wordpress-premium.php:111
+msgid "Import Joomla Premium (FG)"
+msgstr "Import Joomla Premium (FG)"
+
+#: fg-joomla-to-wordpress-premium.php:112
+#, fuzzy
+msgid ""
+"This plugin will import sections, categories, posts, medias (images, "
+"attachments), navigation menus and users from a Joomla database into "
+"WordPress."
+msgstr ""
+"Этот плагин импортирует разделы, категории, материалы, медиафайлы "
+"(изображения, файлы) и юзеров из Joomla в WordPress."
+
+#: fg-joomla-to-wordpress-premium.php:113
+msgid ""
+"For any issue, please read the <a href=\"http://www.fredericgilles.net/fg-"
+"joomla-to-wordpress/#tabs-6-0-3\" target=\"_blank\">FAQ</a> first."
+msgstr ""
+
+#: fg-joomla-to-wordpress-premium.php:118
+#, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d пользователь"
+msgstr[1] "%d пользователей"
+
+#: fg-joomla-to-wordpress-premium.php:123
+#, fuzzy, php-format
+msgid "%d menu item"
+msgid_plural "%d menu items"
+msgstr[0] "%d медиафал перенесен"
+msgstr[1] "%d медиафайлов перенесено"
+
+#: fg-joomla-to-wordpress-premium.php:177
+msgid ""
+"You need to fully empty the database if you want to use the \"Keep Joomla ID"
+"\" feature."
+msgstr ""
+
+#: fg-joomla-to-wordpress.php:50
+msgid ""
+"Import categories, articles and medias (images, attachments) from a Joomla "
+"database into WordPress."
+msgstr ""
+"Импортировать категории, материалы, медиафайлы (изображения, файлы) и юзеров "
+"из базы данных Joomla в WordPress."
+
+#: fg-joomla-to-wordpress.php:112
+msgid "The wp-content directory must be writable."
+msgstr ""
+
+#: fg-joomla-to-wordpress.php:120
+msgid "WordPress content removed"
+msgstr "Содержимое WordPress удалено"
+
+#: fg-joomla-to-wordpress.php:122
+msgid "Couldn't remove content"
+msgstr "Невозможно удалить содержимое"
+
+#: fg-joomla-to-wordpress.php:132
+msgid "Settings saved"
+msgstr ""
+
+#: fg-joomla-to-wordpress.php:162
+msgid "Prefixes removed from categories"
+msgstr ""
+
+#: fg-joomla-to-wordpress.php:171
+#, php-format
+msgid "%d internal link modified"
+msgid_plural "%d internal links modified"
+msgstr[0] "%d внутренний линк модифицирован"
+msgstr[1] "%d линков модифицировано"
+
+#: fg-joomla-to-wordpress.php:191
+msgid "Import Joomla (FG)"
+msgstr "Import Joomla (FG)"
+
+#: fg-joomla-to-wordpress.php:192
+msgid ""
+"This plugin will import sections, categories, posts and medias (images, "
+"attachments) from a Joomla database into WordPress.<br />Compatible with "
+"Joomla versions 1.5, 1.6, 1.7, 2.5, 3.0, 3.1 and 3.2."
+msgstr ""
+"Этот плагин импортирует категории, материалы, медиафайлы (изображения, "
+"файлы) и юзеров из базы данных Joomla в WordPress. <br /> Совместим с "
+"версиями Joomla 1.5, 1.6, 1.7, 2.5, 3.0, 3.1 и 3.2."
+
+#: fg-joomla-to-wordpress.php:193
+msgid ""
+"For any issue, please read the <a href=\"http://wordpress.org/plugins/fg-"
+"joomla-to-wordpress/faq/\" target=\"_blank\">FAQ</a> first."
+msgstr ""
+
+#: fg-joomla-to-wordpress.php:198
+#, php-format
+msgid "%d category"
+msgid_plural "%d categories"
+msgstr[0] "%d категория"
+msgstr[1] "%d категорий"
+
+#: fg-joomla-to-wordpress.php:199
+#, php-format
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] "%d материал"
+msgstr[1] "%d материалов"
+
+#: fg-joomla-to-wordpress.php:200
+#, php-format
+msgid "%d page"
+msgid_plural "%d pages"
+msgstr[0] "%d страница"
+msgstr[1] "%d страниц"
+
+#: fg-joomla-to-wordpress.php:201
+#, php-format
+msgid "%d media"
+msgid_plural "%d medias"
+msgstr[0] "%d медиафайл"
+msgstr[1] "%d медиайлов"
+
+#: fg-joomla-to-wordpress.php:202
+#, php-format
+msgid "%d tag"
+msgid_plural "%d tags"
+msgstr[0] "%d тег"
+msgstr[1] "%d тегов"
+
+#: fg-joomla-to-wordpress.php:224
+msgid "PDO is required. Please enable it."
+msgstr ""
+
+#: fg-joomla-to-wordpress.php:233 fg-joomla-to-wordpress.php:417
+msgid ""
+"Couldn't connect to the Joomla database. Please check your parameters. And "
+"be sure the WordPress server can access the Joomla database."
+msgstr ""
+"Невозможно соединиться с базой данных Joomla. Проверьте параметры соединения "
+"и убедитесь, что сервер WordPress имеет возможность доступа к базе данных "
+"Joomla."
+
+#: fg-joomla-to-wordpress.php:413
+msgid "Connected with success to the Joomla database"
+msgstr "Успешно соединено с базой данных Joomla"
+
+#: fg-joomla-to-wordpress.php:490
+#, php-format
+msgid "%d category imported"
+msgid_plural "%d categories imported"
+msgstr[0] "%d категория перенесена"
+msgstr[1] "%d категорий перенесено"
+
+#: fg-joomla-to-wordpress.php:496
+#, php-format
+msgid "%d page imported"
+msgid_plural "%d pages imported"
+msgstr[0] "%d страница перенесена"
+msgstr[1] "%d страниц перенесено"
+
+#: fg-joomla-to-wordpress.php:500
+#, php-format
+msgid "%d post imported"
+msgid_plural "%d posts imported"
+msgstr[0] "%d материал перенесен"
+msgstr[1] "%d материалов перенесено"
+
+#: fg-joomla-to-wordpress.php:502
+#, php-format
+msgid "%d media imported"
+msgid_plural "%d medias imported"
+msgstr[0] "%d медиафал перенесен"
+msgstr[1] "%d медиафайлов перенесено"
+
+#: fg-joomla-to-wordpress.php:507
+#, php-format
+msgid "%d tag imported"
+msgid_plural "%d tags imported"
+msgstr[0] "%d тег перенесен"
+msgstr[1] "%d тегов перенесено"
+
+#: fg-joomla-to-wordpress.php:524
+msgid "Don't forget to modify internal links."
+msgstr "Не забудьте модифицировать внутренние линки."
+
+#~ msgid ""
+#~ "Remove all posts, categories, tags, medias, comments, pages and users"
+#~ msgstr ""
+#~ "Удалить все записи, категории, теги, медиафайлы, комментарии, страницы и "
+#~ "пользователей"
+
+#~ msgid "Posts with a \"read more\" split:"
+#~ msgstr "Материалы с «read more» :"
+
+#~ msgid ""
+#~ "All posts, categories, tags, medias, comments, pages and users will be "
+#~ "deleted from WordPress."
+#~ msgstr ""
+#~ "Все записи, категории, теги, медиафайлы, комментарии, страницы и "
+#~ "пользователи будут удалены из Wordpress"
+
+#~ msgid "Categories, tags, posts, comments, pages and medias deleted"
+#~ msgstr ""
+#~ "Catégories, mots-clefs, articles, commentaires, pages et médias supprimés"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Joomla Premium (FG)"
+#~ msgstr "Joomla Premium (FG)"
+
+#~ msgid "%d image"
+#~ msgid_plural "%d images"
+#~ msgstr[0] "%d image"
+#~ msgstr[1] "%d images"
+
+#~ msgid "Images:"
+#~ msgstr "Images :"
+
+#, fuzzy
+#~ msgid "FG Joomla to WordPress"
+#~ msgstr "Importer le contenu de Joomla vers WordPress"
+
+#, fuzzy
+#~ msgid ""
+#~ "A plugin to migrate categories, posts and images from Joomla to WordPress"
+#~ msgstr ""
+#~ "Cette extension va importer les sections, les catégories, les articles et "
+#~ "les images depuis une base Joomla vers WordPress."

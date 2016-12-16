@@ -1,0 +1,62 @@
+.biginfopane .button-block 
+{
+    padding: 1px 1px;
+    text-align: left;
+}
+
+.biginfopane .text-block 
+{
+    font-size: 120%;
+}
+
+.primary-menu  li a
+{
+    font-size: 20px;
+}
+
+
+h1, h2, h3, h4, h5, h6 
+{
+    margin:0px 0 10px 0;
+}
+
+.username input, .password input 
+{
+    height: 25px;
+}
+
+.block-inner {
+      padding-top   : 5px;
+    padding-left  : 18px;
+    padding-right : 26px;
+    padding-bottom: 5px;
+}
+
+/* -- problème avec firefox: décalle à gauche --
+.biginfopane .inner {
+    display: inline;
+}
+*/
+
+#bbpress-forums ul.bbp-lead-topic, 
+#bbpress-forums ul.bbp-topics, 
+#bbpress-forums ul.bbp-forums, 
+#bbpress-forums ul.bbp-replies, 
+#bbpress-forums ul.bbp-search-results 
+{
+    font-size: 16px;
+}
+
+/* bbPress */
+li.bbp-forum-info, li.bbp-topic-title 
+{
+	width: 45%;
+}     
+
+li.bbp-forum-topic-count, 
+li.bbp-topic-voice-count,
+li.bbp-forum-reply-count, 
+li.bbp-topic-reply-count 
+{
+	width: 12%;
+}

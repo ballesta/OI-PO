@@ -1,0 +1,1293 @@
+    <!DOCTYPE html>
+    <!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="fr"> <![endif]-->
+    <!--[if IE 8]> <html class="no-js lt-ie9" lang="fr"> <![endif]-->
+    <!--[if IE 9]> <html class="no-js lte-ie9" lang="fr"> <![endif]-->
+    <!--[if gt IE 9]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
+    <head>
+        
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Bpifrance - Servir l&#039;Avenir</title>
+
+    
+        <meta name="description" content="Bpifrance investira 8 milliards d&#039;euros d&#039;ici à 2017 dans les entreprises françaises.Serez-vous la prochaine ?">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="Shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="http://www.bpifrance.fr/" />
+
+<!--
+/**
+ * @license
+ * MyFonts Webfont Build ID 2736382, 2014-01-30T11:40:01-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Helvetica 45 Light by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/neue-helvetica/helvetica-45-light/
+ *
+ * Webfont: Helvetica 75 Bold by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/neue-helvetica/helvetica-75-bold/
+ *
+ * Webfont: Helvetica 76 Bold Italic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/neue-helvetica/helvetica-76-bold-italic/
+ *
+ * Webfont: Helvetica 46 Light Italic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/neue-helvetica/helvetica-46-light-italic/
+ *
+ * Webfont: Helvetica 55 Roman by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/neue-helvetica/helvetica-55-roman/
+ *
+ * Webfont: Helvetica 56 Italic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/neue-helvetica/helvetica-56-italic/
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2736382
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright &#x00A9; 1988, 1990, 1993, 2002 Adobe Systems
+ * Incorporated.  All Rights Reserved. &#x00A9; 1981, 2002 Heidelberger Druckmaschinen
+ * AG. All rights reserved.
+ *
+ * © 2014 MyFonts Inc
+*/
+-->
+
+
+    <link rel="stylesheet" type="text/css" href="/css/1429ff0.css"/>
+
+    <link rel="stylesheet" type="text/css" href="/css/dd6aee8.css"/>
+
+    <link rel="stylesheet" type="text/css" href="/css/67f8682.css"/>
+
+    <link rel="stylesheet" type="text/css" href="/css/dd4b1be.css"/>
+
+    <script type="text/javascript" src="/js/8fb59dc.js"></script>
+
+        
+                        <link rel="alternate" type="application/rss+xml" title="Actualités Bpifrance" href="http://www.bpifrance.fr/rss/feed/Runformation_Nouvelles_Bpifrance" />
+        <link rel="alternate" type="application/rss+xml" title="Agenda" href="http://www.bpifrance.fr/rss/feed/Agenda" />
+        <link rel="alternate" type="application/rss+xml" title="Communiqués de presse Bpifrance" href="http://www.bpifrance.fr/rss/feed/Agenda_medias" />
+        <link rel="alternate" type="application/rss+xml" title="Témoignages d&#039;entreprises aidées par Bpifrance" href="http://www.bpifrance.fr/rss/feed/temoignages_Bpifrance" />
+<link rel="alternate" type="application/rss+xml" title="Bourse de la transmission" href="http://www.reprise-entreprise.bpifrance.fr/rss/feed/annonces_bpifrance" />
+<link rel="alternate" type="application/rss+xml" title="Bourse des technologies FR" href="http://technologie.bpifrance.fr/rss_bourse/fr" />
+<link rel="alternate" type="application/rss+xml" title="Bourse des technologies EN" href="http://technologie.bpifrance.fr/rss_bourse/en" />
+<link rel="alternate" type="application/rss+xml" title="Actualités, témoignages, évènements Bpifrance Bretagne - OUEST FRANCE" href="http://www.bpifrance.fr/rss/flux_ouest_france/Bretagne" />
+<link rel="alternate" type="application/rss+xml" title="Actualités, témoignages, évènements Bpifrance Pays-de-la-Loire - OUEST FRANCE" href="http://www.bpifrance.fr/rss/flux_ouest_france/Pays+de+la+Loire" />
+<link rel="alternate" type="application/rss+xml" title="Actualités, témoignages, évènements Bpifrance Basse-Normandie - OUEST FRANCE" href="http://www.bpifrance.fr/rss/flux_ouest_france/Basse-Normandie" />
+<link rel="alternate" type="application/rss+xml" title="Actualités, témoignages, évènements Bpifrance Franche-Comté - OUEST FRANCE" href="http://www.bpifrance.fr/rss/flux_ouest_france/Franche-Comt%C3%A9" />
+<link rel="alternate" type="application/rss+xml" title="Actualités, témoignages, évènements Bpifrance Bourgogne - OUEST FRANCE" href="http://www.bpifrance.fr/rss/flux_ouest_france/Bourgogne" />
+    </head>
+    <body itemscope itemtype="http://schema.org/WebPage">
+    <div class="flood">
+    <!--
+    Start of DoubleClick Floodlight Tag: Please do not remove
+    Activity name of this tag: Nouveau site Bpifrance
+    URL of the webpage where the tag is expected to be placed: http://toutes les pages Bpifrance
+    This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+    Creation Date: 04/23/2014
+    -->
+    <script type="text/javascript" id="DoubleClickFloodlightTag1671756">
+        //<![CDATA[
+        var axel = Math.random() + "";
+        var a = axel * 10000000000000;
+
+        var newIFrame=document.createElement('iframe');
+        newIFrame.src='http://4156970.fls.doubleclick.net/activityi;src=4156970;type=landi353;cat=nouve057;ord=' + a + '?';
+        newIFrame.width="1";
+        newIFrame.frameborder="0";
+        newIFrame.height="1";
+        var scriptNode=document.getElementById('DoubleClickFloodlightTag1671756');
+        scriptNode.parentNode.insertBefore(newIFrame,scriptNode);
+        //]]>
+    </script>
+    <noscript>
+        <iframe src="http://4156970.fls.doubleclick.net/activityi;src=4156970;type=landi353;cat=nouve057;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </noscript>
+
+    <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+    </div>    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TW8246"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i){
+        w[l]=w[l]||[];
+        w[l].push(
+            {
+                'gtm.start': new Date().getTime(),
+                event:'gtm.js'
+            });
+        var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),
+            dl=l!='dataLayer'?'&l='+l:'';
+            j.async=true;
+            j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TW8246');
+</script>
+<!-- End Google Tag Manager -->    <!--[if lt IE 8]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your
+        experience.</p>
+    <![endif]-->
+
+    <div class="wrapper" id="wrapper">
+                <header class="header" id="header" role="banner">
+    <div class="constraint">
+        <a href="http://www.bpifrance.fr/" class="logo"><img src="http://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" width="250" height="37" alt="Bpifrance | Servir l'avenir"></a>
+                            <ul class="discs hide">
+    <li>
+        <a href="http://www.bpifrance.fr/#projet" >
+            Mon<br>projet
+        </a>
+    </li>
+    <li>
+        <a href="http://www.bpifrance.fr/#actu" >
+            Actus<br><span>Bpifrance</span>
+        </a>
+    </li>
+</ul>
+
+                <nav class="navigation" id="navigation-header" role="navigation">
+            <div class="nav-item-list">
+                <div class="nav-item">
+                    <button type="button" id="menu-access">
+                        <span class="glyphs glyphs-menu"></span><b>Menu</b>
+                    </button>
+                    <div class="nav-item-layer nav-menu">
+    <div class="constraint">
+        <div class="column">
+                <h4>Bpifrance</h4>
+
+    <ul>
+                                    <li >
+                                                            <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers"
+                           title="Nos métiers">
+                                                            Nos métiers
+                                                    </a>
+                                                                                    <ul>
+                                                                    <li>
+                                        <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Innovation"
+                                           title="Innovation">
+                                                                                            Innovation
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Financement"
+                                           title="Financement">
+                                                                                            Financement
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Garantie"
+                                           title="Garantie">
+                                                                                            Garantie
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Fonds-propres"
+                                           title="Fonds propres">
+                                                                                            Fonds propres
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/International"
+                                           title="International">
+                                                                                            International
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Accompagnement"
+                                           title="Accompagnement">
+                                                                                            Accompagnement
+                                                                                    </a>
+                                    </li>
+                                                                </ul>
+                                                                                        </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Bpifrance/Notre-mission"
+                           title="Notre mission">
+                                                            Notre mission
+                                                    </a>
+                                                            </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Bpifrance/Notre-organisation"
+                           title="Notre organisation">
+                                                            Notre organisation
+                                                    </a>
+                                                            </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Bpifrance/En-region"
+                           title="En région">
+                                                            En région
+                                                    </a>
+                                                            </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Bpifrance/Nos-partenaires"
+                           title="Nos partenaires">
+                                                            Nos partenaires
+                                                    </a>
+                                                            </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Bpifrance/Recrutement"
+                           title="Recrutement">
+                                                            Recrutement
+                                                    </a>
+                                                            </li>
+                                            </ul>
+
+        </div>
+        <div class="column">
+                <h4>Votre projet</h4>
+
+    <ul>
+                                    <li >
+                                                            <a href="http://www.bpifrance.fr/#location-3401" 
+                           title="Renforcer ma trésorerie">
+                                Renforcer ma trésorerie
+                        </a>
+                                    </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/#location-201" 
+                           title="Créer ma société">
+                                Créer ma société
+                        </a>
+                                    </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/#location-130" 
+                           title="Développer mon activité">
+                                Développer mon activité
+                        </a>
+                                    </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/#location-3403" 
+                           title="Innover">
+                                Innover
+                        </a>
+                                    </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/#location-3402" 
+                           title="Exporter">
+                                Exporter
+                        </a>
+                                    </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/#location-179" 
+                           title="Renforcer mon capital">
+                                Renforcer mon capital
+                        </a>
+                                    </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/#location-217" 
+                           title="Reprendre un commerce ou une entreprise">
+                                Reprendre un commerce ou une entreprise
+                        </a>
+                                    </li>
+                        </ul>
+
+
+            <a href="http://www.bpifrance.fr/Toutes-nos-solutions"><span class="glyphs glyphs-thin-right-arrow"></span>Toutes nos solutions</a>
+            <a href="http://www.bpifrance.fr/Contactez-Bpifrance"><span class="glyphs glyphs-thin-right-arrow"></span>Contactez-nous</a>
+        </div>
+        <div class="column">
+                <h4>Vivez Bpifrance</h4>
+
+    <ul>
+                                    <li >
+                                                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Paroles-d-entrepreneurs"
+                           title="Paroles d&#039;entrepreneurs">
+                                                            Paroles d&#039;entrepreneurs
+                                                    </a>
+                                                            </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Agenda"
+                           title="Agenda">
+                                                            Agenda
+                                                    </a>
+                                                            </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Dossiers"
+                           title="Dossiers">
+                                                            Dossiers
+                                                    </a>
+                                                            </li>
+                                                <li >
+                                                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites"
+                           title="Actualités">
+                                                            Actualités
+                                                    </a>
+                                                            </li>
+                        </ul>
+
+            <h4>Le fil</h4>
+                            <ul class="feed-extract">
+                                                            <li>
+                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Le-meilleur-de-l-actu-!-19924">
+                                <time datetime="2015-10-01">01.10.15</time>
+                                Le meilleur de l&#039;actu !
+                            </a>
+                        </li>
+                                                                                <li>
+                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Nosobio-un-projet-collaboratif-au-service-de-la-sante-19934">
+                                <time datetime="2015-10-01">01.10.15</time>
+                                 Nosobio, un projet collaboratif au service de la santé
+                            </a>
+                        </li>
+                                                                                <li>
+                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Innovation-alimentaire-de-la-mayonnaise-sans-oeuf-au-sel-sans-sel-19905">
+                                <time datetime="2015-09-30">30.09.15</time>
+                                Innovation alimentaire : de la mayonnaise sans œuf au sel sans sel
+                            </a>
+                        </li>
+                                                    </ul>
+                    </div>
+        <div class="column column-last">
+                            <h4>
+                    <span>Bpifrance</span> Le LAB
+                </h4>
+                <p>Découvrez le laboratoire d’idées de Bpifrance</p>
+                                    <a href="http://www.bpifrance-lelab.fr/" target="_blank"><span class="glyphs glyphs-thin-right-arrow"></span>Accéder au site</a>
+                                                        <h4>
+                    <span>Bpifrance</span> Excellence
+                </h4>
+                <p>Le réseau d&#039;entrepreneurs sélectionnés par Bpifrance.</p>
+                                    <a href="http://www.excellence.bpifrance.fr/" target="_blank"><span class="glyphs glyphs-thin-right-arrow"></span>Accéder au site</a>
+                                                        <h4>
+                    <span>Bpifrance</span> TV
+                </h4>
+                <p>Toutes les vidéos et témoignages des entrepreneurs aidés par Bpifrance.</p>
+                                    <a href="http://tv.bpifrance.fr/" target="_blank"><span class="glyphs glyphs-thin-right-arrow"></span>Accéder au site</a>
+                                    </div>
+    </div>
+    </div>
+
+                </div>
+                <div class="nav-item search">
+                    <a href="http://www.bpifrance.fr/Recherche" class="icon-only">
+                        <span class="glyphs glyphs-magnifying-glass"></span>
+                    </a>
+
+                    <form action="http://www.bpifrance.fr/Recherche" class="nav-item-layer inline-form">
+                        <h4>Votre recherche</h4>
+
+                        <div>
+                            <input type="search" placeholder="Ex : Innovation"  name="search_text" id="headersearchtext" value="">
+                            <button type="submit">OK</button>
+                        </div>
+                                            </form>
+                </div>
+                <div class="nav-item qui-sommes-nous">
+                    <a href="http://www.bpifrance.fr/Bpifrance/Notre-mission">
+                        <span class="glyphs glyphs-info"></span>Qui sommes-nous&nbsp;?
+                    </a>
+                </div>
+                <div class="nav-item councellor ">
+                    <a class="conseille" href="#">
+                        <span class="glyphs glyphs-france"></span><b>Contactez-nous</b>
+                    </a>
+                                            
+
+<div class="nav-item-layer counsellor">
+    <div class="constraint">
+        <h4>Contactez-nous</h4>
+            <div class="interactive-map">
+        <h5>Sélectionnez une région :</h5>
+        <div class="carte" style="width:475px;height:416px;">
+            <!--[if gt IE 8]><!--> <img src="http://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/points.png" alt="" class="points"> <!--<![endif]-->
+        </div>
+    </div>
+    <div class="closest-counsellor">
+        <h5>
+            Trouvez votre chargé d'affaires<br>
+            le plus proche :
+        </h5>
+            <select name="regions" class="region-selector">
+        <option value="">Régions</option>
+                    <option value="alsace" >Alsace</option>
+                    <option value="aquitaine" >Aquitaine</option>
+                    <option value="auvergne" >Auvergne</option>
+                    <option value="bassenormandie" >Basse-Normandie</option>
+                    <option value="bourgogne" >Bourgogne</option>
+                    <option value="bretagne" >Bretagne</option>
+                    <option value="centre" >Centre</option>
+                    <option value="champagneardenne" >Champagne-Ardenne</option>
+                    <option value="corse" >Corse</option>
+                    <option value="franchecomte" >Franche-Comté</option>
+                    <option value="guadeloupe" >Guadeloupe</option>
+                    <option value="guyane" >Guyane</option>
+                    <option value="hautenormandie" >Haute-Normandie</option>
+                    <option value="iledefrance" >Ile-de-France</option>
+                    <option value="lareunion" >La Réunion</option>
+                    <option value="languedocroussillon" >Languedoc-Roussillon</option>
+                    <option value="limousin" >Limousin</option>
+                    <option value="lorraine" >Lorraine</option>
+                    <option value="martinique" >Martinique</option>
+                    <option value="mayotte" >Mayotte</option>
+                    <option value="midipyrenees" >Midi-Pyrénées</option>
+                    <option value="nordpasdecalais" >Nord-Pas de Calais</option>
+                    <option value="paysdelaloire" >Pays de la Loire</option>
+                    <option value="picardie" >Picardie</option>
+                    <option value="poitoucharentes" >Poitou-Charentes</option>
+                    <option value="provencealpescotedazur" >Provence-Alpes-Côte d&#039;Azur</option>
+                    <option value="rhonealpes" >Rhône-Alpes</option>
+            </select>
+
+        <div class="region-selector-results"></div>
+                    <p>Bpifrance est présent sur l'ensemble du territoire et en Outre-Mer via ses 42 implantations.</p><p>Nos équipes vous <b>conseilleront</b> dans votre démarche et vous <b>aideront</b> à trouver les financements nécessaires à vos projets.</p>
+
+            </div>
+
+    </div>
+    </div>
+
+
+
+
+                                    </div>
+            </div>
+
+        </nav>
+                    <nav class="navigation-small" id="navigation-small">
+    <div class="navigation-small-inner">
+        <ul>
+            <li class="nav-item accordion two-glyphs">
+                <h5 class="accordion-heading"><span class="glyphs glyphs-yellow-medium-disc"></span>Votre projet<span class="glyphs glyphs-thin-down-arrow"></span></h5>
+                <ul class="accordion-content">
+                                                                        <li>
+                                                                                                     <a href="http://www.bpifrance.fr/#location-3401" 
+                                       title="Renforcer ma trésorerie">
+                                        Renforcer ma trésorerie
+                                    </a>
+                                                            </li>
+                                                    <li>
+                                                                                                     <a href="http://www.bpifrance.fr/#location-201" 
+                                       title="Créer ma société">
+                                        Créer ma société
+                                    </a>
+                                                            </li>
+                                                    <li>
+                                                                                                     <a href="http://www.bpifrance.fr/#location-130" 
+                                       title="Développer mon activité">
+                                        Développer mon activité
+                                    </a>
+                                                            </li>
+                                                    <li>
+                                                                                                     <a href="http://www.bpifrance.fr/#location-3403" 
+                                       title="Innover">
+                                        Innover
+                                    </a>
+                                                            </li>
+                                                    <li>
+                                                                                                     <a href="http://www.bpifrance.fr/#location-3402" 
+                                       title="Exporter">
+                                        Exporter
+                                    </a>
+                                                            </li>
+                                                    <li>
+                                                                                                     <a href="http://www.bpifrance.fr/#location-179" 
+                                       title="Renforcer mon capital">
+                                        Renforcer mon capital
+                                    </a>
+                                                            </li>
+                                                    <li>
+                                                                                                     <a href="http://www.bpifrance.fr/#location-217" 
+                                       title="Reprendre un commerce ou une entreprise">
+                                        Reprendre un commerce ou une entreprise
+                                    </a>
+                                                            </li>
+                                                               <li><a href="http://www.bpifrance.fr/Toutes-nos-solutions" class="have-glyph" ><span class="glyphs glyphs-thin-brown-right-arrow"></span>Toutes nos solutions</a></li>
+                   <li><a href="http://www.bpifrance.fr/Contactez-Bpifrance" class="have-glyph" ><span class="glyphs glyphs-thin-brown-right-arrow"></span>Contactez-nous</a></li>
+                </ul>
+
+            </li>
+            <li class="nav-item accordion two-glyphs">
+                <h5 class="accordion-heading"><span class="glyphs glyphs-brown-medium-disc"></span>Vivez l'actualité de Bpifrance<span class="glyphs glyphs-thin-down-arrow"></span></h5>
+                                    <ul class="accordion-content">
+                                                                                    <li>
+                                    <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Paroles-d-entrepreneurs"
+                                       title="Paroles d&#039;entrepreneurs">
+                                                                                    Paroles d&#039;entrepreneurs
+                                                                            </a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Agenda"
+                                       title="Agenda">
+                                                                                    Agenda
+                                                                            </a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Dossiers"
+                                       title="Dossiers">
+                                                                                    Dossiers
+                                                                            </a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites"
+                                       title="Actualités">
+                                                                                    Actualités
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                
+            </li>
+            <li class="nav-item main-nav-item"><a href="http://www.bpifrance.fr/Contactez-nous"><span class="glyphs glyphs-small-france"></span>Contactez-nous</a></li>
+            <li class="nav-item accordion">
+                <h5 class="accordion-heading">Bpifrance<span class="glyphs glyphs-thin-down-arrow"></span></h5>
+                                    <ul class="accordion-content">
+                                                    <li >
+                                                                <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers"
+                                   title="Nos métiers">
+                                                                            Nos métiers
+                                                                    </a>
+                                                                                                            <ul>
+                                                                                            <li>
+                                                    <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Innovation"
+                                                       title="Innovation">
+                                                                                                                    Innovation
+                                                                                                            </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Financement"
+                                                       title="Financement">
+                                                                                                                    Financement
+                                                                                                            </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Garantie"
+                                                       title="Garantie">
+                                                                                                                    Garantie
+                                                                                                            </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Fonds-propres"
+                                                       title="Fonds propres">
+                                                                                                                    Fonds propres
+                                                                                                            </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/International"
+                                                       title="International">
+                                                                                                                    International
+                                                                                                            </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Accompagnement"
+                                                       title="Accompagnement">
+                                                                                                                    Accompagnement
+                                                                                                            </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="http://www.bpifrance.fr/Bpifrance/Nos-metiers/Bpifrance-Servir-l-avenir"
+                                                       title="Bpifrance - Servir l&#039;avenir">
+                                                                                                                    Bpifrance - Servir l&#039;avenir
+                                                                                                            </a>
+                                                </li>
+                                                                                    </ul>
+                                                                                                </li>
+                                                    <li >
+                                                                <a href="http://www.bpifrance.fr/Bpifrance/Notre-mission"
+                                   title="Notre mission">
+                                                                            Notre mission
+                                                                    </a>
+                                                            </li>
+                                                    <li >
+                                                                <a href="http://www.bpifrance.fr/Bpifrance/Notre-organisation"
+                                   title="Notre organisation">
+                                                                            Notre organisation
+                                                                    </a>
+                                                            </li>
+                                                    <li >
+                                                                <a href="http://www.bpifrance.fr/Bpifrance/En-region"
+                                   title="En région">
+                                                                            En région
+                                                                    </a>
+                                                            </li>
+                                                    <li >
+                                                                <a href="http://www.bpifrance.fr/Bpifrance/Nos-partenaires"
+                                   title="Nos partenaires">
+                                                                            Nos partenaires
+                                                                    </a>
+                                                            </li>
+                                                    <li >
+                                                                <a href="http://www.bpifrance.fr/Bpifrance/Recrutement"
+                                   title="Recrutement">
+                                                                            Recrutement
+                                                                    </a>
+                                                            </li>
+                                                    <li >
+                                                                <a href="http://www.bpifrance.fr/Bpifrance/Biographies"
+                                   title="Biographies">
+                                                                            Biographies
+                                                                    </a>
+                                                            </li>
+                                            </ul>
+                            </li>
+                            <li class="nav-item"><a target="_blank" href="http://www.bpifrance-lelab.fr/">Bpifrance le Lab<span class="glyphs glyphs-thin-brown-right-arrow"></span></a></li>
+                                        <li class="nav-item"><a target="_blank" href="http://www.excellence.bpifrance.fr/">Bpifrance Excellence<span class="glyphs glyphs-thin-brown-right-arrow"></span></a></li>
+                                        <li class="nav-item"><a target="_blank" href="http://tv.bpifrance.fr/">Bpifrance TV<span class="glyphs glyphs-thin-brown-right-arrow"></span></a></li>
+                    </ul>
+                    
+                                                                                                
+                                                                <a href="http://www.bpifrance.fr/Allons-au-bout-de-vos-projets"  target=&#039;_blank&#039;  >
+                                    <img src="/var/bpifrance/storage/images/bpifrance/33805-96-fre-FR/Bpifrance_pub_menu_responsive.gif" alt="" />
+    
+            </a>
+                </div>
+</nav>
+            </div>
+</header>        <div class="nav-white-bg"></div>
+
+                    
+                                                            <div class="content-doodle-contrib">
+        <div id="doodle-contrib" data-href="/Vivez-Bpifrance/Dossiers/Sport-et-entreprise-des-valeurs-communes/Ensemble-developpons-l-esprit-d-equipe" data-target="_blank">
+
+                <a href="#" class="replay doodle-action" title="Revoir l'animation "><span>Revoir l'animation </span></a>
+                <a href="#" class="skip doodle-action" title="Passer l'animation"><span>Passer l'animation</span></a>
+
+
+            <div class="doodle-content">
+                <span class="titre_doodle">Ensemble, <br />développons<br />l’esprit d’équipe !</span>
+                <ul class="doodle-animation">
+                    <li>
+                                            <img src="/var/bpifrance/storage/images/bpifrance/118084-122-fre-FR/Bpifrance_doodle_home.jpg" alt="" />
+    
+                    </li>
+                    <li>
+                                            <img src="/var/bpifrance/storage/images/bpifrance/118084-122-fre-FR/Bpifrance_doodle_home.jpg" alt="" />
+    
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<!-- From: 2015-10-01T16:00:00+02:00 &lt;br /&gt; To: 2015-10-02T14:00:00+02:00 &lt;br /&gt; current: 2015-10-01T19:21:39+02:00 -->
+    <!-- From: 2015-07-06T00:00:00+02:00 &lt;br /&gt; To: 2015-07-14T00:00:01+02:00 &lt;br /&gt; current: 2015-10-01T19:21:39+02:00 -->
+
+
+        <main  class="main constraint  " role="main">
+            <span id="RSPEAK_START"><!-- RSPEAK_START --></span>
+                <div class="home-menu">
+                <h1>
+            Bpifrance investira 8 milliards d'euros d'ici à 2017 dans les entreprises françaises.<br />Serez-vous la prochaine ?
+        </h1>
+        
+        <div class="choice">
+            <a class="rond projet" id="projet">
+                <p>Trouvez<br><span>la solution</span><br>qu'il vous faut</p>
+            </a><a class="rond actu" id="actu">
+                <p>Vivez<br><span>l'actualité</span><br> des entreprises</p>
+            </a>
+        </div>
+    </div>
+    <section class="home-questionnaire">
+        <div class="timeline">
+    <span class="home">home</span>
+    <ul class="steps">
+        <li class="selected pointer"><span>1</span><div class="legend"><strong>Votre projet</strong>(<em> 99</em> solutions)</div></li>
+        <li><span>2</span><div class="legend"><strong>Votre projet</strong>(<em>XX</em> solutions)</div></li>
+        <li><span>3</span><div class="legend"><strong>Votre projet</strong>(<em>XX</em> solutions)</div></li>
+    </ul>
+</div>
+<div class="fieldsets">
+    <div class="fieldset"></div>
+    <div class="fieldset"></div>
+    <div class="fieldset"></div>
+</div>
+<div class="timeline-mobile">
+    <a href="#" class="last-step">Retour</a>
+    <div class="legend"><em>99</em> Solutions</div>
+    <span>1</span>
+</div>
+    </section>
+    <section class="home-actualites">
+        <h2>À la une</h2>
+        <div class="carrousel large news">
+    <div class="carrousel-container">
+        <ul class="carrousel-slides">
+                                                                                                                                    <li>
+                                                                <img src="/var/bpifrance/storage/images/media/diapositives/faites-votre-rentree-avec-bpifrance-universite/211500-1-fre-FR/Faites-votre-rentree-avec-Bpifrance-Universite_full_main.png" alt="Bpifrance Université " />
+    
+                                        <div class="description">
+                        <div class="inner">
+                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Faites-votre-rentree-avec-Bpifrance-Universite-!-19371" title="Faites votre rentrée avec Bpifrance Université !" >
+                                                                                                                                                        <strong>31 août 2015</strong>
+                                                                                                                                            <h3 data-href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Faites-votre-rentree-avec-Bpifrance-Universite-!-19371">Faites votre rentrée avec Bpifrance Université !</h3>
+                                Pour la rentrée, Bpifrance Université enrichit sa programmation avec de nouveaux modules pour vous accompagner...
+                            </a>
+                        </div>
+                        <a href="#" class="next">next</a>
+                        <a href="#" class="prev">prev</a>
+                    </div>
+                </li>
+                                                                                                                                                    <li>
+                                                                <img src="/var/bpifrance/storage/images/media/diapositives/les-dossiers-bpifrance/209688-5-fre-FR/Les-Dossiers-Bpifrance_full_main.png" alt="" />
+    
+                                        <div class="description">
+                        <div class="inner">
+                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Dossiers" title="Dossiers Bpifrance" >
+                                                                                                                                    <h3 data-href="http://www.bpifrance.fr/Vivez-Bpifrance/Dossiers">Dossiers Bpifrance</h3>
+                                Export, entreprenariat féminin, objets connectés, innovation managériale.... découvrez tous nos dossiers...
+                            </a>
+                        </div>
+                        <a href="#" class="next">next</a>
+                        <a href="#" class="prev">prev</a>
+                    </div>
+                </li>
+                                                                                                                                                    <li>
+                                                                <img src="/var/bpifrance/storage/images/media/diapositives/le-zap-bpifrance-de-la-semaine/59933-39-fre-FR/Le-Zap-Bpifrance-de-la-semaine_full_main.png" alt="" />
+    
+                                        <div class="description">
+                        <div class="inner">
+                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Le-zapping-TV-des-entrepreneurs-n-8-19654" title="Le Zapping TV des entrepreneurs" >
+                                                                                                                                                        <strong>18 septembre 2015</strong>
+                                                                                                                                            <h3 data-href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Le-zapping-TV-des-entrepreneurs-n-8-19654">Le Zapping TV des entrepreneurs</h3>
+                                Découvrez les meilleures séquences des principales chaînes TV sur le thème de l&#039;entrepreneuriat.
+                            </a>
+                        </div>
+                        <a href="#" class="next">next</a>
+                        <a href="#" class="prev">prev</a>
+                    </div>
+                </li>
+                                                                                                                                                    <li>
+                                                                <img src="/var/bpifrance/storage/images/media/diapositives/projet-collaboratif-a-la-une/214019-1-fre-FR/Projet-collaboratif-a-la-une_full_main.png" alt="Projet Futurol, le biocarburant de 2e génération" />
+    
+                                        <div class="description">
+                        <div class="inner">
+                            <a href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Projet-Futurol-le-biocarburant-de-2e-generation-19650" title="Projet collaboratif à la une" >
+                                                                                                                                                        <strong>17 septembre 2015</strong>
+                                                                                                                                            <h3 data-href="http://www.bpifrance.fr/Vivez-Bpifrance/Actualites/Projet-Futurol-le-biocarburant-de-2e-generation-19650">Projet collaboratif à la une</h3>
+                                Un nouveau biocarburant bientôt sur le marché ! Découvrez le projet Futurol...
+                            </a>
+                        </div>
+                        <a href="#" class="next">next</a>
+                        <a href="#" class="prev">prev</a>
+                    </div>
+                </li>
+                                    </ul>
+        <ul class="carrousel-menu">
+                                                                            
+                <li>
+                    <div>
+                        Faites votre rentrée avec Bpifrance Université !
+                    </div>
+                </li>
+                
+                <li>
+                    <div>
+                        Dossiers Bpifrance
+                    </div>
+                </li>
+                
+                <li>
+                    <div>
+                        Le Zapping TV des entrepreneurs
+                    </div>
+                </li>
+                
+                <li>
+                    <div>
+                        Projet collaboratif à la une
+                    </div>
+                </li>
+                
+        </ul>
+    </div>
+    <a href="/Vivez-Bpifrance/Actualites" class="button"><span class="glyphs glyphs-white-right-arrow"></span>Voir toutes les actualités</a>
+</div>
+
+        <div class="clearfix">
+            <div class="blocs-container col-2 bloc-entrepreneurs">
+                <h2>Paroles d'entrepreneurs</h2>
+                <ul>
+        <li class="bloc video smallbloc  ">
+            <figure class="ezimage-field" ><img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/paroles-d-entrepreneurs/olygose-18491/207462-1-fre-FR/Olygose_featured_word.jpg" alt="François Delbaere  " /></figure>
+<div class="description">
+                        <span class="bis">Santé,             Bpifrance Excellence</span>
+                    <strong>Olygose</strong>
+    <p>Olygose, l’alternative santé de votre alimentation. Retrouvez l&#039;interview de François Delbaere, Pdg et fondateur d’Olylgose, spécialisée dans la fabrication d’ingrédients pour la nutraceutique, et de Sébastien Pascaud, chargé d’affaires Bpifrance Picardie</p>
+    <a href="/Vivez-Bpifrance/Paroles-d-entrepreneurs/Olygose-18491">Voir la fiche entrepreneur</a>
+</div>
+    </li>
+        <li class="bloc video smallbloc  ">
+            <figure class="ezimage-field" ><img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/paroles-d-entrepreneurs/uni-packaging-18471/207276-1-fre-FR/Uni-Packaging_featured_word.jpg" alt="Franck Caresmel, président d&#039;Uni Packaging" /></figure>
+<div class="description">
+                        <span class="bis">Industrie,             Bpifrance Excellence</span>
+                    <strong>Uni Packaging</strong>
+    <p>Uni-Packaging, la seconde peau de votre produit. Retrouvez l&#039;Interview de Franck Caresmel, Président d’Uni Packaging, spécialisé dans la transformation d’emballages flexibles, et de Cindy Baesen, chargée d’affaires financement Bpifrance Nord-Pas de Calais.</p>
+    <a href="/Vivez-Bpifrance/Paroles-d-entrepreneurs/Uni-Packaging-18471">Voir la fiche entrepreneur</a>
+</div>
+    </li>
+        <li class="bloc video smallbloc  ">
+            <figure class="ezimage-field" ><img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/paroles-d-entrepreneurs/mecafi-18434/207239-1-fre-FR/Mecafi_featured_word.jpg" alt="Sylvain Accorsini" /></figure>
+<div class="description">
+                        <span class="bis">Industrie,             Bpifrance Excellence</span>
+                    <strong>Mecafi</strong>
+    <p>Culture de l’excellence et innovation : voici les valeurs de Mecafi, expert en aéronautique. Retrouvez l&#039;interview croisé de Sylvain Accorsini, Pdg, et Gwenaëlle Leost, chargée d&#039;affaires innovation Bpifrance Poitou-Charentes.</p>
+    <a href="/Vivez-Bpifrance/Paroles-d-entrepreneurs/Mecafi-18434">Voir la fiche entrepreneur</a>
+</div>
+    </li>
+        <li class="bloc video smallbloc  ">
+            <figure class="ezimage-field" ><img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/paroles-d-entrepreneurs/panibois-18510/207526-1-fre-FR/Panibois_featured_word.jpg" alt="Olivier de Bussac, président" /></figure>
+<div class="description">
+                        <span class="bis">Agro-Alimentaire,             Bpifrance Excellence</span>
+                    <strong>Panibois</strong>
+    <p>Panibois met au four des moules en bois. Retrouvez l&#039;Interview croisé d&#039;Olivier de Bussac, président de Panibois, Guillaume Vaultier, chargé d’affaires innovation Bpifrance Centre, et Olivier Heurtebise, chargé de mission au conseil régional Centre-Val de Loire.
+</p>
+    <a href="/Vivez-Bpifrance/Paroles-d-entrepreneurs/Panibois-18510">Voir la fiche entrepreneur</a>
+</div>
+    </li>
+    </ul>
+<a href="/Vivez-Bpifrance/Paroles-d-entrepreneurs" class="button"><span class="glyphs glyphs-white-right-arrow"></span>Voir tous les témoignages</a>
+            </div>
+            <div class="feed slideshow2" data-type="feed">
+                <h2>Le Fil</h2>
+                <div class="slideshow2-container">
+    <div class="slideshow2-slider">
+                        <ul class="slideshow2-item">
+                    <li>
+                <a href="/Vivez-Bpifrance/Actualites/Le-meilleur-de-l-actu-!-19924" title="Le meilleur de l&#039;actu !">
+                    <div class="date">
+                        <span>01</span>
+                        <span>Oct.</span>
+                    </div>
+                    <p>Le meilleur de l&#039;actu !</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Nosobio-un-projet-collaboratif-au-service-de-la-sante-19934" title=" Nosobio, un projet collaboratif au service de la santé">
+                    <div class="date">
+                        <span>01</span>
+                        <span>Oct.</span>
+                    </div>
+                    <p> Nosobio, un projet collaboratif au service de la santé</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Innovation-alimentaire-de-la-mayonnaise-sans-oeuf-au-sel-sans-sel-19905" title="Innovation alimentaire : de la mayonnaise sans œuf au sel sans sel">
+                    <div class="date">
+                        <span>30</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Innovation alimentaire : de la mayonnaise sans œuf au sel sans sel</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Bpifrance-partenaire-de-34-clubs-sportifs-19899" title="Bpifrance, partenaire de 34 clubs sportifs">
+                    <div class="date">
+                        <span>30</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Bpifrance, partenaire de 34 clubs sportifs</p>
+                </a>
+            </li>
+                    </ul>
+                            <ul class="slideshow2-item">
+                                            <li>
+                <a href="/Vivez-Bpifrance/Actualites/Les-laureats-de-la-22e-edition-du-concours-national-de-la-creation-d-entreprises-agroalimentaires-19867" title="Les lauréats de la 22e édition du concours national de la création d’entreprises agroalimentaires">
+                    <div class="date">
+                        <span>30</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Les lauréats de la 22e édition du concours national de la création d’entreprises agroalimentaires</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Les-entrepreneurs-francais-ont-la-cote-a-New-York-19858" title="Les entrepreneurs français ont la côte à New-York">
+                    <div class="date">
+                        <span>29</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Les entrepreneurs français ont la côte à New-York</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Acceleratech-China-les-entreprises-francaises-a-la-conquete-de-la-Chine-high-tech-19855" title="Acceleratech China : les entreprises françaises à la conquête de la Chine high tech">
+                    <div class="date">
+                        <span>29</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Acceleratech China : les entreprises françaises à la conquête de la Chine high tech</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/L-US-Tour-de-33entrepreneurs-emblematique-de-l-innovation-alimentaire-a-la-francaise-19794" title="L&#039;US Tour de 33entrepreneurs, emblématique de l&#039;innovation alimentaire... à la française">
+                    <div class="date">
+                        <span>28</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>L&#039;US Tour de 33entrepreneurs, emblématique de l&#039;innovation alimentaire... à la française</p>
+                </a>
+            </li>
+                    </ul>
+                            <ul class="slideshow2-item">
+                                            <li>
+                <a href="/Vivez-Bpifrance/Actualites/Emirats-arabes-unis-un-marche-dynamique-et-ouvert-15699" title=" Émirats arabes unis : un marché dynamique et ouvert">
+                    <div class="date">
+                        <span>28</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p> Émirats arabes unis : un marché dynamique et ouvert</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Preparez-votre-entree-en-bourse-avec-Bpifrance-Universite-19798" title="Préparez votre entrée en bourse avec Bpifrance Université ">
+                    <div class="date">
+                        <span>28</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Préparez votre entrée en bourse avec Bpifrance Université </p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Reseaux-sociaux-ce-qu-il-ne-fallait-pas-rater-cette-semaine-19767" title="Réseaux sociaux : ce qu&#039;il ne fallait pas rater cette semaine">
+                    <div class="date">
+                        <span>25</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Réseaux sociaux : ce qu&#039;il ne fallait pas rater cette semaine</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Concours-mondial-d-innovation-la-nouvelle-phase-d-amorcage-est-lancee-19760" title="Concours mondial d&#039;innovation : la nouvelle phase d&#039;amorçage est lancée">
+                    <div class="date">
+                        <span>25</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Concours mondial d&#039;innovation : la nouvelle phase d&#039;amorçage est lancée</p>
+                </a>
+            </li>
+                    </ul>
+                            <ul class="slideshow2-item">
+                                            <li>
+                <a href="/Vivez-Bpifrance/Actualites/L-annee-2015-une-croissance-verte-pour-les-cleantech-19744" title="L’année 2015 : une croissance verte pour les cleantech ">
+                    <div class="date">
+                        <span>24</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>L’année 2015 : une croissance verte pour les cleantech </p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Un-telepherique-pour-Grenoble-19722" title="Un téléphérique pour Grenoble ?">
+                    <div class="date">
+                        <span>21</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Un téléphérique pour Grenoble ?</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/International-nouvelle-expansion-en-Afrique-pour-Rougier-19719" title="International : nouvelle expansion en Afrique pour Rougier">
+                    <div class="date">
+                        <span>21</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>International : nouvelle expansion en Afrique pour Rougier</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Entrepreneurs-decouvrez-toutes-les-semaines-les-tweets-qui-ont-fait-l-actualite-!-19709" title="Réseaux sociaux : les meilleurs tweets de la semaine !">
+                    <div class="date">
+                        <span>18</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Réseaux sociaux : les meilleurs tweets de la semaine !</p>
+                </a>
+            </li>
+                    </ul>
+                            <ul class="slideshow2-item">
+                                            <li>
+                <a href="/Vivez-Bpifrance/Actualites/Le-zapping-TV-des-entrepreneurs-n-8-19654" title="Le zapping TV des entrepreneurs n°8">
+                    <div class="date">
+                        <span>18</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Le zapping TV des entrepreneurs n°8</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/International-17-entreprises-a-la-conquete-de-l-ASEAN-!-19681" title="International : 17 entreprises à la conquête de l’ASEAN !">
+                    <div class="date">
+                        <span>18</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>International : 17 entreprises à la conquête de l’ASEAN !</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Definition-le-capital-risque-19674" title="Une minute pour comprendre : le capital-risque">
+                    <div class="date">
+                        <span>18</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Une minute pour comprendre : le capital-risque</p>
+                </a>
+            </li>
+                                <li>
+                <a href="/Vivez-Bpifrance/Actualites/Liban-un-marche-et-une-plateforme-d-affaires-favorables-aux-PME-19666" title="Liban : un marché et une plateforme d’affaires favorables aux PME">
+                    <div class="date">
+                        <span>18</span>
+                        <span>Sept.</span>
+                    </div>
+                    <p>Liban : un marché et une plateforme d’affaires favorables aux PME</p>
+                </a>
+            </li>
+                    </ul>
+                            <ul class="slideshow2-item">
+                            </div>
+</div>
+<a href="/Vivez-Bpifrance/Actualites" class="button"><span class="glyphs glyphs-white-right-arrow"></span>Voir tous les fils</a>
+            </div>
+        </div>
+        <div class="bloc-twitter">
+            <h2>En direct</h2>
+            <div id="tweets" class="twitter-container" ><ul></ul></div>
+    <script language="javascript" type="text/javascript" charset="utf-8">
+        //<![CDATA[
+        var limit = 4;
+        function parseDate(str) {
+            var v=str.split(' ');
+            return new Date(Date.parse(v[1]+" "+v[2]+", "+v[5]+" "+v[3]+" UTC"));
+        }
+        function insertHtml( obj , liClass ) {
+            var status = "",
+                    myHTML = "",
+                    username = obj.user,
+                    status = obj.text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+                        return '<a href="'+url+'" target="_blank">'+url+'</a>';
+                    }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+                                return  reply.charAt(0)+'<a target="_blank" href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
+                            }).replace(/\#\w\w+\s?/g, function(hashtag) {
+                                    return '<a href="https://twitter.com/search?q=' + encodeURIComponent(hashtag) + '&src=hash" target="_blank">'+hashtag+'</a>';
+                                });
+            timeago = $.timeago(parseDate(obj.created_at));
+            myHTML += '<li '+ ( (liClass!='' )?'class="'+liClass+'"':'' ) +'><p class="tweet-name"><a href="http://twitter.com/' + username.screen_name +
+                    '" title="tweets by ' + username.name +
+                    '" target="_blank"><img src="' + username.profile_image_url + '" width="69" height="69"  />';
+            myHTML += '<span class="fullname">' + username.name + '</span><span class="nickname">' + ' @' + username.screen_name + '</span></a> ' +
+                    '<p class="tweet-content" >'+status + '</p>' +
+                    '<span class="tweet-time">'+timeago+' </span></div></li>';
+            return myHTML;
+        }
+        function twitterCallback( twitters ){
+            var myHTML = "";
+            if (limit == 0) {
+                limit = twitters.length;
+            }
+            for (var i = 0;  i < twitters.length; i++){
+                liClass = (i%2==0)?"odd":"";
+
+                myHTML +=   insertHtml(twitters[i],liClass)
+            }
+            $('#tweets ul').html(myHTML);
+
+        }
+        //]]>
+    </script>
+ <a href="https://twitter.com/Bpifrance" class="button" target="_blank"><span class="glyphs glyphs-white-right-arrow"></span>Nous suivre sur twitter</a>        </div>
+        <div class="bloc-agenda">
+            <h2>Agenda</h2>
+            <div class="carrousel small">
+    <div class="carrousel-container">
+        <ul class="carrousel-slides">
+                        <li>
+                <a href="/Vivez-Bpifrance/Agenda/Grands-Defis-du-Numerique-FSN-Coeur-de-filieres-19446" title="Cliquer pour accéder à l'événement">
+    <strong>
+                     L’appel à projets Grands défis du numérique est un dispositif de soutien à l’excellence dans le numérique, financé par le Programme d’investissements d’avenir (PIA).
+            </strong>
+                                <img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/agenda/grands-defis-du-numerique-fsn-coeur-de-filieres-19446/212010-1-fre-FR/Grands-Defis-du-Numerique-FSN-Coeur-de-filieres_featured_event.png" alt="" />
+    
+    </a>
+            </li>
+                                        <li>
+                <a href="/Vivez-Bpifrance/Agenda/Atelier-les-investissements-d-avenir-une-opportunite-pour-les-IAA-19497" title="Cliquer pour accéder à l'événement">
+    <strong>
+                    Atelier et rendez-vous individuel. S&#039;inscrire avant le 22 septembre 2015
+            </strong>
+                                <img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/agenda/atelier-les-investissements-d-avenir-une-opportunite-pour-les-iaa-19497/212457-2-fre-FR/Atelier-les-investissements-d-avenir-une-opportunite-pour-les-IAA_featured_event.jpg" alt="" />
+    
+    </a>
+            </li>
+                                        <li>
+                <a href="/Vivez-Bpifrance/Agenda/La-simulation-informatique-outil-d-aide-a-la-decision-19583" title="Cliquer pour accéder à l'événement">
+    <strong>
+                    La simulation informatique, outil d&#039;aide à la décision
+            </strong>
+                                <img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/agenda/la-simulation-informatique-outil-d-aide-a-la-decision-19583/212979-4-fre-FR/La-simulation-informatique-outil-d-aide-a-la-decision_featured_event.jpg" alt="La simulation informatique, outil d&#039;aide à la décision" />
+    
+    </a>
+            </li>
+                                        <li>
+                <a href="/Vivez-Bpifrance/Agenda/Le-Salon-des-Entrepreneurs-a-Marseille-14-et-15-octobre-2015-19608" title="Cliquer pour accéder à l'événement">
+    <strong>
+                    Venez nombreux participer à la première édition marseillaise du Salon des Entrepreneurs, les 14 et 15 octobre prochains !
+            </strong>
+                                <img src="/var/bpifrance/storage/images/bpifrance/vivez-bpifrance/agenda/le-salon-des-entrepreneurs-a-marseille-14-et-15-octobre-2015-19608/213178-1-fre-FR/Le-Salon-des-Entrepreneurs-a-Marseille-14-et-15-octobre-2015_featured_event.png" alt="" />
+    
+    </a>
+            </li>
+                                    </ul>
+        <ul class="carrousel-menu">
+                                                                                            
+                    <li><span>04</span>Sept.</li>
+                
+                    <li><span>05</span>Oct.</li>
+                
+                    <li><span>06</span>Oct.</li>
+                
+                    <li><span>14</span>Oct.</li>
+                
+        </ul>
+    </div>
+    <a href="/Vivez-Bpifrance/Agenda" class="button"><span class="glyphs glyphs-white-right-arrow"></span>Voir tous les événements</a>
+</div>
+        </div>
+    </section>
+            <span id="RSPEAK_STOP"><!-- RSPEAK_STOP --></span>
+        </main>
+        <footer class="footer" role="contentinfo">
+    <div class="constraint">
+        <ul class="links">
+            <li class="accordion accordion-switch">
+                <h5 class="accordion-heading">Accès réservés</h5>
+                <ul class="accordion-content">
+<li><a href="https://extranet.bpifrance.fr/etresosesame/connexion.do" target="_blank">e-treso</a></li>
+<li><a href="https://extranet.bpifrance.fr/partenaire" target="_blank">Extranet partenaire</a></li>
+<li><a href="https://extranet.bpifrance.fr/projets-innovants-collaboratifs/" target="_blank">Extranet Projets Collaboratifs</a></li>
+<li><a href="https://www.euroquity.com/fr/" target="_blank">Euroquity</a></li>
+<li><a href="https://extranet.bpifrance.fr/services" target="_blank">Portail régional de services</a></li>
+<li><a href="http://www.rdt-techneo.fr/" target="_blank">Techneo</a></li>
+</ul><p><script>(function() {   var _fbq = window._fbq || (window._fbq = []);  if (!_fbq.loaded) {    var fbds = document.createElement('script');    fbds.async = true;    fbds.src = '//connect.facebook.net/en_US/fbds.js';    var s = document.getElementsByTagName('script')[0];    s.parentNode.insertBefore(fbds, s);    _fbq.loaded = true;  }  _fbq.push(['addPixelId', '1474314826152924']);})(); window._fbq = window._fbq || []; window._fbq.push(['track', 'PixelInitialized', {}]); </script><noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1474314826152924&amp;ev=PixelInitialized" /></noscript></p>
+
+                <span class="glyphs glyphs-thin-down-arrow"></span>
+                <span class="glyphs glyphs-thin-up-arrow"></span>
+            </li>
+            <li class="accordion accordion-switch">
+                <h5 class="accordion-heading">Espaces <span class="capitalize">Bpifrance</span></h5>
+                <ul class="accordion-content">
+<li><a href="http://www.bpifrance.fr/Espace-Presse" target="_self">Presse</a></li>
+<li><a href="http://www.bpifrance.fr/Bpifrance/Nos-offres/Fonds-propres/Les-fonds-de-fonds" target="_self">Sociétés de gestion</a></li>
+<li>
+<a href="http://www.bpifrance.fr/Espace-Investisseurs" target="_self">Investisseurs <span class="glyphs glyphs-flag-french-small"></span></a><a href="http://www.bpifrance.fr/Investors-Center" target="_self"> <span class="glyphs glyphs-flag-english-small"></span></a> </li>
+<li><a href="http://www.bpifrance-lelab.fr/" target="_blank">Bpifrance Le Lab</a></li>
+<li><a href="http://www.excellence.bpifrance.fr" target="_blank">Bpifrance Excellence</a></li>
+<li><a href="http://tv.bpifrance.fr" target="_blank">Bpifrance TV</a></li>
+<li><a href="http://www.bpifrance-universite.fr/" target="_blank">Bpifrance Université</a></li>
+<li><a href="http://www.bpifrance-lehubstartup.fr/" target="_blank">Bpifrance Le Hub</a></li>
+<li><a href="http://www.reprise-entreprise.bpifrance.fr/" target="_blank">Bourse Transmission</a></li>
+<li><a href="http://tousnosprojets.bpifrance.fr/" target="_blank">Tous Nos Projets</a></li>
+<li><a href="/Vivez-Bpifrance/Agenda/(type)/Appels%20d'offres" target="_self">Appels d'offres</a></li>
+</ul><p><script src="//platform.twitter.com/oct.js" type="text/javascript"></script><script type="text/javascript">twttr.conversion.trackPid('l4ush');</script><noscript><img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4ush&p_id=Twitter" /><img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4ush&p_id=Twitter" /></noscript></p>
+
+                <span class="glyphs glyphs-thin-down-arrow"></span>
+                <span class="glyphs glyphs-thin-up-arrow"></span>
+            </li>
+            <li>
+                <h5>Newsletter <span class="capitalize">Bpifrance</span></h5>
+                <form class="newsletter-form inline-form" action="http://www.bpifrance.fr/Newsletter/subscribe/" method="post">
+                    <div>
+                        <input type="email" placeholder="Entrez votre email ici..." name="email">
+                        <button type="submit"><span class="glyphs glyphs-small-right-arrow2"></span>OK</button>
+                    </div>
+                </form>
+            </li>
+            <li class="social-networks">
+                <h5>Suivez-nous</h5>
+                <ul>
+                    <li><a href="https://www.facebook.com/bpifrance" target="_blank" class="glyphs glyphs-circle-facebook">Facebook</a></li>
+                    <li><a href="https://twitter.com/bpifrance" target="_blank" class="glyphs glyphs-circle-twitter">Twitter</a></li>
+                    <li><a href="http://www.youtube.com/oseotv" target="_blank" class="glyphs glyphs-circle-youtube">Youtube</a></li>
+                    <li><a href="http://www.dailymotion.com/bpifrance" target="_blank" class="glyphs glyphs-circle-dailymotion">Dailymotion</a></li>
+                    <li><a href="https://plus.google.com/112821862140681018758" target="_blank" class="glyphs glyphs-circle-googleplus">Google+</a></li>
+                    <li><a href="http://fr.viadeo.com/fr/company/bpifrance" target="_blank" class="glyphs glyphs-circle-viadeo">Viadeo</a></li>
+                    <li><a href="http://www.linkedin.com/company/bpifrance" target="_blank" class="glyphs glyphs-circle-linkedin">LinkedIn</a></li>
+                    <li><a href="http://www.bpifrance.fr/Web-RSS" class="glyphs glyphs-circle-rss">RSS</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="bottom-navigation">
+            <img src="http://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" width="250" height="37" alt="Bpifrance | Servir l'avenir" class="footer-logo">
+            <ul>
+<li><a href="http://www.bpifrance.fr/plan-du-site" target="_self">Plan du site</a></li>
+<li><a href="http://www.bpifrance.fr/Contactez-Bpifrance" target="_self">Contactez Bpifrance</a></li>
+<li><a href="http://www.bpifrance.fr/Bpifrance/Recrutement/Postes-a-pourvoir" target="_self">Recrutement</a></li>
+<li><a href="http://www.bpifrance.fr/Mentions-legales" target="_self">Mentions légales</a></li>
+</ul>
+
+            <a href="http://investissementsdavenir.bpifrance.fr/" target="_blank">
+                <img src="http://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/investissement-d-avenir.png" alt="Programme Investissements d'Avenir">
+                Programme Investissements d'Avenir
+            </a>
+        </div>
+    </div>
+</footer>
+        <script>
+var _solutions_obj =
+    {"solutions_total":71,"childs":[{"title":"\u003Cspan\u003ERenforcer \u003C\/span\u003Ema tr\u00e9sorerie","title_full":{"text":"Renforcer ma tr\u00e9sorerie"},"location_id":3401,"location_parent":129,"solutions_total":6,"childs":[{"title":"\u003Cspan\u003ETransformer mes cr\u00e9ances\u003C\/span\u003Een cash","title_full":{"text":"Transformer mes cr\u00e9ances en cash"},"location_id":3408,"location_parent":3401,"checkValue":3408},{"title":"\u003Cspan\u003EConforter ma tr\u00e9sorerie\u003C\/span\u003Eavec ma banque","title_full":{"text":"Conforter ma tr\u00e9sorerie avec ma banque"},"location_id":3409,"location_parent":3401,"checkValue":3409}]},{"title":"\u003Cspan\u003ECr\u00e9er\u003C\/span\u003Ema soci\u00e9t\u00e9","title_full":{"text":"Cr\u00e9er ma soci\u00e9t\u00e9"},"location_id":201,"location_parent":129,"solutions_total":4,"childs":[{"title":"\u003Cspan\u003EConvaincre\u003C\/span\u003Ema banque","title_full":{"text":"Convaincre ma banque"},"location_id":205,"location_parent":201,"solutions_total":3,"childs":[{"title":"\u003Cspan\u003EObtenir\u003C\/span\u003Edes financements de ma banque","title_full":{"text":"Obtenir des financements de ma banque"},"location_id":206,"location_parent":205,"checkValue":206},{"title":"\u003Cspan\u003EAvancer\u003C\/span\u003Ede la tr\u00e9sorerie sur les march\u00e9s publics et grands comptes","title_full":{"text":"Avancer de la tr\u00e9sorerie sur les march\u00e9s publics et grands comptes"},"location_id":208,"location_parent":205,"checkValue":208}]}]},{"title":"\u003Cspan\u003ED\u00e9velopper\u003C\/span\u003Emon activit\u00e9","title_full":{"text":"D\u00e9velopper mon activit\u00e9"},"location_id":130,"location_parent":129,"solutions_total":22,"childs":[{"title":"\u003Cspan\u003EModerniser\u003C\/span\u003Emon entreprise","title_full":{"text":"Moderniser mon entreprise"},"location_id":131,"location_parent":130,"solutions_total":13,"childs":[{"title":"\u003Cspan\u003EAcqu\u00e9rir\u003C\/span\u003Eun nouvel \u00e9quipement","title_full":{"text":"Acqu\u00e9rir un nouvel \u00e9quipement"},"location_id":132,"location_parent":131,"checkValue":132},{"title":"\u003Cspan\u003EConstruire\u003C\/span\u003Eou acqu\u00e9rir un b\u00e2timent","title_full":{"text":"Construire ou acqu\u00e9rir un b\u00e2timent"},"location_id":138,"location_parent":131,"checkValue":138},{"title":"\u003Cspan\u003ER\u00e9organiser\u003C\/span\u003El\u0027entreprise, la mettre aux normes","title_full":{"text":"R\u00e9organiser l\u0027entreprise, la mettre aux normes"},"location_id":140,"location_parent":131,"checkValue":140}]},{"title":"\u003Cspan\u003EStimuler\u003C\/span\u003Ema croissance","title_full":{"text":"Stimuler ma croissance"},"location_id":168,"location_parent":130,"solutions_total":9,"childs":[{"title":"\u003Cspan\u003ER\u00e9aliser\u003C\/span\u003Eun projet de croissance externe","title_full":{"text":"R\u00e9aliser un projet de croissance externe"},"location_id":169,"location_parent":168,"checkValue":169},{"title":"\u003Cspan\u003ED\u00e9velopper \u003C\/span\u003Eune nouvelle activit\u00e9 industrielle","title_full":{"text":"Je souhaite d\u00e9velopper une nouvelle activit\u00e9 industrielle"},"location_id":9221,"location_parent":168,"checkValue":9221},{"title":"\u003Cspan\u003ES\u0027entourer\u003C\/span\u003Ed\u0027investisseurs ","title_full":{"text":"S\u0027entourer d\u0027investisseurs "},"location_id":170,"location_parent":168,"checkValue":170},{"title":"\u003Cspan\u003EConforter\u003C\/span\u003Ema tr\u00e9sorerie","title_full":{"text":"Conforter ma tr\u00e9sorerie"},"location_id":171,"location_parent":168,"checkValue":171}]},{"title":"\u003Cspan\u003ETravailler\u003C\/span\u003Eavec les grands comptes ","title_full":{"text":"Travailler avec les grands comptes "},"location_id":174,"location_parent":130,"solutions_total":2,"childs":[{"title":"\u003Cspan\u003EAvancer\u003C\/span\u003Ede la tr\u00e9sorerie sur des march\u00e9s publics et grands comptes","title_full":{"text":"Avancer de la tr\u00e9sorerie sur des march\u00e9s publics et grands comptes"},"location_id":175,"location_parent":174,"checkValue":175},{"title":"\u003Cspan\u003ED\u00e9livrer\u003C\/span\u003Edes cautions sur march\u00e9 : restitution d\u0027acompte, garantie de bonne fin, retenue de garantie","title_full":{"text":"D\u00e9livrer des cautions sur march\u00e9 : restitution d\u0027acompte, garantie de bonne fin, retenue de garantie"},"location_id":177,"location_parent":174,"checkValue":177}]}]},{"title":"\u003Cspan\u003EInnover\u003C\/span\u003E\u0026nbsp;","title_full":{"text":"Innover"},"location_id":3403,"location_parent":129,"solutions_total":32,"childs":[{"title":"\u003Cspan\u003ETransformer\u003C\/span\u003Emon id\u00e9e","title_full":{"text":"Transformer mon id\u00e9e"},"location_id":3621,"location_parent":3403,"solutions_total":4,"childs":[{"title":"\u003Cspan\u003EFaire \u00e9merger mon projet \u003C\/span\u003Ede cr\u00e9ation d\u0027entreprise","title_full":{"text":"Faire \u00e9merger mon projet de cr\u00e9ation d\u0027entreprise"},"location_id":3626,"location_parent":3621,"checkValue":3626}]},{"title":"\u003Cspan\u003EExplorer \u003C\/span\u003Ela faisabilit\u00e9 de mon projet","title_full":{"text":"Explorer la faisabilit\u00e9 de mon projet"},"location_id":3622,"location_parent":3403,"solutions_total":7,"childs":[{"title":"\u003Cspan\u003EValider \u003C\/span\u003E la faisabilit\u00e9 de mon projet innovant ","title_full":{"text":"Valider la faisabilit\u00e9 de mon projet innovant "},"location_id":3627,"location_parent":3622,"checkValue":3627},{"title":"\u003Cspan\u003EPr\u00e9parer \u003C\/span\u003Ele montage et le partenariat de mon projet collaboratif","title_full":{"text":"Pr\u00e9parer le montage et le partenariat de mon projet collaboratif"},"location_id":3628,"location_parent":3622,"checkValue":3628}]},{"title":"\u003Cspan\u003ERenforcer \u003C\/span\u003Emes fonds propres","title_full":{"text":"Renforcer mes fonds propres"},"location_id":3623,"location_parent":3403,"solutions_total":5,"childs":[{"title":"\u003Cspan\u003EPr\u00e9parer et accompagner\u003C\/span\u003Ema lev\u00e9e de fonds ","title_full":{"text":"Pr\u00e9parer et accompagner ma lev\u00e9e de fonds "},"location_id":3629,"location_parent":3623,"checkValue":3629},{"title":"\u003Cspan\u003EAcc\u00e9der \u003C\/span\u003Eaux FCPI","title_full":{"text":"Acc\u00e9der aux FCPI"},"location_id":3630,"location_parent":3623,"checkValue":3630},{"title":"\u003Cspan\u003EOuvrir \u003C\/span\u003Emon capital","title_full":{"text":"Ouvrir mon capital"},"location_id":3631,"location_parent":3623,"checkValue":3631}]},{"title":"\u003Cspan\u003ER\u00e9aliser \u003C\/span\u003Emon projet innovant","title_full":{"text":"R\u00e9aliser mon projet innovant"},"location_id":3624,"location_parent":3403,"solutions_total":17,"childs":[{"title":"\u003Cspan\u003ED\u00e9velopper \u003C\/span\u003Emon innovation","title_full":{"text":"D\u00e9velopper mon innovation"},"location_id":3632,"location_parent":3624,"checkValue":3632},{"title":"\u003Cspan\u003EParticiper \u003C\/span\u003E\u00e0 un projet collaboratif","title_full":{"text":"Participer \u00e0 un projet collaboratif"},"location_id":3633,"location_parent":3624,"checkValue":3633},{"title":"\u003Cspan\u003EExploiter\u003C\/span\u003Emon innovation","title_full":{"text":"Exploiter mon innovation"},"location_id":9224,"location_parent":3624,"checkValue":9224},{"title":"\u003Cspan\u003EInnover \u003C\/span\u003Eavec des partenaires \u00e9trangers","title_full":{"text":"Innover avec des partenaires \u00e9trangers"},"location_id":3634,"location_parent":3624,"checkValue":3634}]},{"title":"\u003Cspan\u003ER\u00e9ussir \u003C\/span\u003Ema strat\u00e9gie","title_full":{"text":"R\u00e9ussir ma strat\u00e9gie"},"location_id":3625,"location_parent":3403,"solutions_total":3,"childs":[{"title":"\u003Cspan\u003EAcc\u00e9l\u00e9rer  \u003C\/span\u003Ela commercialisation de mon innovation ","title_full":{"text":"Acc\u00e9l\u00e9rer  la commercialisation de mon innovation "},"location_id":3635,"location_parent":3625,"checkValue":3635}]}]},{"title":"\u003Cspan\u003EExporter\u003C\/span\u003E\u0026nbsp;","title_full":{"text":"Exporter"},"location_id":3402,"location_parent":129,"solutions_total":13,"childs":[{"title":"\u003Cspan\u003EProspecter \u003C\/span\u003Eles march\u00e9s internationaux","title_full":{"text":"Prospecter les march\u00e9s internationaux"},"location_id":3404,"location_parent":3402,"checkValue":3404},{"title":"\u003Cspan\u003EFinancer \u003C\/span\u003Emon d\u00e9veloppement international","title_full":{"text":"Financer mon d\u00e9veloppement international"},"location_id":3405,"location_parent":3402,"checkValue":3405},{"title":"\u003Cspan\u003ES\u00e9curiser \u003C\/span\u003Emon projet export","title_full":{"text":"S\u00e9curiser mon projet export"},"location_id":3406,"location_parent":3402,"checkValue":3406},{"title":"\u003Cspan\u003ER\u00e9ussir \u003C\/span\u003Emon investissement \u00e0 l\u2019\u00e9tranger","title_full":{"text":"R\u00e9ussir mon investissement \u00e0 l\u2019\u00e9tranger"},"location_id":3407,"location_parent":3402,"checkValue":3407}]},{"title":"\u003Cspan\u003ERenforcer \u003C\/span\u003Emon capital","title_full":{"text":"Renforcer mon capital"},"location_id":179,"location_parent":129,"solutions_total":10,"childs":[{"title":"\u003Cspan\u003EEntreprise innovante \u003C\/span\u003E\u00e0 forte croissance","title_full":{"text":"Entreprise innovante \u00e0 forte croissance"},"location_id":3177,"location_parent":179,"solutions_total":6,"childs":[{"title":"\u003Cspan\u003EFonds \u003C\/span\u003Ed\u0027investissement","title_full":{"text":"Fonds d\u0027investissement"},"location_id":3355,"location_parent":3177,"checkValue":3355},{"title":"\u003Cspan\u003EInterventions \u003C\/span\u003Ecompl\u00e9mentaires","title_full":{"text":"Interventions compl\u00e9mentaires"},"location_id":3356,"location_parent":3177,"checkValue":3356}]},{"title":"\u003Cspan\u003EEntreprise en d\u00e9veloppement\u003C\/span\u003Eou en transmission","title_full":{"text":"Entreprise en d\u00e9veloppement ou en transmission"},"location_id":3173,"location_parent":179,"solutions_total":5,"childs":[{"title":"\u003Cspan\u003EFinancer \u003C\/span\u003Ele d\u00e9veloppement","title_full":{"text":"Financer le d\u00e9veloppement"},"location_id":3174,"location_parent":3173,"checkValue":3174},{"title":"\u003Cspan\u003EFinancer\u003C\/span\u003Ela transmission","title_full":{"text":"Financer la transmission"},"location_id":3175,"location_parent":3173,"checkValue":3175},{"title":"\u003Cspan\u003EPar secteurs\u003C\/span\u003EAutomobile, Bois, Ferroviaire, M\u00e9dia, Mode et Luxe, Nucl\u00e9aire, Savoir-Faire d\u2019Excellence ","title_full":{"text":"Secteurs sp\u00e9cifiques : Automobile, Bois, Ferroviaire, M\u00e9dia, Mode et Luxe, Nucl\u00e9aire, Savoir-Faire d\u2019Excellence "},"location_id":3176,"location_parent":3173,"checkValue":3176}]}]},{"title":"\u003Cspan\u003EReprendre\u003C\/span\u003Eun commerce ou une entreprise","title_full":{"text":"Reprendre un commerce ou une entreprise"},"location_id":217,"location_parent":129,"solutions_total":14,"childs":[{"title":"\u003Cspan\u003EBoucler\u003C\/span\u003Ele financement de mon projet de reprise","title_full":{"text":"Boucler le financement de mon projet de reprise"},"location_id":218,"location_parent":217,"solutions_total":3,"childs":[{"title":"\u003Cspan\u003EReprendre\u003C\/span\u003Eun fonds de commerce","title_full":{"text":"Reprendre un fonds de commerce"},"location_id":219,"location_parent":218,"checkValue":219},{"title":"\u003Cspan\u003ERacheter\u003C\/span\u003Eles parts ou rembourser le compte courant si un associ\u00e9 me quitte","title_full":{"text":"Racheter les parts ou rembourser le compte courant si un associ\u00e9 me quitte"},"location_id":221,"location_parent":218,"checkValue":221},{"title":"\u003Cspan\u003EConstituer\u003C\/span\u003Eune holding de reprise, un financement pour prendre le contr\u00f4le de la soci\u00e9t\u00e9 cible","title_full":{"text":"Constituer une holding de reprise, un financement pour prendre le contr\u00f4le de la soci\u00e9t\u00e9 cible"},"location_id":222,"location_parent":218,"checkValue":222}]},{"title":"\u003Cspan\u003ER\u00e9aliser\u003C\/span\u003Eune croissance externe","title_full":{"text":"R\u00e9aliser une croissance externe"},"location_id":223,"location_parent":217,"solutions_total":4,"childs":[{"title":"\u003Cspan\u003ERacheter\u003C\/span\u003Eune entreprise","title_full":{"text":"Racheter une entreprise"},"location_id":224,"location_parent":223,"checkValue":224}]},{"title":"\u003Cspan\u003EModerniser\u003C\/span\u003El\u0027entreprise cible","title_full":{"text":"Moderniser l\u0027entreprise cible"},"location_id":226,"location_parent":217,"solutions_total":9,"childs":[{"title":"\u003Cspan\u003ER\u00e9organiser,\u003C\/span\u003Emettre aux normes","title_full":{"text":"R\u00e9organiser, mettre aux normes"},"location_id":227,"location_parent":226,"checkValue":227},{"title":"\u003Cspan\u003EAcqu\u00e9rir\u003C\/span\u003Eun nouvel \u00e9quipement","title_full":{"text":"Acqu\u00e9rir un nouvel \u00e9quipement"},"location_id":229,"location_parent":226,"checkValue":229},{"title":"\u003Cspan\u003EConstruire ou acqu\u00e9rir\u003C\/span\u003Eacqu\u00e9rir un b\u00e2timent","title_full":{"text":"Construire ou acqu\u00e9rir un b\u00e2timent"},"location_id":228,"location_parent":226,"checkValue":228}]}]}],"label_array":["Quel est votre projet ?","Dans le cadre de ce projet,\u003Cbr\u003E je souhaite :","...et de fa\u00e7on plus pr\u00e9cise :"]}
+;
+</script>
+<script id="tmpl" type="text/html">
+    <p class="label"><%= solution.label %></p>
+    <ul data-solution="<%= solution.solutions_total %>" class="<% if(solution.lastStep){ %>check <%}%><% if(solution.childs.length>4){ %>big <%}%>">
+        <% for (var i = 0; i < solution.childs.length; i++) { %>
+    <li>
+        <a href="#" class="rond" <% if(solution.childs[i].location_id){ %> data-location="<%= solution.childs[i].location_id %>" <% } %> <% if(solution.childs[i].checkValue){ %>data-checkvalue="<%= solution.childs[i].checkValue %>"<% } %>>
+        <p><%= solution.childs[i].title %></p>
+        </a>
+    </li>
+        <% } %>
+    </ul>
+    <% if(solution.lastStep){ %>
+    <a href="#" class="valider">Valider</a>
+    <%}%>
+</script>
+
+                    
+        
+    </div>
+    <!-- .wrapper -->
+
+
+                    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/bundles/bpifrancegeneral/javascript/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="/bundles/bpifrancegeneral/javascript/vendor/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5208d77e1e13e78f"></script>
+<script type="text/javascript">
+    $( function() {
+        var addthis_config = {
+            "ui_open_windows":true,
+            ui_language: "fr",
+            "data_track_addressbar":true
+        };
+        addthis.toolbox('.addthis_render', addthis_config);
+        setTimeout( function() {
+            $('.addthis_counter, .addthis_counter a').css('cursor','default').attr('title','');
+        }, 1000 );
+
+    }());
+    // for search config
+    var root_location_id = 5854;
+</script>
+
+
+<script type="text/javascript" src="/js/6390a31.js"></script>
+    
+    <script type="text/javascript" src="/js/tweets_bpifrance.js"></script>
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-38771017-1']);
+    _gaq.push(['_setDomainName', '.bpifrance.fr']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>    </body>
+    </html>

@@ -1,0 +1,7 @@
+[18-Oct-2015 10:56:38 UTC] PHP Catchable fatal error:  Object of class Site could not be converted to string in /home/mh1fo6wb/public_html_academie_immateriel/export/cree_contenu.php on line 108
+[18-Oct-2015 10:57:15 UTC] PHP Parse error:  syntax error, unexpected 'lis_derniers_identifiants' (T_STRING) in /home/mh1fo6wb/public_html_academie_immateriel/export/cree_contenu.php on line 42
+[18-Oct-2015 10:57:35 UTC] PHP Catchable fatal error:  Object of class Site could not be converted to string in /home/mh1fo6wb/public_html_academie_immateriel/export/cree_contenu.php on line 123
+[18-Oct-2015 12:35:42 UTC] PHP Fatal error:  Call to undefined function cree_page_i_edito() in /home/mh1fo6wb/public_html_academie_immateriel/export/cree_contenu.php on line 84
+[19-Oct-2015 10:25:25 UTC] PHP Fatal error:  Call to undefined function cree_page_bibliotheque_publications() in /home/mh1fo6wb/public_html_academie_immateriel/export/cree_contenu.php on line 103
+[22-Oct-2015 14:44:44 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/mh1fo6wb/public_html_academie_immateriel/export/cree_contenu.php on line 238
+[22-Oct-2015 14:45:08 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/mh1fo6wb/public_html_academie_immateriel/export/cree_contenu.php on line 238

@@ -1,0 +1,18 @@
+@include make-grid-columns();
+@include grid-columns( $grid-columns );
+
+.vfb-row {
+	@include make-row();
+}
+
+.vfb-pull-left {
+	float: left !important;
+}
+
+.vfb-pull-right {
+	float: right !important;
+}
+
+.vfb-clearfix {
+	@include clearfix();
+}

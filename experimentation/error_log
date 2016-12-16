@@ -1,0 +1,11 @@
+[24-Oct-2015 15:47:47 UTC] PHP Parse error:  syntax error, unexpected 'imprime' (T_STRING), expecting '(' in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/test_param_fonction.php on line 10
+[24-Oct-2015 15:48:31 UTC] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/test_param_fonction.php on line 9
+[24-Oct-2015 15:49:15 UTC] PHP Parse error:  syntax error, unexpected 'imprime' (T_STRING), expecting '(' in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/test_param_fonction.php on line 10
+[24-Oct-2015 15:49:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/test_param_fonction.php on line 11
+[24-Oct-2015 15:57:37 UTC] PHP Parse error:  syntax error, unexpected 'virtual' (T_STRING), expecting function (T_FUNCTION) in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/custom_type.php on line 4
+[24-Oct-2015 15:59:09 UTC] PHP Fatal error:  Abstract function Custom_type::affiche() cannot contain body in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/custom_type.php on line 6
+[24-Oct-2015 15:59:30 UTC] PHP Fatal error:  Class Sujet_DGE contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Custom_type::affiche) in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/custom_type.php on line 19
+[24-Oct-2015 16:05:37 UTC] PHP Fatal error:  Cannot access empty property in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/custom_type.php on line 19
+[24-Oct-2015 16:07:55 UTC] PHP Fatal error:  Cannot access empty property in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/custom_type.php on line 19
+[24-Oct-2015 16:10:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/custom_type.php on line 14
+[24-Oct-2015 16:10:25 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/mh1fo6wb/public_html_academie_immateriel/experimentation/custom_type.php on line 14

@@ -1,0 +1,77 @@
+.sss-sidebar-wrapper {
+    font-size: 14px;
+    line-height: 1.5em;
+}
+
+.sss-sidebar-wrapper h1,
+.sss-sidebar-wrapper h2,
+.sss-sidebar-wrapper h3,
+.sss-sidebar-wrapper h4,
+.sss-sidebar-wrapper h5,
+.sss-sidebar-wrapper h6 {
+    padding: 0;
+    margin: 0 0 10px;
+    line-height: 1em;
+    color: inherit
+}
+
+.sss-sidebar-wrapper h1 {
+    font-size: 2em;
+}
+
+.sss-sidebar-wrapper h2 {
+    font-size: 1.7em;
+}
+
+.sss-sidebar-wrapper h3 {
+    font-size: 1.5em;
+}
+
+.sss-sidebar-wrapper h4 {
+    font-size: 1.3em;
+}
+
+.sss-sidebar-wrapper h5 {
+    font-size: 1.2em;
+}
+
+.sss-sidebar-wrapper h6 {
+    font-size: 1.1em;
+}
+
+.sss-sidebar-wrapper > ul {
+    list-style: none outside none;
+}
+
+.sss-sidebar-wrapper > ul > li.widget {
+    margin-bottom: 20px;
+    list-style: none outside none;
+}
+
+.sss-sidebar-wrapper h2.widget-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0 0 10px;
+    text-transform: uppercase;
+    padding: 0 0 3px;
+    border-bottom: 2px solid;
+}
+
+.sss-sidebar-wrapper .widget ol,
+.sss-sidebar-wrapper .widget ul {
+    list-style: none outside none;
+    margin: 0;
+}
+
+.sss-sidebar-wrapper .widget li {
+    padding: 2px 0;
+}
+
+.sss-sidebar-wrapper .widget li li:last-child {
+    border-bottom: none;
+}
+
+.sss-sidebar-wrapper .widget li > ul,
+.sss-sidebar-wrapper .widget li > ol {
+    margin: 0 0 0 15px;
+}

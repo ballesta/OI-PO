@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/global.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chambre de Commerce et d'Industrie de Villefranche et du Beaujolais</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link href="/css/global_121127.css" rel="stylesheet" type="text/css" />
+<link href="/css/userEdit.css" rel="stylesheet" type="text/css" />
+<link href="/css/header.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="/js/swapImage.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/js/openWindow.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/js/scroll.js" type="text/JavaScript"></script>
+<!-- InstanceBeginEditable name="head" -->
+<meta name="google-site-verification" content="pSmWIxntOa7uQja0oJw5ISD3ibqBN7nkkUZMVAxQynM" />
+<link rel="alternate" type="application/rss+xml" title="Les actus de la CCI" href="http://www.cci-villefranche.org/index.php?rss=news" />
+<link href="/css/menu.css" rel="stylesheet" type="text/css" />
+<link href="/css/accueil.css?mdata=20101216" rel="stylesheet" type="text/css" />
+<meta http-equiv="expires" content="Tue, 06 Feb 2007 12:00:00 GMT" />
+<!-- InstanceEndEditable -->
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<!-- InstanceParam name="onload" type="text" value="MM_preloadImages('/design/header/votreCCI_over.gif','/design/header/parcExpo_over.gif','/design/header/port_over.gif','/design/header/aerodrome_over.gif','/design/header/marchesPub_over.gif','/design/header/liens_over.gif','/design/header/telechargement_over.gif','/design/header/contact_over.gif','/design/header/planAcces_over.gif','/design/header/planSite_over.gif','/design/images/print_over.jpg')" -->
+</head>
+<body onload="MM_preloadImages('/design/header/votreCCI_over.gif','/design/header/parcExpo_over.gif','/design/header/port_over.gif','/design/header/aerodrome_over.gif','/design/header/marchesPub_over.gif','/design/header/liens_over.gif','/design/header/telechargement_over.gif','/design/header/contact_over.gif','/design/header/planAcces_over.gif','/design/header/planSite_over.gif','/design/images/print_over.jpg')">
+<div id="fond">
+  <div id="bloc">
+    <div id="logo_print"><img src="/design/images/logo.gif" alt="Chambre de Commerce et d'Industrie de Villefranche et du Beaujolais" /></div>
+    <div id="header" class="noprint">
+      <div id="logo" class="noprint"><!-- InstanceBeginEditable name="logo" -->
+        <!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="161" height="126">
+          <param name="movie" value="/design/swf/logo_accueil_090723.swf" />
+          <param name="wmode" value="opaque" />-->
+          <!--[if !IE]>-->
+  		<!--<object type="application/x-shockwave-flash" data="/design/swf/logo_accueil_090723.swf" width="161" height="126" wmode="opaque"></object>-->
+  		<!--<![endif]-->
+        <!--</object>-->
+		<a href="http://www.beaujolais-cci.com/" class="headerLogo"><img src="/design/images/LogoCCI-Horizontal2.png"></a>
+        <div id="agenda">
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="145" height="52">
+            <param name="movie" value="/design/swf/agenda.swf" />
+            <param name="wmode" value="opaque" />
+            <!--[if !IE]>-->
+  		  <object type="application/x-shockwave-flash" data="/design/swf/agenda.swf" width="145" height="52" wmode="opaque"></object>
+  		  <!--<![endif]-->
+          </object>
+        </div>
+        <div id="dossier">
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="145" height="52">
+            <param name="movie" value="/design/swf/dossier.swf" />
+            <param name="wmode" value="opaque" />
+            <!--[if !IE]>-->
+  		  <object type="application/x-shockwave-flash" data="/design/swf/dossier.swf" width="145" height="52" wmode="opaque"></object>
+  		  <!--<![endif]-->
+          </object>
+        </div>
+        <div id="bref">
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="145" height="52">
+            <param name="movie" value="/design/swf/bref.swf" />
+            <param name="wmode" value="opaque" />
+            <!--[if !IE]>-->
+  		  <object type="application/x-shockwave-flash" data="/design/swf/bref.swf" width="145" height="52" wmode="opaque"></object>
+  		  <!--<![endif]-->
+          </object>
+        </div>
+        <!-- InstanceEndEditable --></div>
+      <div id="links1" class="noprint">
+        <div id="divContact" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/nous-contacter" title="Nous contacter" onmouseover="MM_swapImage('contact','','/design/header/contact_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/contact.gif" name="contact" alt="Nous contacter" /></a></div>
+        <div id="divPlanAcces" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/plan-d-acces" title="Plan d'accès" onmouseover="MM_swapImage('planAcces','','/design/header/planAcces_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/planAcces.gif" name="planAcces" alt="Plan d'accès" /></a></div>
+        <div id="divNewsletter" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/newsletter" title="Newsletter" onmouseover="MM_swapImage('newsletter','','/design/header/newsletter_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/newsletter.gif" name="newsletter" alt="Newsletter" /></a></div>
+        <div id="divPlanSite" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/_shop/sitemap2" title="Plan du site" onmouseover="MM_swapImage('planSite','','/design/header/planSite_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/planSite.gif" name="planSite" alt="Plan du site" /></a></div>
+      </div>
+      <div id="links2" class="noprint">
+        <div id="divVotreCCI" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/votre-cci" title="Votre CCI" onmouseover="MM_swapImage('votreCCI','','/design/header/votreCCI_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/votreCCI.gif" name="votreCCI" alt="Votre CCI" /></a></div>
+        <div id="divParcExpo" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/parcexpo" title="ParcExpo" onmouseover="MM_swapImage('ParcExpo','','/design/header/parcExpo_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/parcExpo.gif" name="ParcExpo" alt="ParcExpo" /></a></div>
+        <div id="divPort" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/port-de-commerce-de-villefranche-sur-saone" title="Port" onmouseover="MM_swapImage('Port','','/design/header/port_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/port.gif" alt="Port" name="Port" /></a></div>
+        <div id="divAerodrome" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/aerodrome-de-villefranche-tarare" title="Aérodrome" onmouseover="MM_swapImage('Aerodrome','','/design/header/aerodrome_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/aerodrome.gif" alt="Aérodrome" name="Aerodrome" /></a></div>
+        <div id="divMarchesPub" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/marches-publics" title="Marchés Publics" onmouseover="MM_swapImage('MarchesPublics','','/design/header/marchesPub_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/marchesPub.gif" alt="Marchés Publics" name="MarchesPublics" /></a></div>
+        <div id="divLiens" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/liens" title="Liens partenaires" onmouseover="MM_swapImage('Liens','','/design/header/liens_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/liens.gif" alt="Liens partenaires" name="Liens" /></a></div>
+        <div id="divTelechargement" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/telechargement" title="Téléchargement" onmouseover="MM_swapImage('Telechargement','','/design/header/telechargement_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/design/header/telechargement.gif" alt="Téléchargement" name="Telechargement" /></a></div>
+      </div>
+    </div>
+    <table border="0" cellpadding="0" cellspacing="0" id="blocContent" summary="Chambre de Commerce et d'Industrie de Villefranche et du Beaujolais">
+      <tr>
+        <td id="menuContainer" class="noprint"><ul id="menu" class="noprint">
+            
+
+     <!-- MAIN MENU START -->
+
+        <li class="menuLevel0_1"><a href="/creer-reprendre-une-entreprise">Créer, reprendre une entreprise</a></li>
+
+        <li class="menuLevel0_2"><a href="/accompagner-vos-projets">Accompagner vos projets</a></li>
+
+        <li class="menuLevel0_3"><a href="/formations-emploi-apprentissage_1158">Formations - Emploi - Apprentissage</a></li>
+
+        <li class="menuLevel0_4"><a href="/s-implanter">S'implanter</a></li>
+
+        <li class="menuLevel0_5"><a href="/transmettre-son-entreprise">Transmettre son entreprise</a></li>
+
+        <li class="menuLevel0_6"><a href="/s-informer">S'informer</a></li>
+
+        <li class="menuLevel0_7"><a href="/annuaires">Annuaires</a></li>
+          </ul>
+          <div id="chercher" class="noprint">
+            <form action="http://www.beaujolais-cci.com/index.php" method="get" name="search" id="search" class="searchForm">
+              <input type="hidden" name="object[]" value="category" />
+              <input type="hidden" name="object[]" value="article" />
+              <input type="hidden" name="page" value="shop/search" />
+              <input name="keyword" type="text" id="keyword" value="Chercher" class="formText" onfocus="if(this.value=='Chercher')this.value='';" />
+              <input type="submit" value="OK" class="formBouton" onmouseover="this.className='formBoutonOver'" onmouseout="this.className='formBouton'" />
+            </form>
+          </div>
+          <img src="/design/images/tresBeaujolais.jpg" width="140" alt="très Beaujolais" /></td>
+        <td id="mainContent"><div id="mainContent_fondTop">
+            <div id="urlhere" class="noprint"><img src="/design/images/arrow_here.gif" align="top" alt="Accueil" /><a href="http://www.beaujolais-cci.com/index.php">Accueil</a><!-- InstanceBeginEditable name="urlhere" -->
+<!-- URHERE MENU BEGIN --><!-- URHERE MENU END --><!-- InstanceEndEditable --></div>
+            <div id="icones" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/nous-contacter" title="Nous contacter" onmouseover="MM_swapImage('mail','','/design/images/mail_over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="/design/images/mail.jpg" alt="Nous contacter" name="mail" /></a><a href="javascript:;" title="Imprimer cette page" onclick="window.print()" onmouseover="MM_swapImage('print','','/design/images/print_over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="/design/images/print.jpg" alt="Imprimer cette page" name="print" /></a></div>
+            <!-- InstanceBeginEditable name="title" -->
+            <h1>Accueil</h1>
+            <!-- InstanceEndEditable -->
+            <div id="contentBody"><!-- InstanceBeginEditable name="contentBody" -->
+              <div id="agendaContainer">
+                <ul>
+                  <!--bloc "Agenda" (articleNews) -->
+                  <li title=""> <a href="/accueil/13-octobre-atelier-de-l-innovation-comment-faire-grandir-mes-projets" title="">13 octobre - Atelier de l'innovation : "comment faire grandir mes projets ?...</a>                    <!--{if:article.body}<a href="{article.getURL()}">{article.title:h}</a>{else:}{article.title:h}{end:}-->
+                  </li><li title=""> <a href="http://www.beaujolais-cci.com/creer-reprendre-une-entreprise/13e-quinzaine-regionale-de-la-creationreprise" title="">lundi 16 novembre : Etude de marché et accessibilité...</a>                    <!--{if:article.body}<a href="{article.getURL()}">{article.title:h}</a>{else:}{article.title:h}{end:}-->
+                  </li><li title=""> <a href="http://www.beaujolais-cci.com/creer-reprendre-une-entreprise/13e-quinzaine-regionale-de-la-creationreprise" title="">Mardi 17 novembre : les dix clés pour entreprendre....</a>                    <!--{if:article.body}<a href="{article.getURL()}">{article.title:h}</a>{else:}{article.title:h}{end:}-->
+                  </li><li title=""> <a href="http://www.beaujolais-cci.com/creer-reprendre-une-entreprise/13e-quinzaine-regionale-de-la-creationreprise" title="">mercredi 18 novembre : Innovez pour muscler votre projet entrepreneurial"...</a>                    <!--{if:article.body}<a href="{article.getURL()}">{article.title:h}</a>{else:}{article.title:h}{end:}-->
+                  </li><li title=""> <a href="http://www.beaujolais-cci.com/creer-reprendre-une-entreprise/13e-quinzaine-regionale-de-la-creationreprise" title="">jeudi 19 novembre : "La journée de la reprise"...</a>                    <!--{if:article.body}<a href="{article.getURL()}">{article.title:h}</a>{else:}{article.title:h}{end:}-->
+                  </li><li title=""> <a href="http://www.beaujolais-cci.com/creer-reprendre-une-entreprise/13e-quinzaine-regionale-de-la-creationreprise" title="">vendredi 20 novembre : "vous avez un projet à financer ?"...</a>                    <!--{if:article.body}<a href="{article.getURL()}">{article.title:h}</a>{else:}{article.title:h}{end:}-->
+                  </li><li title=""> <a href="http://www.beaujolais-cci.com/creer-reprendre-une-entreprise/stage-auto-entrepreneur" title="">2 et 3 décembre - Stage micro-entrepreneur</a>                    <!--{if:article.body}<a href="{article.getURL()}">{article.title:h}</a>{else:}{article.title:h}{end:}-->
+                  </li>                </ul>
+                              </div>              <div id="dossierContainer"><h3 style="text-align: center;"><a href="http://www.salondelentreprise.com/" target="_blank">salon</a> de l'entreprise</h3>
+<h3 style="text-align: center;">jeudi 5 novembre</h3>
+<h3 style="text-align: center;">&agrave; PARCEXPO</h3>
+<h3 style="text-align: center;">Villefranche</h3>
+<p>&nbsp;</p></div>
+              <div id="brefContainer">
+                <!--bloc "en bref" -->
+                <ul>
+                  <li>  <a href="/en-bref/accessibilite-des-etablissements-dernier-delai-le-27-septembre-2015" title="">Accessibilité des établissements : dernier délai le 27 septembre 2015 !...</a> </li><li>  <a href="/en-bref/le-grenelle-de-l-environnement-2-entre-en-vigueur-va-restreindre-l-affichage-en-france" title="">Le Grenelle de l'environnement 2 entré en vigueur  va restreindre l'affichage en France,...</a> </li><li>  <a href="/en-bref/aide-a-l-embauche-du-premier-salarie" title="">Aide "à l'embauche du premier salarié"...</a> </li><li>  <a href="/en-bref/alerte-sms-commerces" title="">Alerte SMS Commerces</a> </li><li>  <a href="/en-bref/depuis-le-1er-juillet-2015-les-cci-delivrent-les-cartes-professionnelles-des-activites-immobilieres_2906" title="">Depuis le 1er juillet  2015  les CCI délivrent les cartes professionnelles des activités immobilières...</a> </li><li>  <a href="/en-bref/deduction-exceptionnelle-en-faveur-de-l-investissement" title="">Déduction exceptionnelle en faveur de l'investissement</a> </li><li>                      <a href="http://www.beaujolais-cci.com/accompagner-vos-projets/international/missions-collectives" title="">inscription pour la mission Japon : dernier délai 30 septembre !...</a>                     </li><li>  <a href="/en-bref/entreprendre-creer-se-former-comprendre-innover-se-developperle-beaujolais-et-le-val-de-saone-bougent" title="">Entreprendre, créer, se former, comprendre, innover, se développer...le Beaujolais et le Val de Saône bougent ! </a> </li><li>  <a href="/en-bref/campus-martelet-a-limas-reservez-des-a-present-votre-espace-de-formation" title="">CAMPUS MARTELET à LIMAS : Réservez dès à présent votre espace de formation...</a> </li><li>                      <a href="http://www.salondelentreprise.com/" title="">prochain Salon de l'Entreprise : jeudi 5 novembre 2015...</a>                     </li><li>                      <a href="http://www.tresbeaujolais.com/" title="">Plus de 200 personnes pour le lancement de la marque territoriale partagée "TrèsBeaujolais" au Château des Ravatys ...</a>                     </li><li>  <a href="/en-bref/bourse-de-l-apprentissage-futurs-employeurs-d-apprentis-futurs-apprentis" title="">Bourse de l'apprentissage: futurs employeurs d'apprentis, futurs apprentis...</a> </li><li>  <a href="/en-bref/le-statut-de-l-auto-entrepreneur-a-evolue" title="">Le statut de l'auto-entrepreneur a évolué...</a> </li><li>  <a href="/en-bref/accompagnement-au-depart-a-la-retraite-adr-precisions-sur-les-criteres-deligibilite" title="">Accompagnement au départ à la retraite (ADR) : précisions sur les critères d’éligibilité...</a> </li><li>                      <a href="http://www.beaujolais-cci.com/accompagner-vos-projets/international/missions-collectives" title="">Bénéficiez d'une prestation pour optimiser vos missions de prospection à l'étranger. Les missions phares de 2015...</a>                     </li><li>  <a href="/en-bref/nouvelle-reglementation-des-soldes" title="">Nouvelle réglementation des soldes...</a> </li><li>  <a href="/en-bref/la-police-et-la-gendarmerie-renouvellent-l-operation-tranquillite-entreprises_2893" title="">La Police et la Gendarmerie renouvellent l'opération "tranquillité entreprises"...</a> </li><li>                      <a href="https://twitter.com/CCIduBeaujolais" title="">Suivez-nous sur twitter...</a>                     </li>                </ul>              </div>
+              <div id="texte">
+                <object type="application/x-shockwave-flash" data="design/swf/texte.swf" width="228" height="106" wmode="transparent">
+                  <param name="movie" value="design/swf/texte.swf" />
+                   <param name="wmode" value="transparent" />
+                </object>
+              </div>
+              <!-- InstanceEndEditable --></div>
+          </div></td>
+      </tr>
+      <tr>
+        <td class="noprint"></td>
+        <td><div id="mainContent_fondBottom" class="noprint"></div></td>
+      </tr>
+    </table>
+    <div id="imgRight" class="noprint">
+      <div id="imgRight_photo" class="noprint"><!-- InstanceBeginEditable name="fullImage" -->
+        <object type="application/x-shockwave-flash" data="/design/swf/Accueil.swf" width="226" height="300" wmode="transparent">
+          <param name="movie" value="/design/swf/Accueil.swf" />
+          <param name="wmode" value="transparent" />
+        </object>
+        <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+  <div id="footerContainer">
+    <div id="footer"><!-- InstanceBeginEditable name="footer_print" --><!-- InstanceEndEditable -->317 bd Gambetta, CS 70427, 69654 Villefranche sur Sa&ocirc;ne cedex - Tel. : 04.74.62.73.00 - Fax : 04.74.65.31.79 - <a href="mailto:cci@villefranche.cci.fr">cci@villefranche.cci.fr</a></div>
+  </div>
+  <div id="credit" class="noprint">
+    <div id="mentions" class="noprint"><a href="http://www.beaujolais-cci.com/index.php/ccib/mentions-legales">Mentions l&eacute;gales</a></div>
+    <a href="http://www.beaujolais-cci.com/index.php?login=1&amp;">| Connexion |</a>&nbsp;&nbsp;&nbsp;<a href="http://www.appli-box.com" title="création de sites internet Lyon Villefranche" onclick="window.open(this.href,'appli_box');return false;">&copy; Cr&eacute;ation du site Internet et r&eacute;f&eacute;rencement : Appli-Box</a>
+    </div>
+    
+    
+</div>
+
+<script type="text/javascript">
+	//<![CDATA[
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+	//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+	var pageTracker = _gat._getTracker("UA-237337-9");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	 
+	//]]>
+</script>
+<!-- 
+shop/index
+
+ebox_ccivillefranche
+ebox2-1.17.4
+shop/category/Accueil.htm - 
+-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+<!-- InstanceBeginEditable name="popup" -->
+
+  
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/shopAccueil.js?mdata=20100921"></script>
+
+<div id="popupWrapper" style="display:none;">
+  <div id="bgPopup"></div>
+  <div id="popupContent">
+    <div id="close"><img src="/voeux2013/images/close.png" alt="Fermer" /></div>
+    <img src="/voeux2013/images/CCIpopup-voeux2014.jpg" width="800" height="600" /></div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	pageDuJour(); 
+    function pageDuJour(){ 
+        var today = new Date();
+        var mois = today.getMonth();
+        var annee = today.getFullYear();
+        if(mois == 0 && annee == 2014){
+        	$("#popupWrapper").show();
+        }else{
+			$("#popupWrapper").hide();
+	}
+	return true;
+    }
+});
+</script>
+<script src="/js/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site. Si vous continuez à utiliser ce dernier, nous considérerons que vous acceptez l\'utilisation des cookies.',
+      'OK', 'En savoir plus', 'http://www.beaujolais-cci.com/ccib/mentions-legales');
+  });
+</script>
+<!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>
+<!-- 
+shop/index
+ebox_ccivillefranche
+ebox2-1.17.4 -->

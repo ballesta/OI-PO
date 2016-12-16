@@ -1,0 +1,341 @@
+# Copyright (C) 2015 VFB Pro - Payments
+# This file is distributed under the same license as the VFB Pro - Payments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VFB Pro - Payments 2.0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/vfbp-payments\n"
+"POT-Creation-Date: 2015-03-31 13:54:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-admin-settings.php:41 public/class-payments.php:62
+#: public/class-payments.php:160
+msgid "Base Price"
+msgstr ""
+
+#: admin/class-admin-settings.php:55
+msgid "Enable Payments"
+msgstr ""
+
+#: admin/class-admin-settings.php:61
+msgid "Enable payments for this form."
+msgstr ""
+
+#: admin/class-admin-settings.php:70
+msgid "Select a Merchant"
+msgstr ""
+
+#: admin/class-admin-settings.php:75
+msgid "PayPal Standard"
+msgstr ""
+
+#: admin/class-admin-settings.php:83
+msgid "Email Address"
+msgstr ""
+
+#: admin/class-admin-settings.php:91
+msgid "Language"
+msgstr ""
+
+#: admin/class-admin-settings.php:95
+msgid "English (American)"
+msgstr ""
+
+#: admin/class-admin-settings.php:96
+msgid "English (Australian)"
+msgstr ""
+
+#: admin/class-admin-settings.php:97
+msgid "English (Great Britain)"
+msgstr ""
+
+#: admin/class-admin-settings.php:98
+msgid "French"
+msgstr ""
+
+#: admin/class-admin-settings.php:99
+msgid "German"
+msgstr ""
+
+#: admin/class-admin-settings.php:100
+msgid "Swiss German"
+msgstr ""
+
+#: admin/class-admin-settings.php:101
+msgid "Italian"
+msgstr ""
+
+#: admin/class-admin-settings.php:102
+msgid "Spanish"
+msgstr ""
+
+#: admin/class-admin-settings.php:103
+msgid "Portuguese"
+msgstr ""
+
+#: admin/class-admin-settings.php:104
+msgid "Chinese"
+msgstr ""
+
+#: admin/class-admin-settings.php:105
+msgid "Norwegian"
+msgstr ""
+
+#: admin/class-admin-settings.php:106
+msgid "Danish"
+msgstr ""
+
+#: admin/class-admin-settings.php:112
+msgid "Currency"
+msgstr ""
+
+#: admin/class-admin-settings.php:116
+msgid "&#36; - U.S. Dollar"
+msgstr ""
+
+#: admin/class-admin-settings.php:117
+msgid "A&#36; - Australian Dollar"
+msgstr ""
+
+#: admin/class-admin-settings.php:118
+msgid "R&#36; - Brazilian Real"
+msgstr ""
+
+#: admin/class-admin-settings.php:119
+msgid "C&#36; - Canadaian Dollar"
+msgstr ""
+
+#: admin/class-admin-settings.php:120
+msgid "&#75;&#269; - Czech Koruna"
+msgstr ""
+
+#: admin/class-admin-settings.php:121
+msgid "&#107;&#114; - Danish Krone"
+msgstr ""
+
+#: admin/class-admin-settings.php:122
+msgid "&#8364; - Euro"
+msgstr ""
+
+#: admin/class-admin-settings.php:123
+msgid "HK&#36; - Hong Kong Dollar"
+msgstr ""
+
+#: admin/class-admin-settings.php:124
+msgid "&#70;&#116; - Hungarian Forint"
+msgstr ""
+
+#: admin/class-admin-settings.php:125
+msgid "&#8362; - Israeli New Sheqel"
+msgstr ""
+
+#: admin/class-admin-settings.php:126
+msgid "&#165; - Japanese Yen"
+msgstr ""
+
+#: admin/class-admin-settings.php:127
+msgid "&#82;&#77; - Malaysian Ringgit"
+msgstr ""
+
+#: admin/class-admin-settings.php:128
+msgid "&#36; - Mexican Peso"
+msgstr ""
+
+#: admin/class-admin-settings.php:129
+msgid "&#107;&#114; - Norwegian Krone"
+msgstr ""
+
+#: admin/class-admin-settings.php:130
+msgid "NZ&#36; - New Zealand Dollar"
+msgstr ""
+
+#: admin/class-admin-settings.php:131
+msgid "&#80;&#104;&#11; - Philippine Peso"
+msgstr ""
+
+#: admin/class-admin-settings.php:132
+msgid "&#122;&#322; - Polish Zloty"
+msgstr ""
+
+#: admin/class-admin-settings.php:133
+msgid "&#163; - Pound Sterling"
+msgstr ""
+
+#: admin/class-admin-settings.php:134
+msgid "RUB - Russian Ruble"
+msgstr ""
+
+#: admin/class-admin-settings.php:135
+msgid "S&#36; - Singapore Dollar"
+msgstr ""
+
+#: admin/class-admin-settings.php:136
+msgid "&#107;&#114; - Swedish Krona"
+msgstr ""
+
+#: admin/class-admin-settings.php:137
+msgid "&#67;&#72;&#70; - Swiss Franc"
+msgstr ""
+
+#: admin/class-admin-settings.php:138
+msgid "NT&#36; - Taiwan New Dollar"
+msgstr ""
+
+#: admin/class-admin-settings.php:139
+msgid "&#3647; - Thai Baht"
+msgstr ""
+
+#: admin/class-admin-settings.php:140
+msgid "&#8378; - Turkish Lira"
+msgstr ""
+
+#: admin/class-admin-settings.php:146
+msgid "Shipping Address"
+msgstr ""
+
+#: admin/class-admin-settings.php:152
+msgid "Collect Shipping Address."
+msgstr ""
+
+#: admin/class-admin-settings.php:159
+msgid "Billing Info"
+msgstr ""
+
+#: admin/class-admin-settings.php:165
+msgid "Pre-populate Billing Info."
+msgstr ""
+
+#: admin/class-admin-settings.php:175
+msgid "Name Field"
+msgstr ""
+
+#: admin/class-admin-settings.php:190
+msgid "No Name Field Found"
+msgstr ""
+
+#: admin/class-admin-settings.php:197
+msgid "Address Field"
+msgstr ""
+
+#: admin/class-admin-settings.php:212
+msgid "No Address Field Found"
+msgstr ""
+
+#: admin/class-admin-settings.php:220
+msgid "Email Field"
+msgstr ""
+
+#: admin/class-admin-settings.php:235
+msgid "No Email Field Found"
+msgstr ""
+
+#: admin/class-admin-settings.php:244
+msgid "Recurring Billing"
+msgstr ""
+
+#: admin/class-admin-settings.php:250
+msgid "Setup Recurring Billing."
+msgstr ""
+
+#: admin/class-admin-settings.php:260
+msgid "Request Payment Every"
+msgstr ""
+
+#: admin/class-admin-settings.php:276
+msgid "Day(s)"
+msgstr ""
+
+#: admin/class-admin-settings.php:277
+msgid "Week(s)"
+msgstr ""
+
+#: admin/class-admin-settings.php:278
+msgid "Month(s)"
+msgstr ""
+
+#: admin/class-admin-settings.php:279
+msgid "Year(s)"
+msgstr ""
+
+#: admin/class-admin-settings.php:284
+msgid "Description"
+msgstr ""
+
+#: admin/class-admin-settings.php:293
+msgid "Return URL"
+msgstr ""
+
+#: admin/class-admin-settings.php:297
+msgid "The URL to which PayPal redirects buyers' browser after they complete their payments. If empty, PayPal redirects the browser to a PayPal webpage."
+msgstr ""
+
+#: admin/class-admin-settings.php:302
+msgid "Cancel Return URL"
+msgstr ""
+
+#: admin/class-admin-settings.php:306
+msgid "A URL to which PayPal redirects the buyers' browsers if they cancel checkout before completing their payments. If empty, PayPal redirects the browser to a PayPal webpage."
+msgstr ""
+
+#: admin/class-admin-settings.php:313
+msgid "Show Running Total"
+msgstr ""
+
+#: admin/class-admin-settings.php:319
+msgid "Show price amounts and total costs as user fills out form."
+msgstr ""
+
+#: admin/class-admin-settings.php:326
+msgid "Fixed Amount"
+msgstr ""
+
+#: admin/class-admin-settings.php:332
+msgid "This is the base amount charged to your users on every submission. Set this to 0 if you want to charge based on choices selected on your forms."
+msgstr ""
+
+#: admin/class-admin-settings.php:337
+msgid "Assign Prices"
+msgstr ""
+
+#: admin/class-admin-settings.php:355
+msgid "Assign Prices to a Field"
+msgstr ""
+
+#: admin/class-admin-settings.php:438
+msgid "Remove"
+msgstr ""
+
+#: admin/class-admin-settings.php:441
+msgid "Amount Based on User Input"
+msgstr ""
+
+#: public/class-payments.php:71
+msgid "Total"
+msgstr ""
+
+#: public/class-payments.php:218
+msgid "(no item name)"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "VFB Pro - Payments"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://vfbpro.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An add-on for VFB Pro that collects payments."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Matthew Muro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://matthewmuro.com"
+msgstr ""
