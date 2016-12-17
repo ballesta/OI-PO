@@ -30,6 +30,7 @@ class OI_droits_acces
 	{
 		global $post; 
 		//OI::affiche($post,'Post');
+		$nom_page=$post->post_name; // Remonté
 		$reserve_aux_membres = get_field('reserve_aux_membres');
 		//OI::affiche($reserve_aux_membres,'reserve_aux_membres');
 		if ($reserve_aux_membres)
@@ -38,16 +39,14 @@ class OI_droits_acces
 			                 ['administrator',
 							  'author',
 							  'membre',
-				              'membre-bureau'							 ],
+				              'membre-bureau' // Suite au bug découvert par PO
+			                 ],
 							 "Informations réservées aux membres de l'OI",
 							 "Membre adhérent",
 							 '/acces-restreint',
 							 $nom_page);
 		}
 		$uri = $_SERVER['REQUEST_URI'];
-		
-		$nom_page=$post->post_name;
-		
         //echo $nom_page, '<hr>'; exit();
         //echo $uri, '<hr>';
 		if (isset($_SESSION['Page']))
@@ -84,7 +83,8 @@ class OI_droits_acces
 				//	  	lui demander de se connecter ou de s'enregistrer 
 				// 		s'il n'a pas encore de compte chez nous
 				wp_redirect( home_url() 
-				           . "/connexion-ou-inscription?original-page=$nom_page" ); 
+				           . "/connexion-ou-inscription?original-page=$nom_page"
+						   );
 				exit; 
 			endif;	
 			break;
